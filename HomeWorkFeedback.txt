@@ -1,0 +1,15 @@
+Very well done!
+
+Q1: Ok
+Q2: challenge
+    a. finish it in a for loop
+    b. finish it in while loop
+    c. read the following and get the sum 
+	#start
+	import numpy as np
+	np.random.seed(123)
+	lotteries=np.random.randint(101, size=100)
+	#end
+Q3: challenge.
+     a. can you create a link so that users for the page can send email to ask you questions?
+
