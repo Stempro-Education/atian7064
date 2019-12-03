@@ -1,6 +1,6 @@
-a = 0
-number = []
-while a < 50:
-    a = a + 1
-    number.append(a)
-print(sum(number))
+sum = 0
+number = 1 
+while number < 51:
+     sum = sum + number
+     number = number + 1
+print(sum)

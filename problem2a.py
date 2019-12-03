@@ -1,3 +1,5 @@
-numbers = [range(1,51)]
-for count in numbers:
-    print(sum(count))
+numbers = range(1,51)
+sum = 0
+for number in numbers:
+    sum = sum + number 
+print(sum)
