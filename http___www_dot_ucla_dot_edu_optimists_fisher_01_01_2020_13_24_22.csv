@@ -1,0 +1,115 @@
+url	parent	ps	ns	text
+http://www.ucla.edu/optimists/fisher	a			Skip to Navigation
+http://www.ucla.edu/optimists/fisher	a			Skip to Main Content
+http://www.ucla.edu/optimists/fisher	a			Skip to Footer menu
+http://www.ucla.edu/optimists/fisher	a			Stories
+http://www.ucla.edu/optimists/fisher	a			Videos
+http://www.ucla.edu/optimists/fisher	a			Optimists
+http://www.ucla.edu/optimists/fisher	a			Stay Informed
+http://www.ucla.edu/optimists/fisher	h4			         Thank you!       
+http://www.ucla.edu/optimists/fisher	p			           You have been added to our monthly Newsletter         
+http://www.ucla.edu/optimists/fisher	h4			           Stay Informed         
+http://www.ucla.edu/optimists/fisher	p			             Sign up to receive engaging, educational and inspirational content in your inbox.           
+http://www.ucla.edu/optimists/fisher	span			Email
+http://www.ucla.edu/optimists/fisher	span			               Email             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Email') }}
+http://www.ucla.edu/optimists/fisher	span			First Name
+http://www.ucla.edu/optimists/fisher	span			               First Name             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('First-Name') }}
+http://www.ucla.edu/optimists/fisher	span			Last Name
+http://www.ucla.edu/optimists/fisher	span			               Last Name             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Last-Name') }}
+http://www.ucla.edu/optimists/fisher	span			Email
+http://www.ucla.edu/optimists/fisher	span			               Email             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Email') }}
+http://www.ucla.edu/optimists/fisher	span			First Name
+http://www.ucla.edu/optimists/fisher	span			               First Name             
+http://www.ucla.edu/optimists/fisher	span			Last Name
+http://www.ucla.edu/optimists/fisher	span			               Last Name             
+http://www.ucla.edu/optimists/fisher	label			I am a Bruin
+http://www.ucla.edu/optimists/fisher	label			I am not a Bruin
+http://www.ucla.edu/optimists/fisher	span			Required field missing.
+http://www.ucla.edu/optimists/fisher	span			Year Graduated (YYYY)
+http://www.ucla.edu/optimists/fisher	span			               Year Graduated (YYYY)             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Grad-Year') }}
+http://www.ucla.edu/optimists/fisher	span			Degree Achieved
+http://www.ucla.edu/optimists/fisher	span			               Degree Achieved             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Degree') }}
+http://www.ucla.edu/optimists/fisher	span			Last name at graduation
+http://www.ucla.edu/optimists/fisher	span			               Last name at graduation             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Grad-Last-Name') }}
+http://www.ucla.edu/optimists/fisher	p			We value your privacy. UCLA will not share your information with any outside or third parties.
+http://www.ucla.edu/optimists/fisher	span			Anna Lee Fisher
+http://www.ucla.edu/optimists/fisher	p			Class of 1971, MD 1976, MS 1987
+http://www.ucla.edu/optimists/fisher	h2			                         Some working moms love their commute.                       
+http://www.ucla.edu/optimists/fisher	p			Chemist, medical doctor and NASA astronaut, Anna Lee Fisher became the first mother in space when she embarked on mission STS-51A on the space shuttle Discovery. Prior to orbiting the earth, Fisher came to a place that was a hub for pushing into new frontiers-UCLA. Here she earned her BS and a doctor of medicine degree. After logging 192 spaceflight hours, Fisher returned to UCLA to get her MS in chemistry. Since then, Fisher has taken time away to raise a family, returned to NASA to serve as Branch Chief of Operations, Training and Programs in the Astronaut Office, and is currently awaiting an assignment as a crewmember aboard the International Space Station.
+http://www.ucla.edu/optimists/fisher	h3			                         What new heights will you reach?                       
+http://www.ucla.edu/optimists/fisher	a			                         Get involved with ucla                       
+http://www.ucla.edu/optimists/fisher	div			                     Share:                   
+http://www.ucla.edu/optimists/fisher	span	div		Facebook
+http://www.ucla.edu/optimists/fisher	span	div		Twitter
+http://www.ucla.edu/optimists/fisher	span	div		LinkedIn
+http://www.ucla.edu/optimists/fisher	a			             See All Optimists           
+http://www.ucla.edu/optimists/fisher	h3			Stay Informed
+http://www.ucla.edu/optimists/fisher	p			Sign up to receive engaging, educational and inspirational content in your inbox.
+http://www.ucla.edu/optimists/fisher	label			Email:
+http://www.ucla.edu/optimists/fisher	h4			         Thank you!       
+http://www.ucla.edu/optimists/fisher	p			           You have been added to our monthly Newsletter         
+http://www.ucla.edu/optimists/fisher	h4			           Stay Informed         
+http://www.ucla.edu/optimists/fisher	p			             Sign up to receive engaging, educational and inspirational content in your inbox.           
+http://www.ucla.edu/optimists/fisher	span			Email
+http://www.ucla.edu/optimists/fisher	span			               Email             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Email') }}
+http://www.ucla.edu/optimists/fisher	span			First Name
+http://www.ucla.edu/optimists/fisher	span			               First Name             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('First-Name') }}
+http://www.ucla.edu/optimists/fisher	span			Last Name
+http://www.ucla.edu/optimists/fisher	span			               Last Name             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Last-Name') }}
+http://www.ucla.edu/optimists/fisher	span			Email
+http://www.ucla.edu/optimists/fisher	span			               Email             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Email') }}
+http://www.ucla.edu/optimists/fisher	span			First Name
+http://www.ucla.edu/optimists/fisher	span			               First Name             
+http://www.ucla.edu/optimists/fisher	span			Last Name
+http://www.ucla.edu/optimists/fisher	span			               Last Name             
+http://www.ucla.edu/optimists/fisher	label			I am a Bruin
+http://www.ucla.edu/optimists/fisher	label			I am not a Bruin
+http://www.ucla.edu/optimists/fisher	span			Required field missing.
+http://www.ucla.edu/optimists/fisher	span			Year Graduated (YYYY)
+http://www.ucla.edu/optimists/fisher	span			               Year Graduated (YYYY)             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Grad-Year') }}
+http://www.ucla.edu/optimists/fisher	span			Degree Achieved
+http://www.ucla.edu/optimists/fisher	span			               Degree Achieved             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Degree') }}
+http://www.ucla.edu/optimists/fisher	span			Last name at graduation
+http://www.ucla.edu/optimists/fisher	span			               Last name at graduation             
+http://www.ucla.edu/optimists/fisher	span			{{ errors.first('Grad-Last-Name') }}
+http://www.ucla.edu/optimists/fisher	p			We value your privacy. UCLA will not share your information with any outside or third parties.
+http://www.ucla.edu/optimists/fisher	span	span		Close
+http://www.ucla.edu/optimists/fisher	a			Back To Top
+http://www.ucla.edu/optimists/fisher	h3			Optimism
+http://www.ucla.edu/optimists/fisher	a			Home
+http://www.ucla.edu/optimists/fisher	a			Stories
+http://www.ucla.edu/optimists/fisher	a			Videos
+http://www.ucla.edu/optimists/fisher	a			Optimists
+http://www.ucla.edu/optimists/fisher	h3			Get Involved
+http://www.ucla.edu/optimists/fisher	a			Giving
+http://www.ucla.edu/optimists/fisher	a			Admission
+http://www.ucla.edu/optimists/fisher	a			Happenings
+http://www.ucla.edu/optimists/fisher	a			Volunteer
+http://www.ucla.edu/optimists/fisher	a			Alumni
+http://www.ucla.edu/optimists/fisher	a			Advocacy
+http://www.ucla.edu/optimists/fisher	h3			News
+http://www.ucla.edu/optimists/fisher	a			Newsroom
+http://www.ucla.edu/optimists/fisher	a			Magazine
+http://www.ucla.edu/optimists/fisher	h3			Connect with UCLA
+http://www.ucla.edu/optimists/fisher	a			Facebook
+http://www.ucla.edu/optimists/fisher	a			Twitter
+http://www.ucla.edu/optimists/fisher	a			YouTube
+http://www.ucla.edu/optimists/fisher	a			Instagram
+http://www.ucla.edu/optimists/fisher	a			Terms of Use/Privacy Policy
+http://www.ucla.edu/optimists/fisher	a			Accessibility
+http://www.ucla.edu/optimists/fisher	span		a	©2019 Regents of the 
+http://www.ucla.edu/optimists/fisher	a			University of California
+http://www.ucla.edu/optimists/fisher	span			, Los Angeles campus. All rights reserved.
