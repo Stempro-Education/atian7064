@@ -1,0 +1,253 @@
+url	parent	ps	ns	text
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	h2			Application Login
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	b			This section is for new students who are applying to LSUS for the first time.
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Enter your Email address:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Create a Password:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font			8-16 characters
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Verify Password:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Security Question:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is The Name Of Your Favorite Aunt?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is The Name Of Your Favorite Grandparent?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is The Name Of Your Favorite Pet?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is The Name Of Your Favorite Teacher?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is The Name Of Your Favorite Uncle?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is Your Dogs Name
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is Your Favorite Color?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is Your Favorite Drink?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is Your Favorite Food?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is Your Favorite Island?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Is Your Mother's Maiden Name?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			What Was Your First Car
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	option			Who Is Your Favorite Movie Or Tv Character?
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Security Answer:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	b			This section is for new students who did not complete and submit their application in a previous session.
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Enter your Email Address:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Enter your Password:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	a			here
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	b			 This section is for students who have previously applied for admission to LSUS.
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	li			Students who have previously attended LSUS who are applying for readmission/reentry; 
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	li			Students who have previously applied but did not attend; 
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	li			Undergraduate students applying to Graduate Studies; 
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	li			Dual Enrollment, Academic Excellence, visiting, or vocational students applying for regular admission. 
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Enter your Student ID:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td			         * Enter your PIN:       
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	b			Update YOUR STUDENT INFORMATION:
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	td		ul	 log on to myLSUS to update personal information.         
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	a			I know         my Student ID or SSN and PIN.
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	a			I know my Student ID or SSN,         and can answer my Security Question.
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	li		a	If you do not remember your Student ID or PIN, you may contact Information Technology Services at 318-797-5221 or file a ticket at 
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	a			https://helpdesk.lsus.edu
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	li			         to retrieve this information          
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font		br	A Member of the LSU System
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font		br	 LSUS is an Equal Opportunity Educator and Employer
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font		br	 Louisiana State University Shreveport
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font		br	  One University Place
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font		br	 Shreveport, LA 711115
+https://compass.lsus.edu/FCCSC/servlet/student.IAS130N1s	font		br	 (800) 229-5957 (318) 797-5000
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	h2			Application Selection
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	td		input	           Have you recently started an LSU Shreveport application and wish to complete it? Yes           
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	span		input	                 Is this your first time applying to or attending LSU Shreveport? Yes                 
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	font		br	A Member of the LSU System
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	font		br	 LSUS is an Equal Opportunity Educator and Employer
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	font		br	 Louisiana State University Shreveport
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	font		br	  One University Place
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	font		br	 Shreveport, LA 711115
+https://compass.lsus.edu/FCCSC/student/appselection.jsp	font		br	 (800) 229-5957 (318) 797-5000
+https://helpdesk.lsus.edu	a			             Home          
+https://helpdesk.lsus.edu	a			             Solutions          
+https://helpdesk.lsus.edu	a			New Ticket
+https://helpdesk.lsus.edu	a			Login
+https://helpdesk.lsus.edu	li		br	 Monday - Friday | 8am-4:30pm
+https://helpdesk.lsus.edu	li			1-318-797-5221
+https://helpdesk.lsus.edu	a			Home
+https://helpdesk.lsus.edu	a			                   Home                
+https://helpdesk.lsus.edu	a			                   Solutions                
+https://helpdesk.lsus.edu	a			Sign in
+https://helpdesk.lsus.edu	a			Sign up
+https://helpdesk.lsus.edu	span			     Search    
+https://helpdesk.lsus.edu	h3			Announcements
+https://helpdesk.lsus.edu	a			View All
+https://helpdesk.lsus.edu	a			Office 365 available to all Students, Faculty, and Staff!
+https://helpdesk.lsus.edu	p			 Apr 10, 2018 
+https://helpdesk.lsus.edu	h3			View Your Tickets
+https://helpdesk.lsus.edu	h5			 View all of your open tickets
+https://helpdesk.lsus.edu	div			                                       to view your requests               
+https://helpdesk.lsus.edu	h3			 Submit a Ticket 
+https://helpdesk.lsus.edu	h5			 Report an issue or ask a question
+https://helpdesk.lsus.edu	h3			 Request New Service
+https://helpdesk.lsus.edu	h5			 Raise a request for a new device or service
+https://helpdesk.lsus.edu	h3			Search for the Answer 
+https://helpdesk.lsus.edu	h5			 Find an answer to your question in our knowledgebase 
+https://helpdesk.lsus.edu	h3			Popular Solutions
+https://helpdesk.lsus.edu	a	h3		View all articles
+https://helpdesk.lsus.edu	a			How do I retrieve my student ID or password?
+https://helpdesk.lsus.edu	a			Office 365 at Louisiana State University in Shreveport
+https://helpdesk.lsus.edu	a			My student ID and password work for myLSUS but do not work for Moodle or Email.
+https://helpdesk.lsus.edu	a			How do I reset my print credit balance?
+https://helpdesk.lsus.edu	a			How do I log into Academic Works? 
+https://helpdesk.lsus.edu	a			© LSU Shreveport IT Services
+https://helpdesk.lsus.edu	div			               LSU Shreveport IT Services   
+https://helpdesk.lsus.edu	a			     1-318-797-5221    
+https://helpdesk.lsus.edu	div			                   Monday - Friday | 8am - 4:30pm   
+http://www.lsus.edu	a			Faculty & Staff
+http://www.lsus.edu	a			Athletics
+http://www.lsus.edu	a			Giving
+http://www.lsus.edu	option			 Quick Links 
+http://www.lsus.edu	option	option		myLSUS (formerly-compass)
+http://www.lsus.edu	option	option		Workday
+http://www.lsus.edu	option	option		Moodle
+http://www.lsus.edu	option	option		Noel Memorial Library
+http://www.lsus.edu	option	option		Bookstore
+http://www.lsus.edu	option	option		Student Email
+http://www.lsus.edu	option	option		Faculty and Staff Email
+http://www.lsus.edu	option	option		Financial Aid
+http://www.lsus.edu	option	option		Scholarships
+http://www.lsus.edu	option	option		Calendar
+http://www.lsus.edu	option	option		LSUS Catalogs
+http://www.lsus.edu	option	option		LSUS Directory
+http://www.lsus.edu	option	option		Transcript Request
+http://www.lsus.edu	option	option		Academic Calendar
+http://www.lsus.edu	option	option		International Admissions
+http://www.lsus.edu	option	option		Class Schedule
+http://www.lsus.edu	option	option		Financial Aid Forms
+http://www.lsus.edu	option	option		LSUS Police Department
+http://www.lsus.edu	option	option		Policies and Manuals
+http://www.lsus.edu	option	option		Title IX and Sexual Misconduct
+http://www.lsus.edu	a			Future Students
+http://www.lsus.edu	a			Current Students
+http://www.lsus.edu	a			Academics
+http://www.lsus.edu	a			Online Learning
+http://www.lsus.edu	a			Cost to Attend
+http://www.lsus.edu	a			Student Life
+http://www.lsus.edu	a			Alumni & Friends
+http://www.lsus.edu	span			Apply
+http://www.lsus.edu	span			Read More
+http://www.lsus.edu	span			Apply Now!
+http://www.lsus.edu	h4		span	News
+http://www.lsus.edu	a			More news
+http://www.lsus.edu	a	span		RSS
+http://www.lsus.edu	a			LSUS Adult Education Counselor/Advisor Training Courses Address Worldwide Need
+http://www.lsus.edu	li			The LSUS College of Education and Human Sciences announces a collaboration with Fort Polk military base to create a 24-hour series of courses in adult education counseling and advising at both the undergraduate and graduate levels for military personnel and federal employees - the first of its kind in the southeastern region of the United States.
+http://www.lsus.edu	a			Fall 2019 Students Graduating with Honors
+http://www.lsus.edu	li	li		LSU Shreveport is pleased to announce the students who have graduated this Fall with Honors.
+http://www.lsus.edu	a			LSUS Fall 2019 Graduation LiveStream
+http://www.lsus.edu	li	li		The LSUS Fall 2019 Graduation will be LiveStreamed on our LSUS Facebook page starting at 2:00 pm on 12/20/2019.http://www.facebook.com/LSUSPilots 
+http://www.lsus.edu	a			Fall 2019 Chancellor's and Dean's Lists
+http://www.lsus.edu	li	li		LSU Shreveport is pleased to announce the Fall 2019 Chancellor's List and Dean's List.
+http://www.lsus.edu	h4		span	Events
+http://www.lsus.edu	a			Calendar
+http://www.lsus.edu	a			Last day to change from audit to credit for spring 2020 semester AP1/1C
+http://www.lsus.edu	strong	h3		Wed
+http://www.lsus.edu	li			 January 15
+http://www.lsus.edu	a			Last day for 100 percent refund for spring 2020 semester AP1/1C
+http://www.lsus.edu	li	li		 January 15
+http://www.lsus.edu	a			Resume Writing
+http://www.lsus.edu	strong	h3		Fri
+http://www.lsus.edu	li	li		 January 17
+http://www.lsus.edu	a			Last day to add or change to credit for spring 2020 semester
+http://www.lsus.edu	a			Last day for 100 percent refund for spring 2020 semester
+http://www.lsus.edu	a			Last day for 60 percent refund for spring 2020 semester AP1/1C
+http://www.lsus.edu	a			Martin Luther King, Jr. Holiday - University offices closed
+http://www.lsus.edu	strong	h3		Mon
+http://www.lsus.edu	li	li		 January 20
+http://www.lsus.edu	a			Read About Us
+http://www.lsus.edu	a			Apply to LSUS
+http://www.lsus.edu	a			Request Information
+http://www.lsus.edu	a			Support the University
+http://www.lsus.edu	span		em	 Apply 
+http://www.lsus.edu	span		em	 Visit 
+http://www.lsus.edu	span		em	 Request Information 
+http://www.lsus.edu	a			Home
+http://www.lsus.edu	a			Employment
+http://www.lsus.edu	a			Accessibility
+http://www.lsus.edu	a			Privacy Policy
+http://www.lsus.edu	a			Ethics & Misconduct Reporting
+http://www.lsus.edu	p		br	Copyright © 2017. Louisiana State University Shreveport. All Rights Reserved.
+http://www.lsus.edu	p		br	LSUS is an Equal Opportunity Educator and Employer.
+http://www.lsus.edu	p		br	Louisiana State University Shreveport, One University Place, Shreveport, LA 71115 (800) 229-5957 (318) 797-5000
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Faculty & Staff
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Athletics
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Giving
+http://www.lsus.edu/lsus-50th-anniversary-site	option			 Quick Links 
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		myLSUS (formerly-compass)
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Workday
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Moodle
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Noel Memorial Library
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Bookstore
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Student Email
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Faculty and Staff Email
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Financial Aid
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Scholarships
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Calendar
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		LSUS Catalogs
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		LSUS Directory
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Transcript Request
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Academic Calendar
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		International Admissions
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Class Schedule
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Financial Aid Forms
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		LSUS Police Department
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Policies and Manuals
+http://www.lsus.edu/lsus-50th-anniversary-site	option	option		Title IX and Sexual Misconduct
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Future Students
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Current Students
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Academics
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Online Learning
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Cost to Attend
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Student Life
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Alumni & Friends
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Be Part of the Next 50 Years
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Apply Now!
+http://www.lsus.edu/lsus-50th-anniversary-site	span			50th Anniversary Video
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Watch Now!
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Chancellor Larry Clark
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Welcoming Interview
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Save the Date
+http://www.lsus.edu/lsus-50th-anniversary-site	span			View Events
+http://www.lsus.edu/lsus-50th-anniversary-site	div	div		LSUS 50th Anniversary Celebration
+http://www.lsus.edu/lsus-50th-anniversary-site	p			Welcome friends and family of LSUS to our 50th Anniversary Celebration website. This celebration marks a joyous time for LSUS, not merely because we as a campus have been here for 50 years, but that we have been able to serve and educate thousands of students who have gone on to make an important mark in society. Today, we celebrate not just our longevity as a campus, but those alums who have gone forward taking our name and being standard bearers of the education we provide. The coming year will be filled with events that we hope not only our current students will participate in, but also those who have been with us in the past and those who will join us in the future. LSUS loves our Shreveport-Bossier community and want each of you to feel welcome to come and participate in the activities and events that highlight why LSUS is your university.
+http://www.lsus.edu/lsus-50th-anniversary-site	p			Chancellor Larry Clark
+http://www.lsus.edu/lsus-50th-anniversary-site	div	div		FUN FACT - May 15, 1975: In the first graduating class of LSUS in 1975, the oldest was 53 while the youngest was 19.
+http://www.lsus.edu/lsus-50th-anniversary-site	h4		span	Events
+http://www.lsus.edu/lsus-50th-anniversary-site	a			See All Events
+http://www.lsus.edu/lsus-50th-anniversary-site	h4		span	Stories
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Read More Stories
+http://www.lsus.edu/lsus-50th-anniversary-site	a			School of R.O.C.K. Program
+http://www.lsus.edu/lsus-50th-anniversary-site	li			An afterschool program that began almost ten years ago at LSUS is still showing its positive effect on students, and the community. Dr. Kevin Jones founded the School of R.O.C.K (Reading and Organization for Cool Kids) program at Miami University in Ohio in 2005. During the program’s first year, it was called ‘Extreme Makeover in Reading’. Dr. Jones saw the impact of the program on students at Miami University, and began the program at LSUS in 2009, upon moving to Shreveport.
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Going Greek Brings Opportunity to Students
+http://www.lsus.edu/lsus-50th-anniversary-site	li	li		Greek life is a popular and important aspect on a college campus due to how much student involvement it generates. Greek life can be found on most college campuses throughout the United States. LSUS brought Greek life to campus in 1969 with the fraternity, Delta Omicron Mu, and then in 1973 came Phi Mu Fraternity for women. Since then, LSUS Greek life has grown to eight active sororities and fraternities.
+http://www.lsus.edu/lsus-50th-anniversary-site	a			The Academic Hub of LSUS
+http://www.lsus.edu/lsus-50th-anniversary-site	li	li		The library is a place where many students go to study and find information needed for research papers, projects, etc. Here at LSUS, the Noel Memorial Library offers a multitude of services for students. Each floor of the library has something to offer whether it be research material, technology or a place to get some work done.
+http://www.lsus.edu/lsus-50th-anniversary-site	a			LSUS: An Environment for Success
+http://www.lsus.edu/lsus-50th-anniversary-site	li	li		Louisiana State University-Shreveport (LSUS) offers a variety of degree programs for a diverse campus of students. It has students ranging from all ages and backgrounds. LSUS works hard to create curriculum and opportunities that prepares its students for their chosen field.
+http://www.lsus.edu/lsus-50th-anniversary-site	h4			#PilotingDreams
+http://www.lsus.edu/lsus-50th-anniversary-site	b	h4		Give us a shout out by tagging us in your tweets.
+http://www.lsus.edu/lsus-50th-anniversary-site	a	b		#PilotingDreams
+http://www.lsus.edu/lsus-50th-anniversary-site	h5			Take Part
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Go Back in Time
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		See the milestones that make LSUS
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Come Back to Campus
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		Choose from many alumni events
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Then & Now
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		Watch Us Grow
+http://www.lsus.edu/lsus-50th-anniversary-site	span			LSUS Foundation
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		Celebrating YOUR Support
+http://www.lsus.edu/lsus-50th-anniversary-site	span			Time Capsule
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		1992 into the Future
+http://www.lsus.edu/lsus-50th-anniversary-site	span			50th Anniversary
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		Watch Now
+http://www.lsus.edu/lsus-50th-anniversary-site	span			LSUS Memories
+http://www.lsus.edu/lsus-50th-anniversary-site	span	br		Every Pilot Has a Story To Tell
+http://www.lsus.edu/lsus-50th-anniversary-site	a			SHARE YOUR MEMORIES
+http://www.lsus.edu/lsus-50th-anniversary-site	a			VIEW OTHERS' MEMORIES
+http://www.lsus.edu/lsus-50th-anniversary-site	span		em	 Apply 
+http://www.lsus.edu/lsus-50th-anniversary-site	span		em	 Visit 
+http://www.lsus.edu/lsus-50th-anniversary-site	span		em	 Request Information 
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Home
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Employment
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Accessibility
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Privacy Policy
+http://www.lsus.edu/lsus-50th-anniversary-site	a			Ethics & Misconduct Reporting
+http://www.lsus.edu/lsus-50th-anniversary-site	p		br	Copyright © 2017. Louisiana State University Shreveport. All Rights Reserved.
+http://www.lsus.edu/lsus-50th-anniversary-site	p		br	LSUS is an Equal Opportunity Educator and Employer.
+http://www.lsus.edu/lsus-50th-anniversary-site	p		br	Louisiana State University Shreveport, One University Place, Shreveport, LA 71115 (800) 229-5957 (318) 797-5000

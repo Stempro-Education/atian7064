@@ -1,0 +1,2830 @@
+url	parent	ps	ns	text
+https://secure.pmc.edu/apply	h3			Pine Manor College Application
+https://secure.pmc.edu/apply	h3			Step 1 of 13         
+https://secure.pmc.edu/apply	label		span	Last Name:
+https://secure.pmc.edu/apply	span			 Required
+https://secure.pmc.edu/apply	label		span	First Name:
+https://secure.pmc.edu/apply	label		span	Middle Name:
+https://secure.pmc.edu/apply	h2			Personal Information
+https://secure.pmc.edu/apply	label			Preferred name (nickname)
+https://secure.pmc.edu/apply	legend		span	Gender
+https://secure.pmc.edu/apply	label	input		Female
+https://secure.pmc.edu/apply	label	input		Male
+https://secure.pmc.edu/apply	label	input		Transfemale
+https://secure.pmc.edu/apply	label	input		Transmale
+https://secure.pmc.edu/apply	label	input		Transgender
+https://secure.pmc.edu/apply	label	input		GenderQueer
+https://secure.pmc.edu/apply	label	input		Non-Binary
+https://secure.pmc.edu/apply	label	input		Choose not to answer
+https://secure.pmc.edu/apply	label	input		Choose to self-identify
+https://secure.pmc.edu/apply	label			If you chose self-identification, please include it here:
+https://secure.pmc.edu/apply	label			If you would like the opportunity, we invite you to share more about your gender identity below
+https://secure.pmc.edu/apply	legend		span	Are you applying as a First Year Student or a Transfer Student?
+https://secure.pmc.edu/apply	label			First Year Student
+https://secure.pmc.edu/apply	label			Transfer Student
+https://secure.pmc.edu/apply	label		span	Date of birth 
+https://secure.pmc.edu/apply	span			 - must be mm/dd/yyyy format
+https://secure.pmc.edu/apply	span			Date Format: MM slash DD slash YYYY
+https://secure.pmc.edu/apply	h2			Address
+https://secure.pmc.edu/apply	legend		span	Permanent home address
+https://secure.pmc.edu/apply	label			Street Address
+https://secure.pmc.edu/apply	label			Address Line 2
+https://secure.pmc.edu/apply	label			City
+https://secure.pmc.edu/apply	label			State / Province / Region
+https://secure.pmc.edu/apply	label			ZIP / Postal Code
+https://secure.pmc.edu/apply	option	option		Afghanistan
+https://secure.pmc.edu/apply	option	option		Åland Islands
+https://secure.pmc.edu/apply	option	option		Albania
+https://secure.pmc.edu/apply	option	option		Algeria
+https://secure.pmc.edu/apply	option	option		American Samoa
+https://secure.pmc.edu/apply	option	option		Andorra
+https://secure.pmc.edu/apply	option	option		Angola
+https://secure.pmc.edu/apply	option	option		Anguilla
+https://secure.pmc.edu/apply	option	option		Antarctica
+https://secure.pmc.edu/apply	option	option		Antigua and Barbuda
+https://secure.pmc.edu/apply	option	option		Argentina
+https://secure.pmc.edu/apply	option	option		Armenia
+https://secure.pmc.edu/apply	option	option		Aruba
+https://secure.pmc.edu/apply	option	option		Australia
+https://secure.pmc.edu/apply	option	option		Austria
+https://secure.pmc.edu/apply	option	option		Azerbaijan
+https://secure.pmc.edu/apply	option	option		Bahamas
+https://secure.pmc.edu/apply	option	option		Bahrain
+https://secure.pmc.edu/apply	option	option		Bangladesh
+https://secure.pmc.edu/apply	option	option		Barbados
+https://secure.pmc.edu/apply	option	option		Belarus
+https://secure.pmc.edu/apply	option	option		Belgium
+https://secure.pmc.edu/apply	option	option		Belize
+https://secure.pmc.edu/apply	option	option		Benin
+https://secure.pmc.edu/apply	option	option		Bermuda
+https://secure.pmc.edu/apply	option	option		Bhutan
+https://secure.pmc.edu/apply	option	option		Bolivia
+https://secure.pmc.edu/apply	option	option		Bonaire, Sint Eustatius and Saba
+https://secure.pmc.edu/apply	option	option		Bosnia and Herzegovina
+https://secure.pmc.edu/apply	option	option		Botswana
+https://secure.pmc.edu/apply	option	option		Bouvet Island
+https://secure.pmc.edu/apply	option	option		Brazil
+https://secure.pmc.edu/apply	option	option		British Indian Ocean Territory
+https://secure.pmc.edu/apply	option	option		Brunei Darussalam
+https://secure.pmc.edu/apply	option	option		Bulgaria
+https://secure.pmc.edu/apply	option	option		Burkina Faso
+https://secure.pmc.edu/apply	option	option		Burundi
+https://secure.pmc.edu/apply	option	option		Cambodia
+https://secure.pmc.edu/apply	option	option		Cameroon
+https://secure.pmc.edu/apply	option	option		Canada
+https://secure.pmc.edu/apply	option	option		Cape Verde
+https://secure.pmc.edu/apply	option	option		Cayman Islands
+https://secure.pmc.edu/apply	option	option		Central African Republic
+https://secure.pmc.edu/apply	option	option		Chad
+https://secure.pmc.edu/apply	option	option		Chile
+https://secure.pmc.edu/apply	option	option		China
+https://secure.pmc.edu/apply	option	option		Christmas Island
+https://secure.pmc.edu/apply	option	option		Cocos Islands
+https://secure.pmc.edu/apply	option	option		Colombia
+https://secure.pmc.edu/apply	option	option		Comoros
+https://secure.pmc.edu/apply	option	option		Congo, Democratic Republic of the
+https://secure.pmc.edu/apply	option	option		Congo, Republic of the
+https://secure.pmc.edu/apply	option	option		Cook Islands
+https://secure.pmc.edu/apply	option	option		Costa Rica
+https://secure.pmc.edu/apply	option	option		Côte d'Ivoire
+https://secure.pmc.edu/apply	option	option		Croatia
+https://secure.pmc.edu/apply	option	option		Cuba
+https://secure.pmc.edu/apply	option	option		Curaçao
+https://secure.pmc.edu/apply	option	option		Cyprus
+https://secure.pmc.edu/apply	option	option		Czech Republic
+https://secure.pmc.edu/apply	option	option		Denmark
+https://secure.pmc.edu/apply	option	option		Djibouti
+https://secure.pmc.edu/apply	option	option		Dominica
+https://secure.pmc.edu/apply	option	option		Dominican Republic
+https://secure.pmc.edu/apply	option	option		Ecuador
+https://secure.pmc.edu/apply	option	option		Egypt
+https://secure.pmc.edu/apply	option	option		El Salvador
+https://secure.pmc.edu/apply	option	option		Equatorial Guinea
+https://secure.pmc.edu/apply	option	option		Eritrea
+https://secure.pmc.edu/apply	option	option		Estonia
+https://secure.pmc.edu/apply	option	option		Eswatini (Swaziland)
+https://secure.pmc.edu/apply	option	option		Ethiopia
+https://secure.pmc.edu/apply	option	option		Falkland Islands
+https://secure.pmc.edu/apply	option	option		Faroe Islands
+https://secure.pmc.edu/apply	option	option		Fiji
+https://secure.pmc.edu/apply	option	option		Finland
+https://secure.pmc.edu/apply	option	option		France
+https://secure.pmc.edu/apply	option	option		French Guiana
+https://secure.pmc.edu/apply	option	option		French Polynesia
+https://secure.pmc.edu/apply	option	option		French Southern Territories
+https://secure.pmc.edu/apply	option	option		Gabon
+https://secure.pmc.edu/apply	option	option		Gambia
+https://secure.pmc.edu/apply	option	option		Georgia
+https://secure.pmc.edu/apply	option	option		Germany
+https://secure.pmc.edu/apply	option	option		Ghana
+https://secure.pmc.edu/apply	option	option		Gibraltar
+https://secure.pmc.edu/apply	option	option		Greece
+https://secure.pmc.edu/apply	option	option		Greenland
+https://secure.pmc.edu/apply	option	option		Grenada
+https://secure.pmc.edu/apply	option	option		Guadeloupe
+https://secure.pmc.edu/apply	option	option		Guam
+https://secure.pmc.edu/apply	option	option		Guatemala
+https://secure.pmc.edu/apply	option	option		Guernsey
+https://secure.pmc.edu/apply	option	option		Guinea
+https://secure.pmc.edu/apply	option	option		Guinea-Bissau
+https://secure.pmc.edu/apply	option	option		Guyana
+https://secure.pmc.edu/apply	option	option		Haiti
+https://secure.pmc.edu/apply	option	option		Heard and McDonald Islands
+https://secure.pmc.edu/apply	option	option		Holy See
+https://secure.pmc.edu/apply	option	option		Honduras
+https://secure.pmc.edu/apply	option	option		Hong Kong
+https://secure.pmc.edu/apply	option	option		Hungary
+https://secure.pmc.edu/apply	option	option		Iceland
+https://secure.pmc.edu/apply	option	option		India
+https://secure.pmc.edu/apply	option	option		Indonesia
+https://secure.pmc.edu/apply	option	option		Iran
+https://secure.pmc.edu/apply	option	option		Iraq
+https://secure.pmc.edu/apply	option	option		Ireland
+https://secure.pmc.edu/apply	option	option		Isle of Man
+https://secure.pmc.edu/apply	option	option		Israel
+https://secure.pmc.edu/apply	option	option		Italy
+https://secure.pmc.edu/apply	option	option		Jamaica
+https://secure.pmc.edu/apply	option	option		Japan
+https://secure.pmc.edu/apply	option	option		Jersey
+https://secure.pmc.edu/apply	option	option		Jordan
+https://secure.pmc.edu/apply	option	option		Kazakhstan
+https://secure.pmc.edu/apply	option	option		Kenya
+https://secure.pmc.edu/apply	option	option		Kiribati
+https://secure.pmc.edu/apply	option	option		Kuwait
+https://secure.pmc.edu/apply	option	option		Kyrgyzstan
+https://secure.pmc.edu/apply	option	option		Lao People's Democratic Republic
+https://secure.pmc.edu/apply	option	option		Latvia
+https://secure.pmc.edu/apply	option	option		Lebanon
+https://secure.pmc.edu/apply	option	option		Lesotho
+https://secure.pmc.edu/apply	option	option		Liberia
+https://secure.pmc.edu/apply	option	option		Libya
+https://secure.pmc.edu/apply	option	option		Liechtenstein
+https://secure.pmc.edu/apply	option	option		Lithuania
+https://secure.pmc.edu/apply	option	option		Luxembourg
+https://secure.pmc.edu/apply	option	option		Macau
+https://secure.pmc.edu/apply	option	option		Macedonia
+https://secure.pmc.edu/apply	option	option		Madagascar
+https://secure.pmc.edu/apply	option	option		Malawi
+https://secure.pmc.edu/apply	option	option		Malaysia
+https://secure.pmc.edu/apply	option	option		Maldives
+https://secure.pmc.edu/apply	option	option		Mali
+https://secure.pmc.edu/apply	option	option		Malta
+https://secure.pmc.edu/apply	option	option		Marshall Islands
+https://secure.pmc.edu/apply	option	option		Martinique
+https://secure.pmc.edu/apply	option	option		Mauritania
+https://secure.pmc.edu/apply	option	option		Mauritius
+https://secure.pmc.edu/apply	option	option		Mayotte
+https://secure.pmc.edu/apply	option	option		Mexico
+https://secure.pmc.edu/apply	option	option		Micronesia
+https://secure.pmc.edu/apply	option	option		Moldova
+https://secure.pmc.edu/apply	option	option		Monaco
+https://secure.pmc.edu/apply	option	option		Mongolia
+https://secure.pmc.edu/apply	option	option		Montenegro
+https://secure.pmc.edu/apply	option	option		Montserrat
+https://secure.pmc.edu/apply	option	option		Morocco
+https://secure.pmc.edu/apply	option	option		Mozambique
+https://secure.pmc.edu/apply	option	option		Myanmar
+https://secure.pmc.edu/apply	option	option		Namibia
+https://secure.pmc.edu/apply	option	option		Nauru
+https://secure.pmc.edu/apply	option	option		Nepal
+https://secure.pmc.edu/apply	option	option		Netherlands
+https://secure.pmc.edu/apply	option	option		New Caledonia
+https://secure.pmc.edu/apply	option	option		New Zealand
+https://secure.pmc.edu/apply	option	option		Nicaragua
+https://secure.pmc.edu/apply	option	option		Niger
+https://secure.pmc.edu/apply	option	option		Nigeria
+https://secure.pmc.edu/apply	option	option		Niue
+https://secure.pmc.edu/apply	option	option		Norfolk Island
+https://secure.pmc.edu/apply	option	option		North Korea
+https://secure.pmc.edu/apply	option	option		Northern Mariana Islands
+https://secure.pmc.edu/apply	option	option		Norway
+https://secure.pmc.edu/apply	option	option		Oman
+https://secure.pmc.edu/apply	option	option		Pakistan
+https://secure.pmc.edu/apply	option	option		Palau
+https://secure.pmc.edu/apply	option	option		Palestine, State of
+https://secure.pmc.edu/apply	option	option		Panama
+https://secure.pmc.edu/apply	option	option		Papua New Guinea
+https://secure.pmc.edu/apply	option	option		Paraguay
+https://secure.pmc.edu/apply	option	option		Peru
+https://secure.pmc.edu/apply	option	option		Philippines
+https://secure.pmc.edu/apply	option	option		Pitcairn
+https://secure.pmc.edu/apply	option	option		Poland
+https://secure.pmc.edu/apply	option	option		Portugal
+https://secure.pmc.edu/apply	option	option		Puerto Rico
+https://secure.pmc.edu/apply	option	option		Qatar
+https://secure.pmc.edu/apply	option	option		Réunion
+https://secure.pmc.edu/apply	option	option		Romania
+https://secure.pmc.edu/apply	option	option		Russia
+https://secure.pmc.edu/apply	option	option		Rwanda
+https://secure.pmc.edu/apply	option	option		Saint Barthélemy
+https://secure.pmc.edu/apply	option	option		Saint Helena
+https://secure.pmc.edu/apply	option	option		Saint Kitts and Nevis
+https://secure.pmc.edu/apply	option	option		Saint Lucia
+https://secure.pmc.edu/apply	option	option		Saint Martin
+https://secure.pmc.edu/apply	option	option		Saint Pierre and Miquelon
+https://secure.pmc.edu/apply	option	option		Saint Vincent and the Grenadines
+https://secure.pmc.edu/apply	option	option		Samoa
+https://secure.pmc.edu/apply	option	option		San Marino
+https://secure.pmc.edu/apply	option	option		Sao Tome and Principe
+https://secure.pmc.edu/apply	option	option		Saudi Arabia
+https://secure.pmc.edu/apply	option	option		Senegal
+https://secure.pmc.edu/apply	option	option		Serbia
+https://secure.pmc.edu/apply	option	option		Seychelles
+https://secure.pmc.edu/apply	option	option		Sierra Leone
+https://secure.pmc.edu/apply	option	option		Singapore
+https://secure.pmc.edu/apply	option	option		Sint Maarten
+https://secure.pmc.edu/apply	option	option		Slovakia
+https://secure.pmc.edu/apply	option	option		Slovenia
+https://secure.pmc.edu/apply	option	option		Solomon Islands
+https://secure.pmc.edu/apply	option	option		Somalia
+https://secure.pmc.edu/apply	option	option		South Africa
+https://secure.pmc.edu/apply	option	option		South Georgia
+https://secure.pmc.edu/apply	option	option		South Korea
+https://secure.pmc.edu/apply	option	option		South Sudan
+https://secure.pmc.edu/apply	option	option		Spain
+https://secure.pmc.edu/apply	option	option		Sri Lanka
+https://secure.pmc.edu/apply	option	option		Sudan
+https://secure.pmc.edu/apply	option	option		Suriname
+https://secure.pmc.edu/apply	option	option		Svalbard and Jan Mayen Islands
+https://secure.pmc.edu/apply	option	option		Sweden
+https://secure.pmc.edu/apply	option	option		Switzerland
+https://secure.pmc.edu/apply	option	option		Syria
+https://secure.pmc.edu/apply	option	option		Taiwan
+https://secure.pmc.edu/apply	option	option		Tajikistan
+https://secure.pmc.edu/apply	option	option		Tanzania
+https://secure.pmc.edu/apply	option	option		Thailand
+https://secure.pmc.edu/apply	option	option		Timor-Leste
+https://secure.pmc.edu/apply	option	option		Togo
+https://secure.pmc.edu/apply	option	option		Tokelau
+https://secure.pmc.edu/apply	option	option		Tonga
+https://secure.pmc.edu/apply	option	option		Trinidad and Tobago
+https://secure.pmc.edu/apply	option	option		Tunisia
+https://secure.pmc.edu/apply	option	option		Turkey
+https://secure.pmc.edu/apply	option	option		Turkmenistan
+https://secure.pmc.edu/apply	option	option		Turks and Caicos Islands
+https://secure.pmc.edu/apply	option	option		Tuvalu
+https://secure.pmc.edu/apply	option	option		Uganda
+https://secure.pmc.edu/apply	option	option		Ukraine
+https://secure.pmc.edu/apply	option	option		United Arab Emirates
+https://secure.pmc.edu/apply	option	option		United Kingdom
+https://secure.pmc.edu/apply	option	option		United States
+https://secure.pmc.edu/apply	option	option		Uruguay
+https://secure.pmc.edu/apply	option	option		US Minor Outlying Islands
+https://secure.pmc.edu/apply	option	option		Uzbekistan
+https://secure.pmc.edu/apply	option	option		Vanuatu
+https://secure.pmc.edu/apply	option	option		Venezuela
+https://secure.pmc.edu/apply	option	option		Vietnam
+https://secure.pmc.edu/apply	option	option		Virgin Islands, British
+https://secure.pmc.edu/apply	option	option		Virgin Islands, U.S.
+https://secure.pmc.edu/apply	option	option		Wallis and Futuna
+https://secure.pmc.edu/apply	option	option		Western Sahara
+https://secure.pmc.edu/apply	option	option		Yemen
+https://secure.pmc.edu/apply	option	option		Zambia
+https://secure.pmc.edu/apply	option	option		Zimbabwe
+https://secure.pmc.edu/apply	label			Country
+https://secure.pmc.edu/apply	legend		span	Alternate mailing address
+https://secure.pmc.edu/apply	label	input		No alternate address
+https://secure.pmc.edu/apply	label	input		Send mail to a temporary or alternate address
+https://secure.pmc.edu/apply	label			Please include your Alternate Mailing Address, if you have one:
+https://secure.pmc.edu/apply	h2			Contact Details
+https://secure.pmc.edu/apply	label		span	Email Address
+https://secure.pmc.edu/apply	label		span	Preferred Phone Number
+https://secure.pmc.edu/apply	label			Alternate Phone Number
+https://secure.pmc.edu/apply	h2			Demographics
+https://secure.pmc.edu/apply	label			Religious preference
+https://secure.pmc.edu/apply	option			Agnostic
+https://secure.pmc.edu/apply	option	option		Anglican (Episcopal)
+https://secure.pmc.edu/apply	option	option		Atheist
+https://secure.pmc.edu/apply	option	option		Bahai
+https://secure.pmc.edu/apply	option	option		Baptist
+https://secure.pmc.edu/apply	option	option		Buddhist
+https://secure.pmc.edu/apply	option	option		Caodalist
+https://secure.pmc.edu/apply	option	option		Cheondoist
+https://secure.pmc.edu/apply	option	option		Christian Scientist
+https://secure.pmc.edu/apply	option	option		Church of Christ
+https://secure.pmc.edu/apply	option	option		Church of World Messianity
+https://secure.pmc.edu/apply	option	option		Confucianist
+https://secure.pmc.edu/apply	option	option		Congregationalist (UCC)
+https://secure.pmc.edu/apply	option	option		Disciples of Christ
+https://secure.pmc.edu/apply	option	option		Evangelical Covenant Church
+https://secure.pmc.edu/apply	option	option		Friend (Quaker)
+https://secure.pmc.edu/apply	option	option		Hindu
+https://secure.pmc.edu/apply	option	option		Jain
+https://secure.pmc.edu/apply	option	option		Jehovah's Witness
+https://secure.pmc.edu/apply	option	option		Jewish
+https://secure.pmc.edu/apply	option	option		Latter-day Saint (Mormon)
+https://secure.pmc.edu/apply	option	option		Lutheran
+https://secure.pmc.edu/apply	option	option		Mennonite
+https://secure.pmc.edu/apply	option	option		Methodist
+https://secure.pmc.edu/apply	option	option		Moravian
+https://secure.pmc.edu/apply	option	option		Muslim
+https://secure.pmc.edu/apply	option	option		Orthodox
+https://secure.pmc.edu/apply	option	option		Other Christian
+https://secure.pmc.edu/apply	option	option		Other
+https://secure.pmc.edu/apply	option	option		Pentecostal
+https://secure.pmc.edu/apply	option	option		Presbyterian
+https://secure.pmc.edu/apply	option	option		Rastafari
+https://secure.pmc.edu/apply	option	option		Reformed
+https://secure.pmc.edu/apply	option	option		Roman Catholic
+https://secure.pmc.edu/apply	option	option		Scientology
+https://secure.pmc.edu/apply	option	option		Seicho-no-le-ist
+https://secure.pmc.edu/apply	option	option		Seventh Day Adventist
+https://secure.pmc.edu/apply	option	option		Sikh
+https://secure.pmc.edu/apply	option	option		Taoist
+https://secure.pmc.edu/apply	option	option		Tenrikyoist
+https://secure.pmc.edu/apply	option	option		Unitarian Universalist (UU)
+https://secure.pmc.edu/apply	option	option		Wiccan (Pagan)
+https://secure.pmc.edu/apply	option	option		Yazidi
+https://secure.pmc.edu/apply	option	option		None
+https://secure.pmc.edu/apply	label			U.S. Armed forces status
+https://secure.pmc.edu/apply	option			None
+https://secure.pmc.edu/apply	option	option		Currently Serving
+https://secure.pmc.edu/apply	option	option		Previously Served
+https://secure.pmc.edu/apply	option	option		Current Dependent
+https://secure.pmc.edu/apply	legend			Are you Hispanic or Latino?
+https://secure.pmc.edu/apply	label	input		Yes
+https://secure.pmc.edu/apply	legend			Regardless of your answer to the prior question, please indicate how you identify yourself. (Select one or more)
+https://secure.pmc.edu/apply	label			American Indian or Alaska Native
+https://secure.pmc.edu/apply	label			Asian
+https://secure.pmc.edu/apply	label			Black or African American
+https://secure.pmc.edu/apply	label			Native Hawaiian or Other Pacific Islander
+https://secure.pmc.edu/apply	label			White
+https://secure.pmc.edu/apply	h2			Geography
+https://secure.pmc.edu/apply	legend		span	Country of birth
+https://secure.pmc.edu/apply	option			Select
+https://secure.pmc.edu/apply	label		span	City of birth
+https://secure.pmc.edu/apply	label		span	Number of years you have lived in the United States
+https://secure.pmc.edu/apply	option	option		< 1 year
+https://secure.pmc.edu/apply	option	option		> 20 Years
+https://secure.pmc.edu/apply	label		span	Number of years you have lived outside the United States
+https://secure.pmc.edu/apply	h2			Language
+https://secure.pmc.edu/apply	label		span	Number of languages you are proficient in
+https://secure.pmc.edu/apply	label		span	Primary Language
+https://secure.pmc.edu/apply	label			Secondary Language
+https://secure.pmc.edu/apply	h2			Citizenship
+https://secure.pmc.edu/apply	label		span	Select your citizenship status
+https://secure.pmc.edu/apply	option	option		U.S Citizen or U.S National
+https://secure.pmc.edu/apply	option	option		U.S Dual Citizen
+https://secure.pmc.edu/apply	option	option		U.S Permanent Resident
+https://secure.pmc.edu/apply	option	option		U.S Refugee or Asylee
+https://secure.pmc.edu/apply	option	option		Other (Non-US)
+https://secure.pmc.edu/apply	label		span	Your Country of Cititzenship
+https://secure.pmc.edu/apply	a			Save and Continue Later
+https://secure.pmc.edu/apply	h2			Household
+https://secure.pmc.edu/apply	label		span	Parents' marital status (relative to each other)
+https://secure.pmc.edu/apply	option	option		Married
+https://secure.pmc.edu/apply	option	option		Separated
+https://secure.pmc.edu/apply	option	option		Divorced
+https://secure.pmc.edu/apply	option	option		Never Married
+https://secure.pmc.edu/apply	option	option		Widowed
+https://secure.pmc.edu/apply	option	option		Civil Union/Domestic Partners
+https://secure.pmc.edu/apply	label		span	With whom do you make your permanent home?
+https://secure.pmc.edu/apply	option	option		Parent 1
+https://secure.pmc.edu/apply	option	option		Parent 2
+https://secure.pmc.edu/apply	option	option		Both Parents
+https://secure.pmc.edu/apply	option	option		Legal Guardian
+https://secure.pmc.edu/apply	option	option		Ward of the Court/State
+https://secure.pmc.edu/apply	legend			Do you have any children?
+https://secure.pmc.edu/apply	h2			Parent 1
+https://secure.pmc.edu/apply	label		span	Parent 1 type
+https://secure.pmc.edu/apply	option	option		Mother
+https://secure.pmc.edu/apply	option	option		Father
+https://secure.pmc.edu/apply	option	option		I have limited information about this parent
+https://secure.pmc.edu/apply	label			Is parent 1 living?
+https://secure.pmc.edu/apply	option	option		Yes
+https://secure.pmc.edu/apply	legend			Name
+https://secure.pmc.edu/apply	option	option		Mr.
+https://secure.pmc.edu/apply	option	option		Mrs.
+https://secure.pmc.edu/apply	option	option		Miss
+https://secure.pmc.edu/apply	option	option		Ms.
+https://secure.pmc.edu/apply	option	option		Dr.
+https://secure.pmc.edu/apply	option	option		Prof.
+https://secure.pmc.edu/apply	option	option		Rev.
+https://secure.pmc.edu/apply	label			Prefix
+https://secure.pmc.edu/apply	label			First
+https://secure.pmc.edu/apply	label			Middle
+https://secure.pmc.edu/apply	label			Last
+https://secure.pmc.edu/apply	label			Suffix
+https://secure.pmc.edu/apply	label			Former last/family/surname (if any)
+https://secure.pmc.edu/apply	legend			Country of birth
+https://secure.pmc.edu/apply	label			Occupation (former occupation, if retired or deceased)
+https://secure.pmc.edu/apply	option	option		Accountant or Actuary
+https://secure.pmc.edu/apply	option	option		Actor or Entertainer
+https://secure.pmc.edu/apply	option	option		Architect or urban planner
+https://secure.pmc.edu/apply	option	option		Artist
+https://secure.pmc.edu/apply	option	option		Business (clerical)
+https://secure.pmc.edu/apply	option	option		Business executive (management, administrator)
+https://secure.pmc.edu/apply	option	option		Business Owner or proprietor
+https://secure.pmc.edu/apply	option	option		Business Salesperson or buyer
+https://secure.pmc.edu/apply	option	option		Clergy (minister, priest)
+https://secure.pmc.edu/apply	option	option		Clergy (other, religious)
+https://secure.pmc.edu/apply	option	option		Clinical Psychologist
+https://secure.pmc.edu/apply	option	option		College Administrator/Staff
+https://secure.pmc.edu/apply	option	option		College Teacher
+https://secure.pmc.edu/apply	option	option		Computer Programmer or Analyst
+https://secure.pmc.edu/apply	option	option		Conservationist or Forester
+https://secure.pmc.edu/apply	option	option		Dentist including orthodontist)
+https://secure.pmc.edu/apply	option	option		Dietitian or Nutritionist
+https://secure.pmc.edu/apply	option	option		Engineer
+https://secure.pmc.edu/apply	option	option		Farmer or Rancher
+https://secure.pmc.edu/apply	option	option		Foreign Service Worker (including diplomat)
+https://secure.pmc.edu/apply	option	option		Homemaker (Fulltime)
+https://secure.pmc.edu/apply	option	option		Interior Decorator (including designer)
+https://secure.pmc.edu/apply	option	option		Lab Technician or Hygienist
+https://secure.pmc.edu/apply	option	option		Laborer
+https://secure.pmc.edu/apply	option	option		Law Enforcement Officer
+https://secure.pmc.edu/apply	option	option		Lawyer (Attorney) or Judge
+https://secure.pmc.edu/apply	option	option		Military Service (Career)
+https://secure.pmc.edu/apply	option	option		Musician (Performer, Composer)
+https://secure.pmc.edu/apply	option	option		Nurse
+https://secure.pmc.edu/apply	option	option		Optometrist
+https://secure.pmc.edu/apply	option	option		Pharmacist
+https://secure.pmc.edu/apply	option	option		Physician
+https://secure.pmc.edu/apply	option	option		Policymaker/Government
+https://secure.pmc.edu/apply	option	option		School Counselor
+https://secure.pmc.edu/apply	option	option		School Principal or Superintendent
+https://secure.pmc.edu/apply	option	option		Scientific Researcher
+https://secure.pmc.edu/apply	option	option		Skilled Trades
+https://secure.pmc.edu/apply	option	option		Social, Welfare, or Recreation Worker
+https://secure.pmc.edu/apply	option	option		Teacher or Administrator(Elementary)
+https://secure.pmc.edu/apply	option	option		Teacher or Administrator (Secondary)
+https://secure.pmc.edu/apply	option	option		Therapist (Physical, occupational, speech)
+https://secure.pmc.edu/apply	option	option		Veterinarian
+https://secure.pmc.edu/apply	option	option		Writer or Journalist
+https://secure.pmc.edu/apply	label			Education level
+https://secure.pmc.edu/apply	option	option		Some grade/primary school
+https://secure.pmc.edu/apply	option	option		Completed grade/primary school
+https://secure.pmc.edu/apply	option	option		Some high/secondary school
+https://secure.pmc.edu/apply	option	option		Graduated from high/secondary school (or equivalent)
+https://secure.pmc.edu/apply	option	option		Some trade school or community college
+https://secure.pmc.edu/apply	option	option		Some college/university
+https://secure.pmc.edu/apply	option	option		Graduated from college/university
+https://secure.pmc.edu/apply	option	option		Graduate school
+https://secure.pmc.edu/apply	option	option		Master's Degree
+https://secure.pmc.edu/apply	option	option		Doctorate
+https://secure.pmc.edu/apply	h2			Parent 2
+https://secure.pmc.edu/apply	label		span	Parent 2 type
+https://secure.pmc.edu/apply	option	option		I do not have another parent to list
+https://secure.pmc.edu/apply	label			Is parent 2 living?
+https://secure.pmc.edu/apply	h2			Sibling
+https://secure.pmc.edu/apply	label		span	Please specify number of siblings you have
+https://secure.pmc.edu/apply	h2			Current or Most Recent Secondary School
+https://secure.pmc.edu/apply	label		span	Name your current or most recent secondary school (High School)
+https://secure.pmc.edu/apply	label		span	High School City:
+https://secure.pmc.edu/apply	label		span	High School State:
+https://secure.pmc.edu/apply	legend		span	Did or will you graduate from this school?
+https://secure.pmc.edu/apply	label		span	Date of Graduation
+https://secure.pmc.edu/apply	option			Month
+https://secure.pmc.edu/apply	option			Day
+https://secure.pmc.edu/apply	option			Year
+https://secure.pmc.edu/apply	option	option		2021
+https://secure.pmc.edu/apply	option	option		2020
+https://secure.pmc.edu/apply	option	option		2019
+https://secure.pmc.edu/apply	option	option		2018
+https://secure.pmc.edu/apply	option	option		2017
+https://secure.pmc.edu/apply	option	option		2016
+https://secure.pmc.edu/apply	option	option		2015
+https://secure.pmc.edu/apply	option	option		2014
+https://secure.pmc.edu/apply	option	option		2013
+https://secure.pmc.edu/apply	option	option		2012
+https://secure.pmc.edu/apply	option	option		2011
+https://secure.pmc.edu/apply	option	option		2010
+https://secure.pmc.edu/apply	option	option		2009
+https://secure.pmc.edu/apply	option	option		2008
+https://secure.pmc.edu/apply	option	option		2007
+https://secure.pmc.edu/apply	option	option		2006
+https://secure.pmc.edu/apply	option	option		2005
+https://secure.pmc.edu/apply	option	option		2004
+https://secure.pmc.edu/apply	option	option		2003
+https://secure.pmc.edu/apply	option	option		2002
+https://secure.pmc.edu/apply	option	option		2001
+https://secure.pmc.edu/apply	option	option		2000
+https://secure.pmc.edu/apply	option	option		1999
+https://secure.pmc.edu/apply	option	option		1998
+https://secure.pmc.edu/apply	option	option		1997
+https://secure.pmc.edu/apply	option	option		1996
+https://secure.pmc.edu/apply	option	option		1995
+https://secure.pmc.edu/apply	option	option		1994
+https://secure.pmc.edu/apply	option	option		1993
+https://secure.pmc.edu/apply	option	option		1992
+https://secure.pmc.edu/apply	option	option		1991
+https://secure.pmc.edu/apply	option	option		1990
+https://secure.pmc.edu/apply	option	option		1989
+https://secure.pmc.edu/apply	option	option		1988
+https://secure.pmc.edu/apply	option	option		1987
+https://secure.pmc.edu/apply	option	option		1986
+https://secure.pmc.edu/apply	option	option		1985
+https://secure.pmc.edu/apply	option	option		1984
+https://secure.pmc.edu/apply	option	option		1983
+https://secure.pmc.edu/apply	option	option		1982
+https://secure.pmc.edu/apply	option	option		1981
+https://secure.pmc.edu/apply	option	option		1980
+https://secure.pmc.edu/apply	option	option		1979
+https://secure.pmc.edu/apply	option	option		1978
+https://secure.pmc.edu/apply	option	option		1977
+https://secure.pmc.edu/apply	option	option		1976
+https://secure.pmc.edu/apply	option	option		1975
+https://secure.pmc.edu/apply	option	option		1974
+https://secure.pmc.edu/apply	option	option		1973
+https://secure.pmc.edu/apply	option	option		1972
+https://secure.pmc.edu/apply	option	option		1971
+https://secure.pmc.edu/apply	option	option		1970
+https://secure.pmc.edu/apply	option	option		1969
+https://secure.pmc.edu/apply	option	option		1968
+https://secure.pmc.edu/apply	option	option		1967
+https://secure.pmc.edu/apply	option	option		1966
+https://secure.pmc.edu/apply	option	option		1965
+https://secure.pmc.edu/apply	option	option		1964
+https://secure.pmc.edu/apply	option	option		1963
+https://secure.pmc.edu/apply	option	option		1962
+https://secure.pmc.edu/apply	option	option		1961
+https://secure.pmc.edu/apply	option	option		1960
+https://secure.pmc.edu/apply	option	option		1959
+https://secure.pmc.edu/apply	option	option		1958
+https://secure.pmc.edu/apply	option	option		1957
+https://secure.pmc.edu/apply	option	option		1956
+https://secure.pmc.edu/apply	option	option		1955
+https://secure.pmc.edu/apply	option	option		1954
+https://secure.pmc.edu/apply	option	option		1953
+https://secure.pmc.edu/apply	option	option		1952
+https://secure.pmc.edu/apply	option	option		1951
+https://secure.pmc.edu/apply	option	option		1950
+https://secure.pmc.edu/apply	option	option		1949
+https://secure.pmc.edu/apply	option	option		1948
+https://secure.pmc.edu/apply	option	option		1947
+https://secure.pmc.edu/apply	option	option		1946
+https://secure.pmc.edu/apply	option	option		1945
+https://secure.pmc.edu/apply	option	option		1944
+https://secure.pmc.edu/apply	option	option		1943
+https://secure.pmc.edu/apply	option	option		1942
+https://secure.pmc.edu/apply	option	option		1941
+https://secure.pmc.edu/apply	option	option		1940
+https://secure.pmc.edu/apply	option	option		1939
+https://secure.pmc.edu/apply	option	option		1938
+https://secure.pmc.edu/apply	option	option		1937
+https://secure.pmc.edu/apply	option	option		1936
+https://secure.pmc.edu/apply	option	option		1935
+https://secure.pmc.edu/apply	option	option		1934
+https://secure.pmc.edu/apply	option	option		1933
+https://secure.pmc.edu/apply	option	option		1932
+https://secure.pmc.edu/apply	option	option		1931
+https://secure.pmc.edu/apply	option	option		1930
+https://secure.pmc.edu/apply	option	option		1929
+https://secure.pmc.edu/apply	option	option		1928
+https://secure.pmc.edu/apply	option	option		1927
+https://secure.pmc.edu/apply	option	option		1926
+https://secure.pmc.edu/apply	option	option		1925
+https://secure.pmc.edu/apply	option	option		1924
+https://secure.pmc.edu/apply	option	option		1923
+https://secure.pmc.edu/apply	option	option		1922
+https://secure.pmc.edu/apply	option	option		1921
+https://secure.pmc.edu/apply	option	option		1920
+https://secure.pmc.edu/apply	legend		span	Please indicate if any of these options will have affected your progression through or since secondary school. Check all that apply.
+https://secure.pmc.edu/apply	label			Did or will graduate early
+https://secure.pmc.edu/apply	label			Did or will graduate late
+https://secure.pmc.edu/apply	label			Did or will take time off
+https://secure.pmc.edu/apply	label			Did or will take gap year
+https://secure.pmc.edu/apply	label			No change in progression
+https://secure.pmc.edu/apply	legend		span	Is this a boarding school?
+https://secure.pmc.edu/apply	legend		span	Counselor's Name
+https://secure.pmc.edu/apply	label		span	Counselor's Job Title
+https://secure.pmc.edu/apply	label			Counselor's email
+https://secure.pmc.edu/apply	label			Counselor's phone
+https://secure.pmc.edu/apply	h2			Other Secondary Schools
+https://secure.pmc.edu/apply	label			If you have attended any secondary schools not listed in the previous section, please list them here:
+https://secure.pmc.edu/apply	h2			Colleges and Universities
+https://secure.pmc.edu/apply	label			If you have ever taken coursework at a college or university, please list the schools here:
+https://secure.pmc.edu/apply	h2			Grades
+https://secure.pmc.edu/apply	label			Graduating class size (approx.)
+https://secure.pmc.edu/apply	label			Class rank reporting
+https://secure.pmc.edu/apply	option	option		Exact
+https://secure.pmc.edu/apply	option	option		Decile
+https://secure.pmc.edu/apply	option	option		Quintile
+https://secure.pmc.edu/apply	option	option		Quartile
+https://secure.pmc.edu/apply	label			Cumulative GPA
+https://secure.pmc.edu/apply	label			GPA scale
+https://secure.pmc.edu/apply	option	option		100
+https://secure.pmc.edu/apply	label			GPA Weighing
+https://secure.pmc.edu/apply	option	option		Weighted
+https://secure.pmc.edu/apply	option	option		Unweighted
+https://secure.pmc.edu/apply	h2			Current or Most Recent Year Courses
+https://secure.pmc.edu/apply	label		span	Please list all courses you are taking this academic year. If you are not currently enrolled, please list courses from your most recent academic year. How many courses would you like to report?
+https://secure.pmc.edu/apply	label		span	Please select the course scheduling system your institution is using.
+https://secure.pmc.edu/apply	option	option		Semester
+https://secure.pmc.edu/apply	option	option		Trimester
+https://secure.pmc.edu/apply	option	option		Quarter
+https://secure.pmc.edu/apply	h2			Honors
+https://secure.pmc.edu/apply	label		span	If you have received any honors related to your academic achievements beginning with the ninth grade or international equivalent, please indicate number of honors. If you received more than five, please add the five most important to you.
+https://secure.pmc.edu/apply	label			Please list the academic honors you received, if applicable:
+https://secure.pmc.edu/apply	h2			Community-Based Organizations
+https://secure.pmc.edu/apply	label		span	Indicate the number of community programs or organizations that have provided you with free assistance in your application process.
+https://secure.pmc.edu/apply	label			Please include the names of the Organizations here:
+https://secure.pmc.edu/apply	h2			Future Plans
+https://secure.pmc.edu/apply	label			Career interest
+https://secure.pmc.edu/apply	option	option		Accountancy
+https://secure.pmc.edu/apply	option	option		Business (Clerical)
+https://secure.pmc.edu/apply	option	option		Business Executive (management, administrator)
+https://secure.pmc.edu/apply	option	option		Business owner or proprietor
+https://secure.pmc.edu/apply	option	option		Business salesperson or buyer
+https://secure.pmc.edu/apply	option	option		Chef
+https://secure.pmc.edu/apply	option	option		Clergy (other religious)
+https://secure.pmc.edu/apply	option	option		College administrator/Staff
+https://secure.pmc.edu/apply	option	option		College teacher
+https://secure.pmc.edu/apply	option	option		Conservationist or forester
+https://secure.pmc.edu/apply	option	option		Dentist (including orthodontist)
+https://secure.pmc.edu/apply	option	option		Dietitian or nutritionist
+https://secure.pmc.edu/apply	option	option		Farmer or rancher
+https://secure.pmc.edu/apply	option	option		Foreign service worker (including diplomat)
+https://secure.pmc.edu/apply	option	option		Homemaker (full-time)
+https://secure.pmc.edu/apply	option	option		Hospitality Management (Hotels, Restaurant)
+https://secure.pmc.edu/apply	option	option		Interior decorator (including designer)
+https://secure.pmc.edu/apply	option	option		Lab technician or hygienist
+https://secure.pmc.edu/apply	option	option		laborer
+https://secure.pmc.edu/apply	option	option		Law enforcement officer
+https://secure.pmc.edu/apply	option	option		Lawyer (attorney) or judge
+https://secure.pmc.edu/apply	option	option		Military service (career)
+https://secure.pmc.edu/apply	option	option		Musician (performer, composer)
+https://secure.pmc.edu/apply	option	option		School counselor
+https://secure.pmc.edu/apply	option	option		School principal or superintendent
+https://secure.pmc.edu/apply	option	option		Scientific researcher
+https://secure.pmc.edu/apply	option	option		Skilled trades
+https://secure.pmc.edu/apply	option	option		Social, welfare, or recreation worker
+https://secure.pmc.edu/apply	option	option		Teacher or administrator (elementary)
+https://secure.pmc.edu/apply	option	option		Teacher or administrator (secondary)
+https://secure.pmc.edu/apply	option	option		Therapist (physical, occupational, speech)
+https://secure.pmc.edu/apply	option	option		Writer or journalist
+https://secure.pmc.edu/apply	option	option		Undecided
+https://secure.pmc.edu/apply	label		span	Highest degree you intend to earn
+https://secure.pmc.edu/apply	option	option		Associate's (AA,AS)
+https://secure.pmc.edu/apply	option	option		Bachelor's (BA, BS)
+https://secure.pmc.edu/apply	option	option		Master/s (MA, MS)
+https://secure.pmc.edu/apply	option	option		Business (MBA, MAcc)
+https://secure.pmc.edu/apply	option	option		Law (JD, LLM)
+https://secure.pmc.edu/apply	option	option		Medicine (MD, DO, DVM, DDS)
+https://secure.pmc.edu/apply	option	option		Doctorate (PhD, EdD, etc)
+https://secure.pmc.edu/apply	h2			Tests Taken
+https://secure.pmc.edu/apply	div	h2		PMC does not require Standardized Test Scores (SAT or ACT) as part of the admission process, however, students whose English is not their primary language are required to provide Tofel or IELTS scores.
+https://secure.pmc.edu/apply	legend		span	Do you wish to self-report scores or future test dates for any of the following standardized tests: ACT, SAT/SAT Subject, AP, IB, PTE?
+https://secure.pmc.edu/apply	label			For International Students, please indicate which English proficiancy test you took or will be taking, the TOEFL or IELTS?
+https://secure.pmc.edu/apply	label			Please list the test names, dates, and scores
+https://secure.pmc.edu/apply	legend			International applicants: Is promotion within your educational system based upon standard leaving examinations given at the end of lower and/or senior secondary school by a state or national leaving examinations board? (Students studying in the US typically answer no to this question.)
+https://secure.pmc.edu/apply	h2			Activities
+https://secure.pmc.edu/apply	legend		span	Reporting activities can help us better understand your life outside of the classroom. Your activities may include arts, athletics, clubs, employment, personal commitments, and other pursuits. Do you have any activities that you wish to report?
+https://secure.pmc.edu/apply	label			Please describe the activities here:
+https://secure.pmc.edu/apply	h2			Personal Essay
+https://secure.pmc.edu/apply	label		span	PMC requires submission of the personal essay with your application.
+https://secure.pmc.edu/apply	label			I understand
+https://secure.pmc.edu/apply	legend			The essay demonstrates your ability to write clearly and concisely on a selected topic and helps you distinguish yourself in your own voice. What do you want the readers of your application to know about you apart from courses, grades, and test scores? Choose the option that best helps you answer that question and write an essay of no more than 650 words, using the prompt to inspire and structure your response. Remember: 650 words is your limit, not your goal. Use the full range if you need it, but don't feel obligated to do so. (The application won't accept a response shorter than 250 words.)
+https://secure.pmc.edu/apply	label	input		Some students have a background, identity, interest, or talent that is so meaningful they believe their application would be incomplete without it. If this sounds like you, then please share your story.
+https://secure.pmc.edu/apply	label	input		The lessons we take from obstacles we encounter can be fundamental to later success. Recount a time when you faced a challenge, setback, or failure. How did it affect you, and what did you learn from the experience?
+https://secure.pmc.edu/apply	label	input		Reflect on a time when you questioned or challenged a belief or idea. What prompted your thinking? What was the outcome?
+https://secure.pmc.edu/apply	label	input		Describe a problem you've solved or a problem you'd like to solve. It can be an intellectual challenge, a research query, an ethical dilemma-anything that is of personal importance, no matter the scale. Explain its significance to you and what steps you took or could be taken to identify a solution.
+https://secure.pmc.edu/apply	label	input		Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
+https://secure.pmc.edu/apply	label	input		Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?
+https://secure.pmc.edu/apply	label	input		Share an essay on any topic of your choice. It can be one you've already written, one that responds to a different prompt, or one of your own design.
+https://secure.pmc.edu/apply	label			Please write an essay on the topic selected. You can type directly into the box, or you can paste text from another source.
+https://secure.pmc.edu/apply	h2			Disciplinary History
+https://secure.pmc.edu/apply	div	h2		Please Note: Pine Manor College carefully considers all parts of your application. Information provided below will be considered in the context of the rest of your application and does not necessarily prevent you from being admitted to college.
+https://secure.pmc.edu/apply	legend		span	Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.
+https://secure.pmc.edu/apply	legend		span	"Have you ever been adjudicated guilty or convicted of a misdemeanor or felony? Note that you are not required to answer ""yes"" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential."
+https://secure.pmc.edu/apply	h2			Additional Information
+https://secure.pmc.edu/apply	legend		span	Do you wish to provide details of circumstances or qualifications not reflected in the application?
+https://secure.pmc.edu/apply	label			If Yes, please provide details here:
+https://secure.pmc.edu/apply	h2			General
+https://secure.pmc.edu/apply	label		span	Preferred start term
+https://secure.pmc.edu/apply	option			select
+https://secure.pmc.edu/apply	option	option		Spring 2020
+https://secure.pmc.edu/apply	option	option		Fall 2020
+https://secure.pmc.edu/apply	option	option		Spring 2021
+https://secure.pmc.edu/apply	label		span	Preferred residence during your first year
+https://secure.pmc.edu/apply	option	option		Commuter
+https://secure.pmc.edu/apply	option	option		Resident
+https://secure.pmc.edu/apply	legend		span	Do you intend to pursue need-based financial aid?
+https://secure.pmc.edu/apply	h2			Academics
+https://secure.pmc.edu/apply	label		span	What academic program at Pine Manor College interests you?
+https://secure.pmc.edu/apply	option	option		Design your own major
+https://secure.pmc.edu/apply	option	option		Biology
+https://secure.pmc.edu/apply	option	option		Business and Management
+https://secure.pmc.edu/apply	option	option		Community Health
+https://secure.pmc.edu/apply	option	option		Communication
+https://secure.pmc.edu/apply	option	option		Early Childhood Education, Health and Leadership
+https://secure.pmc.edu/apply	option	option		English Creative Writing and Literature
+https://secure.pmc.edu/apply	option	option		Psychology
+https://secure.pmc.edu/apply	option	option		Sociology and Political Science
+https://secure.pmc.edu/apply	option	option		Visual Arts
+https://secure.pmc.edu/apply	label			What activities at Pine Manor College interest you? List in order of preference. (Athletics, Service Projects, Clubs, Special Interests)
+https://secure.pmc.edu/apply	label			If you wish to submit your résumé, you may upload it here.
+https://secure.pmc.edu/apply	div	div		Note: Max file size is 2000 KB; File will be converted to PDF upon upload.
+https://secure.pmc.edu/apply	label			Please briefly elaborate on one of your extracurricular activities or work experiences.
+https://secure.pmc.edu/apply	label			Some applicants maintain an online presence that showcases their background, talents, or creativity. If you maintain such a site, please feel free to enter the URL here:
+https://secure.pmc.edu/apply	h2			Contacts
+https://secure.pmc.edu/apply	legend		span	Have you previously applied to Pine Manor College?
+https://secure.pmc.edu/apply	legend			How have you learned about Pine Manor College?
+https://secure.pmc.edu/apply	label			Alum
+https://secure.pmc.edu/apply	label			Athletic Department
+https://secure.pmc.edu/apply	label			Campus Visit
+https://secure.pmc.edu/apply	label			College Fair
+https://secure.pmc.edu/apply	label			College Visit
+https://secure.pmc.edu/apply	label			Email
+https://secure.pmc.edu/apply	label			Event
+https://secure.pmc.edu/apply	label			Friend
+https://secure.pmc.edu/apply	label			Guidance Counselor
+https://secure.pmc.edu/apply	label			Inquiry Card
+https://secure.pmc.edu/apply	label			Open House
+https://secure.pmc.edu/apply	label			Relative
+https://secure.pmc.edu/apply	label			Search Engine
+https://secure.pmc.edu/apply	label			School Website
+https://secure.pmc.edu/apply	label			If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.
+https://secure.pmc.edu/apply	label			I consent to be contacted by Pine Manor College at the mobile phone number provided below.
+https://secure.pmc.edu/apply	label			Phone
+https://secure.pmc.edu/apply	label		span	Please include the following emergency contact information: Name, Relation, Best phone number
+https://secure.pmc.edu/apply	h2			Family
+https://secure.pmc.edu/apply	legend		span	Are any siblings also applying for undergraduate admission to Pine Manor College this year?
+https://secure.pmc.edu/apply	legend		span	Have any relatives ever attended Pine Manor College?
+https://secure.pmc.edu/apply	legend		span	Have any relatives ever worked for Pine Manor College?
+https://secure.pmc.edu/apply	h2			Writing
+https://secure.pmc.edu/apply	label			Why are you interested in Pine Manor College?
+https://secure.pmc.edu/apply	legend		span	Billing Address
+https://secure.pmc.edu/apply	label		span	The question in this section are entirely optional, and you’re welcome to move on without answering them. Before you do, please confirm for us that you’ve completed this section to your satisfaction.
+https://secure.pmc.edu/apply	label			Yes, I have completed this section to my satisfaction.
+https://secure.pmc.edu/apply	h2			Application Fee Waiver
+https://secure.pmc.edu/apply	div	h2		At Pine Manor College we want to make sure that the application fee does not pose a barrier for any student who wishes to apply for admission.  PMC will waive the application fee for students with demonstrated financial need. You may choose to submit your application without paying the fee at this time, with the understanding that a waiver of the fee is pending a review by the College. You will be responsible for the payment if a waiver is not granted.
+https://secure.pmc.edu/apply	label			Application Fee
+https://secure.pmc.edu/apply	legend		span	Do you feel that your financial circumstances might qualify you for an application fee waiver?
+https://secure.pmc.edu/apply	label	input		No. (I will pay the application fee with this application)
+https://secure.pmc.edu/apply	label	input		Yes. (I understand that I will have to provide the required documentation for waiver eligibility)
+https://secure.pmc.edu/apply	label			Total to be charged to card
+https://secure.pmc.edu/apply	span			$0.00
+https://secure.pmc.edu/apply	label			Payment Details
+https://secure.pmc.edu/apply	div			American Express
+https://secure.pmc.edu/apply	div	div		Discover
+https://secure.pmc.edu/apply	div	div		MasterCard
+https://secure.pmc.edu/apply	div	div		Visa
+https://secure.pmc.edu/apply	label			Card Number
+https://secure.pmc.edu/apply	option	option		2022
+https://secure.pmc.edu/apply	option	option		2023
+https://secure.pmc.edu/apply	option	option		2024
+https://secure.pmc.edu/apply	option	option		2025
+https://secure.pmc.edu/apply	option	option		2026
+https://secure.pmc.edu/apply	option	option		2027
+https://secure.pmc.edu/apply	option	option		2028
+https://secure.pmc.edu/apply	option	option		2029
+https://secure.pmc.edu/apply	option	option		2030
+https://secure.pmc.edu/apply	option	option		2031
+https://secure.pmc.edu/apply	option	option		2032
+https://secure.pmc.edu/apply	option	option		2033
+https://secure.pmc.edu/apply	option	option		2034
+https://secure.pmc.edu/apply	option	option		2035
+https://secure.pmc.edu/apply	option	option		2036
+https://secure.pmc.edu/apply	option	option		2037
+https://secure.pmc.edu/apply	option	option		2038
+https://secure.pmc.edu/apply	option	option		2039
+https://secure.pmc.edu/apply	label			Expiration Date
+https://secure.pmc.edu/apply	label			Security Code
+https://secure.pmc.edu/apply	label			Cardholder Name
+https://secure.pmc.edu/apply	legend			Untitled
+https://secure.pmc.edu/apply	label			First Choice
+https://secure.pmc.edu/apply	label			Second Choice
+https://secure.pmc.edu/apply	label			Third Choice
+https://secure.pmc.edu/apply	label			Untitled
+https://secure.pmc.edu/apply	option			First Choice
+https://secure.pmc.edu/apply	option	option		Second Choice
+https://secure.pmc.edu/apply	option	option		Third Choice
+https://secure.pmc.edu/apply	iframe			This iframe contains the logic required to handle Ajax powered Gravity Forms.
+https://secure.pmc.edu/apply	div			     © 2020 Pine Manor College   
+http://www.pmc.edu	button			Search
+http://www.pmc.edu	a			Pine Manor College
+http://www.pmc.edu	a			Skip navigation
+http://www.pmc.edu	a			Home
+http://www.pmc.edu	a			About
+http://www.pmc.edu	a			English Language Institute (ELI)
+http://www.pmc.edu	a			Faculty & Staff Directory
+http://www.pmc.edu	a			Hess Gallery
+http://www.pmc.edu	a			History
+http://www.pmc.edu	a			In Memoriam
+http://www.pmc.edu	a			Job Opportunities
+http://www.pmc.edu	a			Mission
+http://www.pmc.edu	a			News
+http://www.pmc.edu	a			Preschool
+http://www.pmc.edu	a			Trustees
+http://www.pmc.edu	a			Visitor's Guide
+http://www.pmc.edu	a			Event rentals
+http://www.pmc.edu	a			Admissions
+http://www.pmc.edu	a			Apply for Admission
+http://www.pmc.edu	a			Academic Offerings
+http://www.pmc.edu	a			Meet our staff
+http://www.pmc.edu	a			FAQ
+http://www.pmc.edu	a			Financial Aid
+http://www.pmc.edu	a			International Students
+http://www.pmc.edu	a			Open College
+http://www.pmc.edu	a			New Students Information
+http://www.pmc.edu	a			Quotes from Senior Portfolios
+http://www.pmc.edu	a			Student Enrollment
+http://www.pmc.edu	a			Transfer to PMC
+http://www.pmc.edu	a			Visit Pine Manor College
+http://www.pmc.edu	a			Viewbook
+http://www.pmc.edu	a			Additional Financial Resources
+http://www.pmc.edu	a			Applications and Forms
+http://www.pmc.edu	a			Applying for Financial Aid
+http://www.pmc.edu	a			Contacts for Financial Aid
+http://www.pmc.edu	a			Financial Aid FAQ
+http://www.pmc.edu	a			Late Student Account Payment Fee
+http://www.pmc.edu	a			PMC Loan Center
+http://www.pmc.edu	a			Satisfactory Academic Progress Policy
+http://www.pmc.edu	a			Scholarships and Grants
+http://www.pmc.edu	a			Student Consumer Information
+http://www.pmc.edu	a			Tuition & Costs
+http://www.pmc.edu	a			Credit Balance Refund Policy
+http://www.pmc.edu	a			Withdrawal Refund Policy
+http://www.pmc.edu	a			Student Health Insurance Plan
+http://www.pmc.edu	a			Academics
+http://www.pmc.edu	a			Dean of the College
+http://www.pmc.edu	a			Departments & Programs
+http://www.pmc.edu	a			MFA in Creative Writing
+http://www.pmc.edu	a			Academic Services
+http://www.pmc.edu	a			Annenberg Library
+http://www.pmc.edu	a			Career Development
+http://www.pmc.edu	a			Academic Calendar
+http://www.pmc.edu	a			Academic Catalog
+http://www.pmc.edu	a			Confidentiality of Student Records
+http://www.pmc.edu	a			Core Curriculum Requirements
+http://www.pmc.edu	a			Conifers
+http://www.pmc.edu	a			Faculty Presentations and Publications
+http://www.pmc.edu	a			Faculty Symposium Series
+http://www.pmc.edu	a			Full-Time Faculty Directory
+http://www.pmc.edu	a			Honors Programs
+http://www.pmc.edu	a			Internships Evaluation
+http://www.pmc.edu	a			Institutional Review Board
+http://www.pmc.edu	a			Kings Pathways
+http://www.pmc.edu	a			Pathways to Healthcare and Science Careers
+http://www.pmc.edu	a			Presidential Scholarship Reception
+http://www.pmc.edu	a			Registrar
+http://www.pmc.edu	a			Student Affairs 
+http://www.pmc.edu	a			Student Activities 
+http://www.pmc.edu	a			Residence Life
+http://www.pmc.edu	a			New Student Resources
+http://www.pmc.edu	a			Student Affairs Staff
+http://www.pmc.edu	a			Campus Safety
+http://www.pmc.edu	a			Dining
+http://www.pmc.edu	a			Athletics
+http://www.pmc.edu	a			Health and Wellness
+http://www.pmc.edu	a			International Student Resources
+http://www.pmc.edu	a			Online Store
+http://www.pmc.edu	a			Student Handbook
+http://www.pmc.edu	a			Technology Resources
+http://www.pmc.edu	a			Title IX/Sexual Misconduct Policy
+http://www.pmc.edu	a			Men's Baseball
+http://www.pmc.edu	a			Men's Basketball
+http://www.pmc.edu	a			Men's Cross Country
+http://www.pmc.edu	a			Men's Soccer
+http://www.pmc.edu	a			Men's Volleyball
+http://www.pmc.edu	a			Women's Basketball
+http://www.pmc.edu	a			Women's Cross Country
+http://www.pmc.edu	a			Women's Soccer
+http://www.pmc.edu	a			Women's Softball
+http://www.pmc.edu	a			Women's Volleyball
+http://www.pmc.edu	a			Alumnae/i & Friends
+http://www.pmc.edu	a			Alumnae/i Ambassadors Program
+http://www.pmc.edu	a			Class Notes
+http://www.pmc.edu	a			Contact Us
+http://www.pmc.edu	a			Give to PMC
+http://www.pmc.edu	a			My Career Story
+http://www.pmc.edu	a			Pine Manor College Products
+http://www.pmc.edu	a			PMC Bulletin
+http://www.pmc.edu	a			Past Alumnae/i Events
+http://www.pmc.edu	a			Recent PMC Grads
+http://www.pmc.edu	a			Services
+http://www.pmc.edu	a			Testimonials from PMC Graduates
+http://www.pmc.edu	a			Update Your Contact Information
+http://www.pmc.edu	a			 Menu
+http://www.pmc.edu	a			About ELI
+http://www.pmc.edu	a			ELI News
+http://www.pmc.edu	a			Courses
+http://www.pmc.edu	a			Intensive English Program
+http://www.pmc.edu	a			Semi-Intensive English Program
+http://www.pmc.edu	a			University Preparation
+http://www.pmc.edu	a			English   University Studies
+http://www.pmc.edu	a			Private Lessons
+http://www.pmc.edu	a			Language & Excursions Program
+http://www.pmc.edu	a			Application & Prices
+http://www.pmc.edu	a			ELI Online Payment
+http://www.pmc.edu	a			Campus & Location
+http://www.pmc.edu	a			Activities
+http://www.pmc.edu	a			Sample Activity Calendars
+http://www.pmc.edu	a			Campus Life
+http://www.pmc.edu	a			Team
+http://www.pmc.edu	a			Become a PMC ELI Agent
+http://www.pmc.edu	a			General Information
+http://www.pmc.edu	a			Current Exhibition
+http://www.pmc.edu	a			Upcoming Exhibitions
+http://www.pmc.edu	a			Previous Exhibitions
+http://www.pmc.edu	a			Information for Artists
+http://www.pmc.edu	a			Enrollment
+http://www.pmc.edu	a			Strategic Plan
+http://www.pmc.edu	a			Accreditation
+http://www.pmc.edu	a			Student Life
+http://www.pmc.edu	a			Financial Information
+http://www.pmc.edu	a			English Language Institute
+http://www.pmc.edu	a			About Us
+http://www.pmc.edu	a			Open House
+http://www.pmc.edu	a			Curriculum
+http://www.pmc.edu	a			Location
+http://www.pmc.edu	a			Schedules & Rates
+http://www.pmc.edu	a			CSC Online Payment
+http://www.pmc.edu	a			Meet the Staff
+http://www.pmc.edu	a			How to Apply
+http://www.pmc.edu	a			Contracts
+http://www.pmc.edu	a			Calendar
+http://www.pmc.edu	a			Daily Schedule
+http://www.pmc.edu	a			Photo Album
+http://www.pmc.edu	a			Family Involvement
+http://www.pmc.edu	a			What Parents Say
+http://www.pmc.edu	a			Parent Handbook
+http://www.pmc.edu	a			Newton
+http://www.pmc.edu	a			By-Laws
+http://www.pmc.edu	a			Virtual Tour
+http://www.pmc.edu	a			Campus Map
+http://www.pmc.edu	a			Directions to PMC
+http://www.pmc.edu	a			Photo Gallery
+http://www.pmc.edu	a			Videos
+http://www.pmc.edu	a			Visiting Boston
+http://www.pmc.edu	a			Accommodations
+http://www.pmc.edu	a			Restaurants in Chestnut Hill
+http://www.pmc.edu	a			Contact Admissions
+http://www.pmc.edu	a			Scholarships and Grants 
+http://www.pmc.edu	a			Welcome
+http://www.pmc.edu	a			International Application for Admission
+http://www.pmc.edu	a			Academic Programs
+http://www.pmc.edu	a			Visa Information
+http://www.pmc.edu	a			What Students Say
+http://www.pmc.edu	a			Tuition Deposit
+http://www.pmc.edu	a			Welcome to Pine Manor College!
+http://www.pmc.edu	a			Directions
+http://www.pmc.edu	a			Parents and Families
+http://www.pmc.edu	a			FAFSA - IRS Data Retrieval Tool
+http://www.pmc.edu	a			Founders Scholarship
+http://www.pmc.edu	a			Dean's List
+http://www.pmc.edu	a			Biology
+http://www.pmc.edu	a			Pathways to Science
+http://www.pmc.edu	a			Tufts University “TEACRS”
+http://www.pmc.edu	a			BioScholars
+http://www.pmc.edu	a			Biology Program
+http://www.pmc.edu	a			BioTech Certificate
+http://www.pmc.edu	a			Senior Internships
+http://www.pmc.edu	a			Business and Management (BAM)
+http://www.pmc.edu	a			Business and Management Program Requirements
+http://www.pmc.edu	a			Let's Get to Business: FALL 2019 SPEAKERS
+http://www.pmc.edu	a			Communication
+http://www.pmc.edu	a			Communication Program Requirements
+http://www.pmc.edu	a			Community Health
+http://www.pmc.edu	a			Community Health Requirements
+http://www.pmc.edu	a			Early Childhood: Education, Health and Leadership
+http://www.pmc.edu	a			Early Childhood: Education, Health & Leadership Program Requirements
+http://www.pmc.edu	a			CORI Policy
+http://www.pmc.edu	a			English: College Composition
+http://www.pmc.edu	a			English: Creative Writing and Literature
+http://www.pmc.edu	a			English Program Requirements
+http://www.pmc.edu	a			BA/MFA in Creative Writing
+http://www.pmc.edu	a			Mathematics and Quantitative Reasoning
+http://www.pmc.edu	a			Psychology
+http://www.pmc.edu	a			Psychology Program Requirements
+http://www.pmc.edu	a			Psychology Alumni Dinner
+http://www.pmc.edu	a			Sociology and Political Science
+http://www.pmc.edu	a			Sociology and Political Science Program Requirements
+http://www.pmc.edu	a			Visual Arts
+http://www.pmc.edu	a			Visual Arts Program Requirements
+http://www.pmc.edu	a			Self-Designed Major
+http://www.pmc.edu	a			Academic Minors
+http://www.pmc.edu	a			Accounting
+http://www.pmc.edu	a			Art History
+http://www.pmc.edu	a			Counseling
+http://www.pmc.edu	a			Creative Writing
+http://www.pmc.edu	a			Criminal Justice
+http://www.pmc.edu	a			Dance
+http://www.pmc.edu	a			Education
+http://www.pmc.edu	a			English
+http://www.pmc.edu	a			Fitness and Wellness
+http://www.pmc.edu	a			French
+http://www.pmc.edu	a			Human Resource Management
+http://www.pmc.edu	a			International Business
+http://www.pmc.edu	a			Music
+http://www.pmc.edu	a			Non-Profit Organization
+http://www.pmc.edu	a			Political Science
+http://www.pmc.edu	a			Sociology and Political Science Minor
+http://www.pmc.edu	a			Sociology
+http://www.pmc.edu	a			Sports Management
+http://www.pmc.edu	a			Theatre
+http://www.pmc.edu	a			Women's Studies
+http://www.pmc.edu	a			Cross Registration / Consortium Schools
+http://www.pmc.edu	a			Portfolio Learning
+http://www.pmc.edu	a			Internship Program
+http://www.pmc.edu	a			Off-Campus Study
+http://www.pmc.edu	a			Associate Degree Program
+http://www.pmc.edu	a			A.S. in Biology
+http://www.pmc.edu	a			A.A. in Criminal Justice
+http://www.pmc.edu	a			A.A. Early Childhood / Education
+http://www.pmc.edu	a			A.A. in English
+http://www.pmc.edu	a			A.S. in Health Sciences
+http://www.pmc.edu	a			A.A. in Liberal Studies
+http://www.pmc.edu	a			A.S. in Management
+http://www.pmc.edu	a			A.A. in Performing Arts
+http://www.pmc.edu	a			A.A. in Theatre
+http://www.pmc.edu	a			A.A. in Visual Arts
+http://www.pmc.edu	a			Microsoft Certification Test Center
+http://www.pmc.edu	a			FAQs; What Makes Us Different?
+http://www.pmc.edu	a			News & Events
+http://www.pmc.edu	a			Program Overview
+http://www.pmc.edu	a			Admissions & Transfers
+http://www.pmc.edu	a			Tuition & Fees
+http://www.pmc.edu	a			Financial Aid / Fellowships
+http://www.pmc.edu	a			Pedagogy & Applied Tracks
+http://www.pmc.edu	a			Comics & Graphic Narratives
+http://www.pmc.edu	a			Alumni & Degree Applications
+http://www.pmc.edu	a			Professional Development courses
+http://www.pmc.edu	a			Graduate Publications
+http://www.pmc.edu	a			Post-graduate Opportunities
+http://www.pmc.edu	a			PG Semester Details
+http://www.pmc.edu	a			PG Certificate Details
+http://www.pmc.edu	a			Semester Application Form
+http://www.pmc.edu	a			Certificate Application Form
+http://www.pmc.edu	a			Apply
+http://www.pmc.edu	a			Deadlines
+http://www.pmc.edu	a			Classes for Audit
+http://www.pmc.edu	a			Class Audit Policy
+http://www.pmc.edu	a			Class Audit Registration Form
+http://www.pmc.edu	a			Faculty, Staff, & Guests
+http://www.pmc.edu	a			Upcoming Special Guests
+http://www.pmc.edu	a			Past Special Guests
+http://www.pmc.edu	a			Faculty Interviews
+http://www.pmc.edu	a			Brendan Kiely Interview
+http://www.pmc.edu	a			Olugbemisola Rhuday-Perkovich Interview
+http://www.pmc.edu	a			Sandra Scofield Interview
+http://www.pmc.edu	a			Laure-Anne Bosselaar Interview
+http://www.pmc.edu	a			Randall Kenan Interview
+http://www.pmc.edu	a			Dzvinia Orlowsky Interview
+http://www.pmc.edu	a			Interview with Grace Lin
+http://www.pmc.edu	a			Laura Williams McCaffrey Interview
+http://www.pmc.edu	a			Anne-Marie Oomen Interview
+http://www.pmc.edu	a			David Yoo interview
+http://www.pmc.edu	a			Steven Huff Interview
+http://www.pmc.edu	a			Robert Lopez Interview
+http://www.pmc.edu	a			Kathi Aguero Interview
+http://www.pmc.edu	a			Iain Haley Pollock
+http://www.pmc.edu	a			Venise Berry Interview
+http://www.pmc.edu	a			Josh Neufeld Interview
+http://www.pmc.edu	a			Sterling Watson Interview
+http://www.pmc.edu	a			Interview with Renée Watson
+http://www.pmc.edu	a			Interview with Jedediah Berry
+http://www.pmc.edu	a			Amy Hoffman Interview
+http://www.pmc.edu	a			Commencement Speakers
+http://www.pmc.edu	a			Graduate Profiles
+http://www.pmc.edu	a			Photos & Videos
+http://www.pmc.edu	a			Winter Residency - Photo Album 2015
+http://www.pmc.edu	a			Summer Residency Photo Album 2014
+http://www.pmc.edu	a			Winter Residency Photo Album 2014
+http://www.pmc.edu	a			MFA Videos
+http://www.pmc.edu	a			Cave Canem Partnership
+http://www.pmc.edu	a			Resources
+http://www.pmc.edu	a			IT Help and Online Resources for MFA Students
+http://www.pmc.edu	a			Links
+http://www.pmc.edu	a			Contact
+http://www.pmc.edu	a			Solstice: Maximum Tilt Anthology
+http://www.pmc.edu	a			About Annenberg Library
+http://www.pmc.edu	a			Citing Sources
+http://www.pmc.edu	a			Interlibrary Loan
+http://www.pmc.edu	a			Suggestion Box
+http://www.pmc.edu	a			Public Patrons & Visitors
+http://www.pmc.edu	a			Advising & Counseling
+http://www.pmc.edu	a			Bookstore
+http://www.pmc.edu	a			Institutional Technology
+http://www.pmc.edu	a			Computer Facilities
+http://www.pmc.edu	a			Privacy Statement
+http://www.pmc.edu	a			Learning Resource Center (LRC)
+http://www.pmc.edu	a			Accessibility Services
+http://www.pmc.edu	a			Accessibility Services Registration and Disclosure Form
+http://www.pmc.edu	a			Learning Resource Center Staff
+http://www.pmc.edu	a			Students
+http://www.pmc.edu	a			Resume and Cover Letter Guide
+http://www.pmc.edu	a			Networking Guide - Internship
+http://www.pmc.edu	a			Networking Guide - Full-Time
+http://www.pmc.edu	a			Essential Interviewing Techniques
+http://www.pmc.edu	a			References Guide
+http://www.pmc.edu	a			Graduate School Guide
+http://www.pmc.edu	a			Alumni
+http://www.pmc.edu	a			Networking Guide
+http://www.pmc.edu	a			Employers
+http://www.pmc.edu	a			Submit a Job
+http://www.pmc.edu	a			Job Search Resources
+http://www.pmc.edu	a			Volunteer & Community Service
+http://www.pmc.edu	a			Resumes, Cover Letters, References, Thank You Letters
+http://www.pmc.edu	a			Career Development Videos
+http://www.pmc.edu	a			Academic Policies
+http://www.pmc.edu	a			Degree Programs
+http://www.pmc.edu	a			Baccalaureate Programs
+http://www.pmc.edu	a			Associate Degree Requirements
+http://www.pmc.edu	a			Minors
+http://www.pmc.edu	a			MFA Requirements
+http://www.pmc.edu	a			Academic Ethics and Integrity
+http://www.pmc.edu	a			Course Designations
+http://www.pmc.edu	a			College Composition Grading Standards
+http://www.pmc.edu	a			Continuing Studies
+http://www.pmc.edu	a			Course Descriptions
+http://www.pmc.edu	a			Accounting Courses
+http://www.pmc.edu	a			Anthropology Courses
+http://www.pmc.edu	a			Art History Courses
+http://www.pmc.edu	a			Biology Courses
+http://www.pmc.edu	a			Chemistry Courses
+http://www.pmc.edu	a			Communication Courses
+http://www.pmc.edu	a			Community Health Courses
+http://www.pmc.edu	a			Computer Studies Courses
+http://www.pmc.edu	a			Dance Courses
+http://www.pmc.edu	a			Early Childhood: Education, Health and Leadership Courses
+http://www.pmc.edu	a			Economics Courses
+http://www.pmc.edu	a			English: College Composition Courses
+http://www.pmc.edu	a			English: Creative Writing and Literature Courses
+http://www.pmc.edu	a			Finance Courses
+http://www.pmc.edu	a			First Year Seminar Courses
+http://www.pmc.edu	a			French Courses
+http://www.pmc.edu	a			History Courses
+http://www.pmc.edu	a			Humanities Courses
+http://www.pmc.edu	a			Interdisciplinary Courses
+http://www.pmc.edu	a			Internships
+http://www.pmc.edu	a			Liberal Studies Courses
+http://www.pmc.edu	a			Management Courses
+http://www.pmc.edu	a			Marketing Courses
+http://www.pmc.edu	a			Mathematics Courses
+http://www.pmc.edu	a			Music Courses
+http://www.pmc.edu	a			Physics Courses
+http://www.pmc.edu	a			Philosophy Courses
+http://www.pmc.edu	a			Political Science Courses
+http://www.pmc.edu	a			Psychology Courses
+http://www.pmc.edu	a			Quantitative Reasoning Courses
+http://www.pmc.edu	a			Religion Courses
+http://www.pmc.edu	a			Service Learning Courses
+http://www.pmc.edu	a			Sociology Courses
+http://www.pmc.edu	a			Spanish Courses
+http://www.pmc.edu	a			Social and Political Systems Courses
+http://www.pmc.edu	a			Theatre Courses
+http://www.pmc.edu	a			Visual Arts Courses
+http://www.pmc.edu	a			Women’s Studies Courses
+http://www.pmc.edu	a			Courses Without Disciplinary Designations
+http://www.pmc.edu	a			Information Networks
+http://www.pmc.edu	a			Copyright Infringement Policy
+http://www.pmc.edu	a			Honors 2019
+http://www.pmc.edu	a			Honors 2018
+http://www.pmc.edu	a			Honors 2017
+http://www.pmc.edu	a			Honors 2016
+http://www.pmc.edu	a			Honors 2015
+http://www.pmc.edu	a			Honors 2014
+http://www.pmc.edu	a			Student Online Payment
+http://www.pmc.edu	a			MFA Registration Form
+http://www.pmc.edu	a			Programs
+http://www.pmc.edu	a			Smartphone App
+http://www.pmc.edu	a			Student Organizations
+http://www.pmc.edu	a			New Student Housing Questionnaire 
+http://www.pmc.edu	a			What to Bring to Campus
+http://www.pmc.edu	a			Forms
+http://www.pmc.edu	a			Residence Hall Layout
+http://www.pmc.edu	a			Residential Calendar 2019-2020
+http://www.pmc.edu	a			Student Property Insurance Information
+http://www.pmc.edu	a			Resident Assistant Recruitment for Spring 2020
+http://www.pmc.edu	a			Family Resources
+http://www.pmc.edu	a			Academic Questions
+http://www.pmc.edu	a			Outside the Classroom Questions
+http://www.pmc.edu	a			Contact Us!
+http://www.pmc.edu	a			Important Forms
+http://www.pmc.edu	a			Orientation Leaders
+http://www.pmc.edu	a			Orientation Schedule
+http://www.pmc.edu	a			Crime Reports 
+http://www.pmc.edu	a			Emergency Notification System
+http://www.pmc.edu	a			Emergency Procedures
+http://www.pmc.edu	a			Helpful Links
+http://www.pmc.edu	a			Parking Information
+http://www.pmc.edu	a			Register Your Guest
+http://www.pmc.edu	a			Guest Policy
+http://www.pmc.edu	a			Report a Crime Anonymously
+http://www.pmc.edu	a			Shuttle Service
+http://www.pmc.edu	a			Shuttle Schedule
+http://www.pmc.edu	a			Shuttle Policy
+http://www.pmc.edu	a			Meet the Drivers
+http://www.pmc.edu	a			Shuttle Request Form
+http://www.pmc.edu	a			Weather and College Closings
+http://www.pmc.edu	a			Required Health Forms
+http://www.pmc.edu	a			Alumnae/i Ambassador Registration
+http://www.pmc.edu	a			Submit Class Notes
+http://www.pmc.edu	a			Planned Giving
+http://www.pmc.edu	a			Associates Club
+http://www.pmc.edu	a			Ways to Give
+http://www.pmc.edu	a			Make a Gift
+http://www.pmc.edu	a			Double Your Gift
+http://www.pmc.edu	a			Allysn Austin '09
+http://www.pmc.edu	a			Ariana De Pina '11
+http://www.pmc.edu	a			Christina Santos ‘12
+http://www.pmc.edu	a			Courtney (Wallace) Peterson '10
+http://www.pmc.edu	a			Devon Govoni '05
+http://www.pmc.edu	a			Daniela Ramirez '13
+http://www.pmc.edu	a			Dorosella Kaluma '11
+http://www.pmc.edu	a			Elizabeth (Azu) Adjei ‘13
+http://www.pmc.edu	a			Glenn Grushko '12
+http://www.pmc.edu	a			Hannah Kaplan '13
+http://www.pmc.edu	a			Heba Khurram '14
+http://www.pmc.edu	a			Jeselene Andrade '13
+http://www.pmc.edu	a			Johanne (Souffrant) Watts '09
+http://www.pmc.edu	a			Kara Pogue Kessel '09
+http://www.pmc.edu	a			Karm Syndia Augustin ‘13
+http://www.pmc.edu	a			Kate Holden ‘14
+http://www.pmc.edu	a			Katherine Henao '14
+http://www.pmc.edu	a			Katherine Tavarez ‘15
+http://www.pmc.edu	a			Margaret (Peggie Sweeney) Krippendorf ‘96
+http://www.pmc.edu	a			Margaret Roberts '13
+http://www.pmc.edu	a			Ryanne Spann '10
+http://www.pmc.edu	a			Sera Godfrey '02
+http://www.pmc.edu	a			Shakia Weaver ‘13
+http://www.pmc.edu	a			Stephanie Crawford '09
+http://www.pmc.edu	a			Tamara Sakala ‘14
+http://www.pmc.edu	a			Tamise Francois '11
+http://www.pmc.edu	a			Tatiana Mendez ‘15
+http://www.pmc.edu	a			Teakia Brown '07
+http://www.pmc.edu	a			Luz “Vanessa” Cintron '10
+http://www.pmc.edu	a			Prev
+http://www.pmc.edu	a			Next
+http://www.pmc.edu	h1			News 
+http://www.pmc.edu	a			PMC featured on NPR
+http://www.pmc.edu	span			Wed, December 18, 2019
+http://www.pmc.edu	a			No comments
+http://www.pmc.edu	a			US News and World Report ranked PMC #1 in Campus Ethnic Diversity and #11 in Ethnic Mobility for national liberal arts schools
+http://www.pmc.edu	span			Tue, December 17, 2019
+http://www.pmc.edu	a			MFA Winter Residency Special Guests
+http://www.pmc.edu	span			Mon, December 16, 2019
+http://www.pmc.edu	h1			Events
+http://www.pmc.edu	a			New Students Orientation
+http://www.pmc.edu	div			Wed, January 15, 2020
+http://www.pmc.edu	a			Residence Halls reopen for returning students
+http://www.pmc.edu	div			Sun, January 19, 2020
+http://www.pmc.edu	a			MLK, Day of Service
+http://www.pmc.edu	div			Mon, January 20, 2020
+http://www.pmc.edu	a			Classes begin
+http://www.pmc.edu	div			Tue, January 21, 2020
+http://www.pmc.edu	h1			Blog
+http://www.pmc.edu	a			Listen to WBUR and learn how PMC is leading the way in educating First-Generation students
+http://www.pmc.edu	a			Placing Kindness on a Pedestal
+http://www.pmc.edu	span			Tue, September 3, 2019
+http://www.pmc.edu	a			Art Scope Magazine: Under The Surface: Nedret Andre’s “Seagrass: Ecological Engineers” At Hess
+http://www.pmc.edu	span			Mon, April 8, 2019
+http://www.pmc.edu	span			English Language Institute (ELI)
+http://www.pmc.edu	span			Kings Pathways
+http://www.pmc.edu	span			Child Study Center
+http://www.pmc.edu	span			Solstice MFA in Creative Writing
+http://www.pmc.edu	h1			Useful links
+http://www.pmc.edu	h1			Academics
+http://www.pmc.edu	a			Course Schedule
+http://www.pmc.edu	h1			Student Affairs
+http://www.pmc.edu	a			Title IX
+http://www.pmc.edu	a			Student Activities
+http://www.pmc.edu	h1			Alumnae & Friends
+http://www.pmc.edu	a			Give Now
+http://www.pmc.edu	a			Site Map
+http://www.pmc.edu	a			Portal Login
+http://www.pmc.edu	p			Phone 617-731-7000 | Fax 617-731-7199 | 400 Heath Street, Chestnut Hill, MA 02467
+http://www.pmc.edu	p		br	Copyright © 2010,                     Pine Manor College
+http://www.pmc.edu	p			                  All Rights Reserved.              
+http://www.pmc.edu/apply	button			Search
+http://www.pmc.edu/apply	a			Pine Manor College
+http://www.pmc.edu/apply	a			Skip navigation
+http://www.pmc.edu/apply	a			Home
+http://www.pmc.edu/apply	a			About
+http://www.pmc.edu/apply	a			English Language Institute (ELI)
+http://www.pmc.edu/apply	a			Faculty & Staff Directory
+http://www.pmc.edu/apply	a			Hess Gallery
+http://www.pmc.edu/apply	a			History
+http://www.pmc.edu/apply	a			In Memoriam
+http://www.pmc.edu/apply	a			Job Opportunities
+http://www.pmc.edu/apply	a			Mission
+http://www.pmc.edu/apply	a			News
+http://www.pmc.edu/apply	a			Preschool
+http://www.pmc.edu/apply	a			Trustees
+http://www.pmc.edu/apply	a			Visitor's Guide
+http://www.pmc.edu/apply	a			Event rentals
+http://www.pmc.edu/apply	a			Admissions
+http://www.pmc.edu/apply	a			Apply for Admission
+http://www.pmc.edu/apply	a			Academic Offerings
+http://www.pmc.edu/apply	a			Meet our staff
+http://www.pmc.edu/apply	a			FAQ
+http://www.pmc.edu/apply	a			Financial Aid
+http://www.pmc.edu/apply	a			International Students
+http://www.pmc.edu/apply	a			Open College
+http://www.pmc.edu/apply	a			New Students Information
+http://www.pmc.edu/apply	a			Quotes from Senior Portfolios
+http://www.pmc.edu/apply	a			Student Enrollment
+http://www.pmc.edu/apply	a			Transfer to PMC
+http://www.pmc.edu/apply	a			Visit Pine Manor College
+http://www.pmc.edu/apply	a			Viewbook
+http://www.pmc.edu/apply	a			Additional Financial Resources
+http://www.pmc.edu/apply	a			Applications and Forms
+http://www.pmc.edu/apply	a			Applying for Financial Aid
+http://www.pmc.edu/apply	a			Contacts for Financial Aid
+http://www.pmc.edu/apply	a			Financial Aid FAQ
+http://www.pmc.edu/apply	a			Late Student Account Payment Fee
+http://www.pmc.edu/apply	a			PMC Loan Center
+http://www.pmc.edu/apply	a			Satisfactory Academic Progress Policy
+http://www.pmc.edu/apply	a			Scholarships and Grants
+http://www.pmc.edu/apply	a			Student Consumer Information
+http://www.pmc.edu/apply	a			Tuition & Costs
+http://www.pmc.edu/apply	a			Credit Balance Refund Policy
+http://www.pmc.edu/apply	a			Withdrawal Refund Policy
+http://www.pmc.edu/apply	a			Student Health Insurance Plan
+http://www.pmc.edu/apply	a			Academics
+http://www.pmc.edu/apply	a			Dean of the College
+http://www.pmc.edu/apply	a			Departments & Programs
+http://www.pmc.edu/apply	a			MFA in Creative Writing
+http://www.pmc.edu/apply	a			Academic Services
+http://www.pmc.edu/apply	a			Annenberg Library
+http://www.pmc.edu/apply	a			Career Development
+http://www.pmc.edu/apply	a			Academic Calendar
+http://www.pmc.edu/apply	a			Academic Catalog
+http://www.pmc.edu/apply	a			Confidentiality of Student Records
+http://www.pmc.edu/apply	a			Core Curriculum Requirements
+http://www.pmc.edu/apply	a			Conifers
+http://www.pmc.edu/apply	a			Faculty Presentations and Publications
+http://www.pmc.edu/apply	a			Faculty Symposium Series
+http://www.pmc.edu/apply	a			Full-Time Faculty Directory
+http://www.pmc.edu/apply	a			Honors Programs
+http://www.pmc.edu/apply	a			Internships Evaluation
+http://www.pmc.edu/apply	a			Institutional Review Board
+http://www.pmc.edu/apply	a			Kings Pathways
+http://www.pmc.edu/apply	a			Pathways to Healthcare and Science Careers
+http://www.pmc.edu/apply	a			Presidential Scholarship Reception
+http://www.pmc.edu/apply	a			Registrar
+http://www.pmc.edu/apply	a			Student Affairs 
+http://www.pmc.edu/apply	a			Student Activities 
+http://www.pmc.edu/apply	a			Residence Life
+http://www.pmc.edu/apply	a			New Student Resources
+http://www.pmc.edu/apply	a			Student Affairs Staff
+http://www.pmc.edu/apply	a			Campus Safety
+http://www.pmc.edu/apply	a			Dining
+http://www.pmc.edu/apply	a			Athletics
+http://www.pmc.edu/apply	a			Health and Wellness
+http://www.pmc.edu/apply	a			International Student Resources
+http://www.pmc.edu/apply	a			Online Store
+http://www.pmc.edu/apply	a			Student Handbook
+http://www.pmc.edu/apply	a			Technology Resources
+http://www.pmc.edu/apply	a			Title IX/Sexual Misconduct Policy
+http://www.pmc.edu/apply	a			Men's Baseball
+http://www.pmc.edu/apply	a			Men's Basketball
+http://www.pmc.edu/apply	a			Men's Cross Country
+http://www.pmc.edu/apply	a			Men's Soccer
+http://www.pmc.edu/apply	a			Men's Volleyball
+http://www.pmc.edu/apply	a			Women's Basketball
+http://www.pmc.edu/apply	a			Women's Cross Country
+http://www.pmc.edu/apply	a			Women's Soccer
+http://www.pmc.edu/apply	a			Women's Softball
+http://www.pmc.edu/apply	a			Women's Volleyball
+http://www.pmc.edu/apply	a			Alumnae/i & Friends
+http://www.pmc.edu/apply	a			Alumnae/i Ambassadors Program
+http://www.pmc.edu/apply	a			Class Notes
+http://www.pmc.edu/apply	a			Contact Us
+http://www.pmc.edu/apply	a			Give to PMC
+http://www.pmc.edu/apply	a			My Career Story
+http://www.pmc.edu/apply	a			Pine Manor College Products
+http://www.pmc.edu/apply	a			PMC Bulletin
+http://www.pmc.edu/apply	a			Past Alumnae/i Events
+http://www.pmc.edu/apply	a			Recent PMC Grads
+http://www.pmc.edu/apply	a			Services
+http://www.pmc.edu/apply	a			Testimonials from PMC Graduates
+http://www.pmc.edu/apply	a			Update Your Contact Information
+http://www.pmc.edu/apply	a			 Menu
+http://www.pmc.edu/apply	a			About ELI
+http://www.pmc.edu/apply	a			ELI News
+http://www.pmc.edu/apply	a			Courses
+http://www.pmc.edu/apply	a			Intensive English Program
+http://www.pmc.edu/apply	a			Semi-Intensive English Program
+http://www.pmc.edu/apply	a			University Preparation
+http://www.pmc.edu/apply	a			English   University Studies
+http://www.pmc.edu/apply	a			Private Lessons
+http://www.pmc.edu/apply	a			Language & Excursions Program
+http://www.pmc.edu/apply	a			Application & Prices
+http://www.pmc.edu/apply	a			ELI Online Payment
+http://www.pmc.edu/apply	a			Campus & Location
+http://www.pmc.edu/apply	a			Activities
+http://www.pmc.edu/apply	a			Sample Activity Calendars
+http://www.pmc.edu/apply	a			Campus Life
+http://www.pmc.edu/apply	a			Team
+http://www.pmc.edu/apply	a			Become a PMC ELI Agent
+http://www.pmc.edu/apply	a			General Information
+http://www.pmc.edu/apply	a			Current Exhibition
+http://www.pmc.edu/apply	a			Upcoming Exhibitions
+http://www.pmc.edu/apply	a			Previous Exhibitions
+http://www.pmc.edu/apply	a			Information for Artists
+http://www.pmc.edu/apply	a			Enrollment
+http://www.pmc.edu/apply	a			Strategic Plan
+http://www.pmc.edu/apply	a			Accreditation
+http://www.pmc.edu/apply	a			Student Life
+http://www.pmc.edu/apply	a			Financial Information
+http://www.pmc.edu/apply	a			English Language Institute
+http://www.pmc.edu/apply	a			About Us
+http://www.pmc.edu/apply	a			Open House
+http://www.pmc.edu/apply	a			Curriculum
+http://www.pmc.edu/apply	a			Location
+http://www.pmc.edu/apply	a			Schedules & Rates
+http://www.pmc.edu/apply	a			CSC Online Payment
+http://www.pmc.edu/apply	a			Meet the Staff
+http://www.pmc.edu/apply	a			How to Apply
+http://www.pmc.edu/apply	a			Contracts
+http://www.pmc.edu/apply	a			Calendar
+http://www.pmc.edu/apply	a			Daily Schedule
+http://www.pmc.edu/apply	a			Photo Album
+http://www.pmc.edu/apply	a			Family Involvement
+http://www.pmc.edu/apply	a			What Parents Say
+http://www.pmc.edu/apply	a			Parent Handbook
+http://www.pmc.edu/apply	a			Newton
+http://www.pmc.edu/apply	a			By-Laws
+http://www.pmc.edu/apply	a			Virtual Tour
+http://www.pmc.edu/apply	a			Campus Map
+http://www.pmc.edu/apply	a			Directions to PMC
+http://www.pmc.edu/apply	a			Photo Gallery
+http://www.pmc.edu/apply	a			Videos
+http://www.pmc.edu/apply	a			Visiting Boston
+http://www.pmc.edu/apply	a			Accommodations
+http://www.pmc.edu/apply	a			Restaurants in Chestnut Hill
+http://www.pmc.edu/apply	a			Contact Admissions
+http://www.pmc.edu/apply	a			Scholarships and Grants 
+http://www.pmc.edu/apply	a			Welcome
+http://www.pmc.edu/apply	a			International Application for Admission
+http://www.pmc.edu/apply	a			Academic Programs
+http://www.pmc.edu/apply	a			Visa Information
+http://www.pmc.edu/apply	a			What Students Say
+http://www.pmc.edu/apply	a			Tuition Deposit
+http://www.pmc.edu/apply	a			Welcome to Pine Manor College!
+http://www.pmc.edu/apply	a			Directions
+http://www.pmc.edu/apply	a			Parents and Families
+http://www.pmc.edu/apply	a			FAFSA - IRS Data Retrieval Tool
+http://www.pmc.edu/apply	a			Founders Scholarship
+http://www.pmc.edu/apply	a			Dean's List
+http://www.pmc.edu/apply	a			Biology
+http://www.pmc.edu/apply	a			Pathways to Science
+http://www.pmc.edu/apply	a			Tufts University “TEACRS”
+http://www.pmc.edu/apply	a			BioScholars
+http://www.pmc.edu/apply	a			Biology Program
+http://www.pmc.edu/apply	a			BioTech Certificate
+http://www.pmc.edu/apply	a			Senior Internships
+http://www.pmc.edu/apply	a			Business and Management (BAM)
+http://www.pmc.edu/apply	a			Business and Management Program Requirements
+http://www.pmc.edu/apply	a			Let's Get to Business: FALL 2019 SPEAKERS
+http://www.pmc.edu/apply	a			Communication
+http://www.pmc.edu/apply	a			Communication Program Requirements
+http://www.pmc.edu/apply	a			Community Health
+http://www.pmc.edu/apply	a			Community Health Requirements
+http://www.pmc.edu/apply	a			Early Childhood: Education, Health and Leadership
+http://www.pmc.edu/apply	a			Early Childhood: Education, Health & Leadership Program Requirements
+http://www.pmc.edu/apply	a			CORI Policy
+http://www.pmc.edu/apply	a			English: College Composition
+http://www.pmc.edu/apply	a			English: Creative Writing and Literature
+http://www.pmc.edu/apply	a			English Program Requirements
+http://www.pmc.edu/apply	a			BA/MFA in Creative Writing
+http://www.pmc.edu/apply	a			Mathematics and Quantitative Reasoning
+http://www.pmc.edu/apply	a			Psychology
+http://www.pmc.edu/apply	a			Psychology Program Requirements
+http://www.pmc.edu/apply	a			Psychology Alumni Dinner
+http://www.pmc.edu/apply	a			Sociology and Political Science
+http://www.pmc.edu/apply	a			Sociology and Political Science Program Requirements
+http://www.pmc.edu/apply	a			Visual Arts
+http://www.pmc.edu/apply	a			Visual Arts Program Requirements
+http://www.pmc.edu/apply	a			Self-Designed Major
+http://www.pmc.edu/apply	a			Academic Minors
+http://www.pmc.edu/apply	a			Accounting
+http://www.pmc.edu/apply	a			Art History
+http://www.pmc.edu/apply	a			Counseling
+http://www.pmc.edu/apply	a			Creative Writing
+http://www.pmc.edu/apply	a			Criminal Justice
+http://www.pmc.edu/apply	a			Dance
+http://www.pmc.edu/apply	a			Education
+http://www.pmc.edu/apply	a			English
+http://www.pmc.edu/apply	a			Fitness and Wellness
+http://www.pmc.edu/apply	a			French
+http://www.pmc.edu/apply	a			Human Resource Management
+http://www.pmc.edu/apply	a			International Business
+http://www.pmc.edu/apply	a			Music
+http://www.pmc.edu/apply	a			Non-Profit Organization
+http://www.pmc.edu/apply	a			Political Science
+http://www.pmc.edu/apply	a			Sociology and Political Science Minor
+http://www.pmc.edu/apply	a			Sociology
+http://www.pmc.edu/apply	a			Sports Management
+http://www.pmc.edu/apply	a			Theatre
+http://www.pmc.edu/apply	a			Women's Studies
+http://www.pmc.edu/apply	a			Cross Registration / Consortium Schools
+http://www.pmc.edu/apply	a			Portfolio Learning
+http://www.pmc.edu/apply	a			Internship Program
+http://www.pmc.edu/apply	a			Off-Campus Study
+http://www.pmc.edu/apply	a			Associate Degree Program
+http://www.pmc.edu/apply	a			A.S. in Biology
+http://www.pmc.edu/apply	a			A.A. in Criminal Justice
+http://www.pmc.edu/apply	a			A.A. Early Childhood / Education
+http://www.pmc.edu/apply	a			A.A. in English
+http://www.pmc.edu/apply	a			A.S. in Health Sciences
+http://www.pmc.edu/apply	a			A.A. in Liberal Studies
+http://www.pmc.edu/apply	a			A.S. in Management
+http://www.pmc.edu/apply	a			A.A. in Performing Arts
+http://www.pmc.edu/apply	a			A.A. in Theatre
+http://www.pmc.edu/apply	a			A.A. in Visual Arts
+http://www.pmc.edu/apply	a			Microsoft Certification Test Center
+http://www.pmc.edu/apply	a			FAQs; What Makes Us Different?
+http://www.pmc.edu/apply	a			News & Events
+http://www.pmc.edu/apply	a			Program Overview
+http://www.pmc.edu/apply	a			Admissions & Transfers
+http://www.pmc.edu/apply	a			Tuition & Fees
+http://www.pmc.edu/apply	a			Financial Aid / Fellowships
+http://www.pmc.edu/apply	a			Pedagogy & Applied Tracks
+http://www.pmc.edu/apply	a			Comics & Graphic Narratives
+http://www.pmc.edu/apply	a			Alumni & Degree Applications
+http://www.pmc.edu/apply	a			Professional Development courses
+http://www.pmc.edu/apply	a			Graduate Publications
+http://www.pmc.edu/apply	a			Post-graduate Opportunities
+http://www.pmc.edu/apply	a			PG Semester Details
+http://www.pmc.edu/apply	a			PG Certificate Details
+http://www.pmc.edu/apply	a			Semester Application Form
+http://www.pmc.edu/apply	a			Certificate Application Form
+http://www.pmc.edu/apply	a			Apply
+http://www.pmc.edu/apply	a			Deadlines
+http://www.pmc.edu/apply	a			Classes for Audit
+http://www.pmc.edu/apply	a			Class Audit Policy
+http://www.pmc.edu/apply	a			Class Audit Registration Form
+http://www.pmc.edu/apply	a			Faculty, Staff, & Guests
+http://www.pmc.edu/apply	a			Upcoming Special Guests
+http://www.pmc.edu/apply	a			Past Special Guests
+http://www.pmc.edu/apply	a			Faculty Interviews
+http://www.pmc.edu/apply	a			Brendan Kiely Interview
+http://www.pmc.edu/apply	a			Olugbemisola Rhuday-Perkovich Interview
+http://www.pmc.edu/apply	a			Sandra Scofield Interview
+http://www.pmc.edu/apply	a			Laure-Anne Bosselaar Interview
+http://www.pmc.edu/apply	a			Randall Kenan Interview
+http://www.pmc.edu/apply	a			Dzvinia Orlowsky Interview
+http://www.pmc.edu/apply	a			Interview with Grace Lin
+http://www.pmc.edu/apply	a			Laura Williams McCaffrey Interview
+http://www.pmc.edu/apply	a			Anne-Marie Oomen Interview
+http://www.pmc.edu/apply	a			David Yoo interview
+http://www.pmc.edu/apply	a			Steven Huff Interview
+http://www.pmc.edu/apply	a			Robert Lopez Interview
+http://www.pmc.edu/apply	a			Kathi Aguero Interview
+http://www.pmc.edu/apply	a			Iain Haley Pollock
+http://www.pmc.edu/apply	a			Venise Berry Interview
+http://www.pmc.edu/apply	a			Josh Neufeld Interview
+http://www.pmc.edu/apply	a			Sterling Watson Interview
+http://www.pmc.edu/apply	a			Interview with Renée Watson
+http://www.pmc.edu/apply	a			Interview with Jedediah Berry
+http://www.pmc.edu/apply	a			Amy Hoffman Interview
+http://www.pmc.edu/apply	a			Commencement Speakers
+http://www.pmc.edu/apply	a			Graduate Profiles
+http://www.pmc.edu/apply	a			Photos & Videos
+http://www.pmc.edu/apply	a			Winter Residency - Photo Album 2015
+http://www.pmc.edu/apply	a			Summer Residency Photo Album 2014
+http://www.pmc.edu/apply	a			Winter Residency Photo Album 2014
+http://www.pmc.edu/apply	a			MFA Videos
+http://www.pmc.edu/apply	a			Cave Canem Partnership
+http://www.pmc.edu/apply	a			Resources
+http://www.pmc.edu/apply	a			IT Help and Online Resources for MFA Students
+http://www.pmc.edu/apply	a			Links
+http://www.pmc.edu/apply	a			Contact
+http://www.pmc.edu/apply	a			Solstice: Maximum Tilt Anthology
+http://www.pmc.edu/apply	a			About Annenberg Library
+http://www.pmc.edu/apply	a			Citing Sources
+http://www.pmc.edu/apply	a			Interlibrary Loan
+http://www.pmc.edu/apply	a			Suggestion Box
+http://www.pmc.edu/apply	a			Public Patrons & Visitors
+http://www.pmc.edu/apply	a			Advising & Counseling
+http://www.pmc.edu/apply	a			Bookstore
+http://www.pmc.edu/apply	a			Institutional Technology
+http://www.pmc.edu/apply	a			Computer Facilities
+http://www.pmc.edu/apply	a			Privacy Statement
+http://www.pmc.edu/apply	a			Learning Resource Center (LRC)
+http://www.pmc.edu/apply	a			Accessibility Services
+http://www.pmc.edu/apply	a			Accessibility Services Registration and Disclosure Form
+http://www.pmc.edu/apply	a			Learning Resource Center Staff
+http://www.pmc.edu/apply	a			Students
+http://www.pmc.edu/apply	a			Resume and Cover Letter Guide
+http://www.pmc.edu/apply	a			Networking Guide - Internship
+http://www.pmc.edu/apply	a			Networking Guide - Full-Time
+http://www.pmc.edu/apply	a			Essential Interviewing Techniques
+http://www.pmc.edu/apply	a			References Guide
+http://www.pmc.edu/apply	a			Graduate School Guide
+http://www.pmc.edu/apply	a			Alumni
+http://www.pmc.edu/apply	a			Networking Guide
+http://www.pmc.edu/apply	a			Employers
+http://www.pmc.edu/apply	a			Submit a Job
+http://www.pmc.edu/apply	a			Job Search Resources
+http://www.pmc.edu/apply	a			Volunteer & Community Service
+http://www.pmc.edu/apply	a			Resumes, Cover Letters, References, Thank You Letters
+http://www.pmc.edu/apply	a			Career Development Videos
+http://www.pmc.edu/apply	a			Academic Policies
+http://www.pmc.edu/apply	a			Degree Programs
+http://www.pmc.edu/apply	a			Baccalaureate Programs
+http://www.pmc.edu/apply	a			Associate Degree Requirements
+http://www.pmc.edu/apply	a			Minors
+http://www.pmc.edu/apply	a			MFA Requirements
+http://www.pmc.edu/apply	a			Academic Ethics and Integrity
+http://www.pmc.edu/apply	a			Course Designations
+http://www.pmc.edu/apply	a			College Composition Grading Standards
+http://www.pmc.edu/apply	a			Continuing Studies
+http://www.pmc.edu/apply	a			Course Descriptions
+http://www.pmc.edu/apply	a			Accounting Courses
+http://www.pmc.edu/apply	a			Anthropology Courses
+http://www.pmc.edu/apply	a			Art History Courses
+http://www.pmc.edu/apply	a			Biology Courses
+http://www.pmc.edu/apply	a			Chemistry Courses
+http://www.pmc.edu/apply	a			Communication Courses
+http://www.pmc.edu/apply	a			Community Health Courses
+http://www.pmc.edu/apply	a			Computer Studies Courses
+http://www.pmc.edu/apply	a			Dance Courses
+http://www.pmc.edu/apply	a			Early Childhood: Education, Health and Leadership Courses
+http://www.pmc.edu/apply	a			Economics Courses
+http://www.pmc.edu/apply	a			English: College Composition Courses
+http://www.pmc.edu/apply	a			English: Creative Writing and Literature Courses
+http://www.pmc.edu/apply	a			Finance Courses
+http://www.pmc.edu/apply	a			First Year Seminar Courses
+http://www.pmc.edu/apply	a			French Courses
+http://www.pmc.edu/apply	a			History Courses
+http://www.pmc.edu/apply	a			Humanities Courses
+http://www.pmc.edu/apply	a			Interdisciplinary Courses
+http://www.pmc.edu/apply	a			Internships
+http://www.pmc.edu/apply	a			Liberal Studies Courses
+http://www.pmc.edu/apply	a			Management Courses
+http://www.pmc.edu/apply	a			Marketing Courses
+http://www.pmc.edu/apply	a			Mathematics Courses
+http://www.pmc.edu/apply	a			Music Courses
+http://www.pmc.edu/apply	a			Physics Courses
+http://www.pmc.edu/apply	a			Philosophy Courses
+http://www.pmc.edu/apply	a			Political Science Courses
+http://www.pmc.edu/apply	a			Psychology Courses
+http://www.pmc.edu/apply	a			Quantitative Reasoning Courses
+http://www.pmc.edu/apply	a			Religion Courses
+http://www.pmc.edu/apply	a			Service Learning Courses
+http://www.pmc.edu/apply	a			Sociology Courses
+http://www.pmc.edu/apply	a			Spanish Courses
+http://www.pmc.edu/apply	a			Social and Political Systems Courses
+http://www.pmc.edu/apply	a			Theatre Courses
+http://www.pmc.edu/apply	a			Visual Arts Courses
+http://www.pmc.edu/apply	a			Women’s Studies Courses
+http://www.pmc.edu/apply	a			Courses Without Disciplinary Designations
+http://www.pmc.edu/apply	a			Information Networks
+http://www.pmc.edu/apply	a			Copyright Infringement Policy
+http://www.pmc.edu/apply	a			Honors 2019
+http://www.pmc.edu/apply	a			Honors 2018
+http://www.pmc.edu/apply	a			Honors 2017
+http://www.pmc.edu/apply	a			Honors 2016
+http://www.pmc.edu/apply	a			Honors 2015
+http://www.pmc.edu/apply	a			Honors 2014
+http://www.pmc.edu/apply	a			Student Online Payment
+http://www.pmc.edu/apply	a			MFA Registration Form
+http://www.pmc.edu/apply	a			Programs
+http://www.pmc.edu/apply	a			Smartphone App
+http://www.pmc.edu/apply	a			Student Organizations
+http://www.pmc.edu/apply	a			New Student Housing Questionnaire 
+http://www.pmc.edu/apply	a			What to Bring to Campus
+http://www.pmc.edu/apply	a			Forms
+http://www.pmc.edu/apply	a			Residence Hall Layout
+http://www.pmc.edu/apply	a			Residential Calendar 2019-2020
+http://www.pmc.edu/apply	a			Student Property Insurance Information
+http://www.pmc.edu/apply	a			Resident Assistant Recruitment for Spring 2020
+http://www.pmc.edu/apply	a			Family Resources
+http://www.pmc.edu/apply	a			Academic Questions
+http://www.pmc.edu/apply	a			Outside the Classroom Questions
+http://www.pmc.edu/apply	a			Contact Us!
+http://www.pmc.edu/apply	a			Important Forms
+http://www.pmc.edu/apply	a			Orientation Leaders
+http://www.pmc.edu/apply	a			Orientation Schedule
+http://www.pmc.edu/apply	a			Crime Reports 
+http://www.pmc.edu/apply	a			Emergency Notification System
+http://www.pmc.edu/apply	a			Emergency Procedures
+http://www.pmc.edu/apply	a			Helpful Links
+http://www.pmc.edu/apply	a			Parking Information
+http://www.pmc.edu/apply	a			Register Your Guest
+http://www.pmc.edu/apply	a			Guest Policy
+http://www.pmc.edu/apply	a			Report a Crime Anonymously
+http://www.pmc.edu/apply	a			Shuttle Service
+http://www.pmc.edu/apply	a			Shuttle Schedule
+http://www.pmc.edu/apply	a			Shuttle Policy
+http://www.pmc.edu/apply	a			Meet the Drivers
+http://www.pmc.edu/apply	a			Shuttle Request Form
+http://www.pmc.edu/apply	a			Weather and College Closings
+http://www.pmc.edu/apply	a			Required Health Forms
+http://www.pmc.edu/apply	a			Alumnae/i Ambassador Registration
+http://www.pmc.edu/apply	a			Submit Class Notes
+http://www.pmc.edu/apply	a			Planned Giving
+http://www.pmc.edu/apply	a			Associates Club
+http://www.pmc.edu/apply	a			Ways to Give
+http://www.pmc.edu/apply	a			Make a Gift
+http://www.pmc.edu/apply	a			Double Your Gift
+http://www.pmc.edu/apply	a			Allysn Austin '09
+http://www.pmc.edu/apply	a			Ariana De Pina '11
+http://www.pmc.edu/apply	a			Christina Santos ‘12
+http://www.pmc.edu/apply	a			Courtney (Wallace) Peterson '10
+http://www.pmc.edu/apply	a			Devon Govoni '05
+http://www.pmc.edu/apply	a			Daniela Ramirez '13
+http://www.pmc.edu/apply	a			Dorosella Kaluma '11
+http://www.pmc.edu/apply	a			Elizabeth (Azu) Adjei ‘13
+http://www.pmc.edu/apply	a			Glenn Grushko '12
+http://www.pmc.edu/apply	a			Hannah Kaplan '13
+http://www.pmc.edu/apply	a			Heba Khurram '14
+http://www.pmc.edu/apply	a			Jeselene Andrade '13
+http://www.pmc.edu/apply	a			Johanne (Souffrant) Watts '09
+http://www.pmc.edu/apply	a			Kara Pogue Kessel '09
+http://www.pmc.edu/apply	a			Karm Syndia Augustin ‘13
+http://www.pmc.edu/apply	a			Kate Holden ‘14
+http://www.pmc.edu/apply	a			Katherine Henao '14
+http://www.pmc.edu/apply	a			Katherine Tavarez ‘15
+http://www.pmc.edu/apply	a			Margaret (Peggie Sweeney) Krippendorf ‘96
+http://www.pmc.edu/apply	a			Margaret Roberts '13
+http://www.pmc.edu/apply	a			Ryanne Spann '10
+http://www.pmc.edu/apply	a			Sera Godfrey '02
+http://www.pmc.edu/apply	a			Shakia Weaver ‘13
+http://www.pmc.edu/apply	a			Stephanie Crawford '09
+http://www.pmc.edu/apply	a			Tamara Sakala ‘14
+http://www.pmc.edu/apply	a			Tamise Francois '11
+http://www.pmc.edu/apply	a			Tatiana Mendez ‘15
+http://www.pmc.edu/apply	a			Teakia Brown '07
+http://www.pmc.edu/apply	a			Luz “Vanessa” Cintron '10
+http://www.pmc.edu/apply	div			In This Section
+http://www.pmc.edu/apply	div			 > Apply for Admission
+http://www.pmc.edu/apply	h1			Applying to Pine Manor College
+http://www.pmc.edu/apply	p			We know that the application process can be confusing. Our Admissions Department is here to help you out thru each step. We can help you understand the application process - whether you are entering as a first year student or a transfer. 
+http://www.pmc.edu/apply	p	p		If you are a veteran, a transfer student or applying as an International Student, please see below!
+http://www.pmc.edu/apply	p	p	strong	This year students applying to Pine Manor College 
+http://www.pmc.edu/apply	strong			may submit performance assessments
+http://www.pmc.edu/apply	p	p		 as part of their application packet. Performance assessment artifacts such as collections of student work, lab reports, or extended research papers, MAY HELP THE ADMISSIONS DEPARTMENT IN OUR DECISION and will be used alongside other materials such as your transcript(s) and letters of recommendation. 
+http://www.pmc.edu/apply	p	p	a	Applicants may submit performance assessment artifacts when they apply through the Common Application or email us at 
+http://www.pmc.edu/apply	a			admissions@pmc.edu
+http://www.pmc.edu/apply	p	p	strong	. Pine Manor College is making this opportunity possible as a 
+http://www.pmc.edu/apply	strong			partner in the 2019 Reimagining College Access Pilot
+http://www.pmc.edu/apply	p	p	a	. For more information, please visit
+http://www.pmc.edu/apply	a			 this page
+http://www.pmc.edu/apply	p		em	Pine Manor College offers bachelor's and associate degrees. 
+http://www.pmc.edu/apply	em			We accept applications year-round.
+http://www.pmc.edu/apply	p		a	  Students may apply to enter in the fall or spring, for full-time or part-time study. Applications are reviewed on a rolling basis, and admission decisions are made throughout the year. (To apply for Pine Manor College's Graduate Program - The Solstice Low-Residency Master of Fine Arts in Creative Writing Program, 
+http://www.pmc.edu/apply	a			click here
+http://www.pmc.edu/apply	p	p	em	In addition to academic achievement, the Admissions Committee looks for students possessing three characteristics - character, aspiration, and persistence. The committee pays particular attention to an applicant's personal essay, letters of recommendations, and involvement in community and co-curricular activities. 
+http://www.pmc.edu/apply	em			Submitting test scores for the SAT and ACT is optional and is not required for admission
+http://www.pmc.edu/apply	p	p		. Students should consider whether submitting their scores will help enhance their overall academic record.
+http://www.pmc.edu/apply	p	p		Over 80% of each year's entering class at Pine Manor College are first-time first-year students. The personal attention, care, and support you will receive as a student at Pine Manor starts with your first inquiry about the college and continues right through your graduation! 
+http://www.pmc.edu/apply	p	p		We will provide individual guidance as you apply for admission, complete your admission file and apply for financial aid. We will even be there to assist you through summer orientation and pre-registration activities(Summer Welcome Meetings). 
+http://www.pmc.edu/apply	p	p	a	Interviews are required - we really want to get to know you. You are encouraged to work directly with your admissions counselor and you may always reach us at 617-731-7011 or via email  
+http://www.pmc.edu/apply	h2	p		How to apply
+http://www.pmc.edu/apply	strong			All Applicants
+http://www.pmc.edu/apply	p	p		All applicants are required to provide:
+http://www.pmc.edu/apply	li			A completed application for admission
+http://www.pmc.edu/apply	li	li		A $25 application fee
+http://www.pmc.edu/apply	li	li		A personal essay of at least 250 words
+http://www.pmc.edu/apply	li	li		An official secondary school transcript submitted directly by your high school guidance office, or official results of the G.E.D. (can be unofficial to start the process)
+http://www.pmc.edu/apply	li	li	a	Two 
+http://www.pmc.edu/apply	a			letters of recommendation
+http://www.pmc.edu/apply	li	li		 from an adult that knows you (Guidance Counselor, Teacher, Mentor, Boss, coach)
+http://www.pmc.edu/apply	li	li		In-person or video conference conversation with your Admissions Counselor
+http://www.pmc.edu/apply	li	li	strong	SAT and ACT scores are 
+http://www.pmc.edu/apply	strong			optional
+http://www.pmc.edu/apply	li	li		. Carefully consider whether submitting your scores will enhance your overall application
+http://www.pmc.edu/apply	p	ul		The Admissions Committee may require applicants to submit a supplementary report of senior grades, interview with a member of the Admissions staff, sit for placement testing and/or provide additional materials that will attest to their readiness for college.
+http://www.pmc.edu/apply	p	p		 A final transcript indicating date of graduation will be required of all entering students is required for all students. 
+http://www.pmc.edu/apply	strong			Additional instructions for Transfer Applicants
+http://www.pmc.edu/apply	p	p		Candidates for admission who have attempted at least 13 credits of college coursework at another institution must submit the following:
+http://www.pmc.edu/apply	li			An official transcript of academic work at all previous colleges, and a copy of their college catalogs with course descriptions.
+http://www.pmc.edu/apply	li	li		An official high school transcript or G.E.D. diploma if fewer than 13 college-level credits have been earned.
+http://www.pmc.edu/apply	li	li		One letter of recommendation from a college faculty member.
+http://www.pmc.edu/apply	strong			Additional instructions for Veterans
+http://www.pmc.edu/apply	p	p		At Pine Manor College we welcome all eligible VA students into our community. Although eligibility criteria is established by the U.S. Department of Veterans Affairs and the U.S. Department of Defense and is subject to change, we do strive to ensure that students receive the necessary support and their educational benefits in a timely matter. While ultimately the responsibility for securing those benefits rests with the student, PMC is responsible for certifying and reporting enrollment information to the U.S. Department of Veterans Affairs each semester.
+http://www.pmc.edu/apply	p	p	a	Eligible students should feel free to contact our VA Certifying Official with any questions and review the following VA link for details and direction regarding benefits: 
+http://www.pmc.edu/apply	a			https://benefits.va.gov/benefits/
+http://www.pmc.edu/apply	strong			Additional instructions for International Students
+http://www.pmc.edu/apply	p	p		Applicants who do not have United States citizenship or a Green Card must submit the following:
+http://www.pmc.edu/apply	li			An original or certified copy of foreign secondary school records, professionally evaluated and translated into English.
+http://www.pmc.edu/apply	li	li		Two letters of recommendation, one from a school counselor or teacher and one from a teacher of English.
+http://www.pmc.edu/apply	li	li		If the applicant's native language is not English, official results of the TOEFL (Test Of English as a Foreign Language), IELTs or STEP Eiken exam.
+http://www.pmc.edu/apply	p	ul	a	Please visit our 
+http://www.pmc.edu/apply	a			International Admissions Page
+http://www.pmc.edu/apply	p	ul		 to learn more
+http://www.pmc.edu/apply	p	p	strong	Pine Manor College is committed to creating a diverse community of people who can live and work in an atmosphere of mutual respect and appreciation for the rights of each individual. The College admits students without regard to race, color, religion or creed, national or ethnic origin, age, disability, veteran’s status, sexual orientation or marital status. The College does not discriminate on the basis of race, color, religion or creed, national or ethnic origin, age, handicap, veteran’s status, sex, sexual orientation or marital status in the administration of its educational policies, athletic and other programs or employment practices and programs.
+http://www.pmc.edu/apply	strong			APPLY THROUGH COMMON APP
+http://www.pmc.edu/apply	strong			APPLY ONLINE
+http://www.pmc.edu/apply	h1			Contact Admissions 
+http://www.pmc.edu/apply	p			We are happy to answer your questions and provide more information on Pine Manor College. You can call any member of the admissions staff, send us an email, or complete the form below.
+http://www.pmc.edu/apply	p	p		We look forward to hearing from you.
+http://www.pmc.edu/apply	strong		br	Samuel H. White
+http://www.pmc.edu/apply	p	p	br	Dean of Enrollment & Admissions 
+http://www.pmc.edu/apply	p	p	br	617-731-7107 
+http://www.pmc.edu/apply	a	br		swhite@pmc.edu
+http://www.pmc.edu/apply	strong		br	Alexandra Caine, MS
+http://www.pmc.edu/apply	p	p	br	Assistant Director of Admissions, DSO 
+http://www.pmc.edu/apply	p	p	br	617-512-3064 
+http://www.pmc.edu/apply	a	br		acaine@pmc.edu
+http://www.pmc.edu/apply	strong		br	Adonica Williams
+http://www.pmc.edu/apply	p	p	br	Senior Admissions Counselor 
+http://www.pmc.edu/apply	p	p	br	781-468-6133 
+http://www.pmc.edu/apply	a	br		awilliams@pmc.edu
+http://www.pmc.edu/apply	strong		br	Christina Burkhardt
+http://www.pmc.edu/apply	p	p	br	Admissions Counselor 
+http://www.pmc.edu/apply	p	p	br	617-862-7897 
+http://www.pmc.edu/apply	a	br		cburkhardt@pmc.edu
+http://www.pmc.edu/apply	strong		br	Migdalia (Milly) Perez
+http://www.pmc.edu/apply	p	p	br	Admissions Office Coordinator 
+http://www.pmc.edu/apply	p	p	br	617-731-7011 
+http://www.pmc.edu/apply	a	br		mperez@pmc.edu
+http://www.pmc.edu/apply	strong		br	Admissions Office:  
+http://www.pmc.edu/apply	a	strong		admissions@pmc.edu
+http://www.pmc.edu/apply	strong			P: 617-731-7011
+http://www.pmc.edu/apply	strong			F: 617.731.7102
+http://www.pmc.edu/apply	a			Site Map
+http://www.pmc.edu/apply	a			Portal Login
+http://www.pmc.edu/apply	p			Phone 617-731-7000 | Fax 617-731-7199 | 400 Heath Street, Chestnut Hill, MA 02467
+http://www.pmc.edu/apply	p		br	Copyright © 2010, Pine Manor College
+http://www.pmc.edu/apply	br		p	                              All Rights Reserved.                          
+http://www.pmc.edu/apply	a			Notice of Marketing Policy
+http://www.pmc.edu/csc-apply	button			Search
+http://www.pmc.edu/csc-apply	a			Pine Manor College
+http://www.pmc.edu/csc-apply	a			Skip navigation
+http://www.pmc.edu/csc-apply	a			Home
+http://www.pmc.edu/csc-apply	a			About
+http://www.pmc.edu/csc-apply	a			English Language Institute (ELI)
+http://www.pmc.edu/csc-apply	a			Faculty & Staff Directory
+http://www.pmc.edu/csc-apply	a			Hess Gallery
+http://www.pmc.edu/csc-apply	a			History
+http://www.pmc.edu/csc-apply	a			In Memoriam
+http://www.pmc.edu/csc-apply	a			Job Opportunities
+http://www.pmc.edu/csc-apply	a			Mission
+http://www.pmc.edu/csc-apply	a			News
+http://www.pmc.edu/csc-apply	a			Preschool
+http://www.pmc.edu/csc-apply	a			Trustees
+http://www.pmc.edu/csc-apply	a			Visitor's Guide
+http://www.pmc.edu/csc-apply	a			Event rentals
+http://www.pmc.edu/csc-apply	a			Admissions
+http://www.pmc.edu/csc-apply	a			Apply for Admission
+http://www.pmc.edu/csc-apply	a			Academic Offerings
+http://www.pmc.edu/csc-apply	a			Meet our staff
+http://www.pmc.edu/csc-apply	a			FAQ
+http://www.pmc.edu/csc-apply	a			Financial Aid
+http://www.pmc.edu/csc-apply	a			International Students
+http://www.pmc.edu/csc-apply	a			Open College
+http://www.pmc.edu/csc-apply	a			New Students Information
+http://www.pmc.edu/csc-apply	a			Quotes from Senior Portfolios
+http://www.pmc.edu/csc-apply	a			Student Enrollment
+http://www.pmc.edu/csc-apply	a			Transfer to PMC
+http://www.pmc.edu/csc-apply	a			Visit Pine Manor College
+http://www.pmc.edu/csc-apply	a			Viewbook
+http://www.pmc.edu/csc-apply	a			Additional Financial Resources
+http://www.pmc.edu/csc-apply	a			Applications and Forms
+http://www.pmc.edu/csc-apply	a			Applying for Financial Aid
+http://www.pmc.edu/csc-apply	a			Contacts for Financial Aid
+http://www.pmc.edu/csc-apply	a			Financial Aid FAQ
+http://www.pmc.edu/csc-apply	a			Late Student Account Payment Fee
+http://www.pmc.edu/csc-apply	a			PMC Loan Center
+http://www.pmc.edu/csc-apply	a			Satisfactory Academic Progress Policy
+http://www.pmc.edu/csc-apply	a			Scholarships and Grants
+http://www.pmc.edu/csc-apply	a			Student Consumer Information
+http://www.pmc.edu/csc-apply	a			Tuition & Costs
+http://www.pmc.edu/csc-apply	a			Credit Balance Refund Policy
+http://www.pmc.edu/csc-apply	a			Withdrawal Refund Policy
+http://www.pmc.edu/csc-apply	a			Student Health Insurance Plan
+http://www.pmc.edu/csc-apply	a			Academics
+http://www.pmc.edu/csc-apply	a			Dean of the College
+http://www.pmc.edu/csc-apply	a			Departments & Programs
+http://www.pmc.edu/csc-apply	a			MFA in Creative Writing
+http://www.pmc.edu/csc-apply	a			Academic Services
+http://www.pmc.edu/csc-apply	a			Annenberg Library
+http://www.pmc.edu/csc-apply	a			Career Development
+http://www.pmc.edu/csc-apply	a			Academic Calendar
+http://www.pmc.edu/csc-apply	a			Academic Catalog
+http://www.pmc.edu/csc-apply	a			Confidentiality of Student Records
+http://www.pmc.edu/csc-apply	a			Core Curriculum Requirements
+http://www.pmc.edu/csc-apply	a			Conifers
+http://www.pmc.edu/csc-apply	a			Faculty Presentations and Publications
+http://www.pmc.edu/csc-apply	a			Faculty Symposium Series
+http://www.pmc.edu/csc-apply	a			Full-Time Faculty Directory
+http://www.pmc.edu/csc-apply	a			Honors Programs
+http://www.pmc.edu/csc-apply	a			Internships Evaluation
+http://www.pmc.edu/csc-apply	a			Institutional Review Board
+http://www.pmc.edu/csc-apply	a			Kings Pathways
+http://www.pmc.edu/csc-apply	a			Pathways to Healthcare and Science Careers
+http://www.pmc.edu/csc-apply	a			Presidential Scholarship Reception
+http://www.pmc.edu/csc-apply	a			Registrar
+http://www.pmc.edu/csc-apply	a			Student Affairs 
+http://www.pmc.edu/csc-apply	a			Student Activities 
+http://www.pmc.edu/csc-apply	a			Residence Life
+http://www.pmc.edu/csc-apply	a			New Student Resources
+http://www.pmc.edu/csc-apply	a			Student Affairs Staff
+http://www.pmc.edu/csc-apply	a			Campus Safety
+http://www.pmc.edu/csc-apply	a			Dining
+http://www.pmc.edu/csc-apply	a			Athletics
+http://www.pmc.edu/csc-apply	a			Health and Wellness
+http://www.pmc.edu/csc-apply	a			International Student Resources
+http://www.pmc.edu/csc-apply	a			Online Store
+http://www.pmc.edu/csc-apply	a			Student Handbook
+http://www.pmc.edu/csc-apply	a			Technology Resources
+http://www.pmc.edu/csc-apply	a			Title IX/Sexual Misconduct Policy
+http://www.pmc.edu/csc-apply	a			Men's Baseball
+http://www.pmc.edu/csc-apply	a			Men's Basketball
+http://www.pmc.edu/csc-apply	a			Men's Cross Country
+http://www.pmc.edu/csc-apply	a			Men's Soccer
+http://www.pmc.edu/csc-apply	a			Men's Volleyball
+http://www.pmc.edu/csc-apply	a			Women's Basketball
+http://www.pmc.edu/csc-apply	a			Women's Cross Country
+http://www.pmc.edu/csc-apply	a			Women's Soccer
+http://www.pmc.edu/csc-apply	a			Women's Softball
+http://www.pmc.edu/csc-apply	a			Women's Volleyball
+http://www.pmc.edu/csc-apply	a			Alumnae/i & Friends
+http://www.pmc.edu/csc-apply	a			Alumnae/i Ambassadors Program
+http://www.pmc.edu/csc-apply	a			Class Notes
+http://www.pmc.edu/csc-apply	a			Contact Us
+http://www.pmc.edu/csc-apply	a			Give to PMC
+http://www.pmc.edu/csc-apply	a			My Career Story
+http://www.pmc.edu/csc-apply	a			Pine Manor College Products
+http://www.pmc.edu/csc-apply	a			PMC Bulletin
+http://www.pmc.edu/csc-apply	a			Past Alumnae/i Events
+http://www.pmc.edu/csc-apply	a			Recent PMC Grads
+http://www.pmc.edu/csc-apply	a			Services
+http://www.pmc.edu/csc-apply	a			Testimonials from PMC Graduates
+http://www.pmc.edu/csc-apply	a			Update Your Contact Information
+http://www.pmc.edu/csc-apply	a			 Menu
+http://www.pmc.edu/csc-apply	a			About ELI
+http://www.pmc.edu/csc-apply	a			ELI News
+http://www.pmc.edu/csc-apply	a			Courses
+http://www.pmc.edu/csc-apply	a			Intensive English Program
+http://www.pmc.edu/csc-apply	a			Semi-Intensive English Program
+http://www.pmc.edu/csc-apply	a			University Preparation
+http://www.pmc.edu/csc-apply	a			English   University Studies
+http://www.pmc.edu/csc-apply	a			Private Lessons
+http://www.pmc.edu/csc-apply	a			Language & Excursions Program
+http://www.pmc.edu/csc-apply	a			Application & Prices
+http://www.pmc.edu/csc-apply	a			ELI Online Payment
+http://www.pmc.edu/csc-apply	a			Campus & Location
+http://www.pmc.edu/csc-apply	a			Activities
+http://www.pmc.edu/csc-apply	a			Sample Activity Calendars
+http://www.pmc.edu/csc-apply	a			Campus Life
+http://www.pmc.edu/csc-apply	a			Team
+http://www.pmc.edu/csc-apply	a			Become a PMC ELI Agent
+http://www.pmc.edu/csc-apply	a			General Information
+http://www.pmc.edu/csc-apply	a			Current Exhibition
+http://www.pmc.edu/csc-apply	a			Upcoming Exhibitions
+http://www.pmc.edu/csc-apply	a			Previous Exhibitions
+http://www.pmc.edu/csc-apply	a			Information for Artists
+http://www.pmc.edu/csc-apply	a			Enrollment
+http://www.pmc.edu/csc-apply	a			Strategic Plan
+http://www.pmc.edu/csc-apply	a			Accreditation
+http://www.pmc.edu/csc-apply	a			Student Life
+http://www.pmc.edu/csc-apply	a			Financial Information
+http://www.pmc.edu/csc-apply	a			English Language Institute
+http://www.pmc.edu/csc-apply	a			About Us
+http://www.pmc.edu/csc-apply	a			Open House
+http://www.pmc.edu/csc-apply	a			Curriculum
+http://www.pmc.edu/csc-apply	a			Location
+http://www.pmc.edu/csc-apply	a			Schedules & Rates
+http://www.pmc.edu/csc-apply	a			CSC Online Payment
+http://www.pmc.edu/csc-apply	a			Meet the Staff
+http://www.pmc.edu/csc-apply	a			How to Apply
+http://www.pmc.edu/csc-apply	a			Contracts
+http://www.pmc.edu/csc-apply	a			Calendar
+http://www.pmc.edu/csc-apply	a			Daily Schedule
+http://www.pmc.edu/csc-apply	a			Photo Album
+http://www.pmc.edu/csc-apply	a			Family Involvement
+http://www.pmc.edu/csc-apply	a			What Parents Say
+http://www.pmc.edu/csc-apply	a			Parent Handbook
+http://www.pmc.edu/csc-apply	a			Newton
+http://www.pmc.edu/csc-apply	a			By-Laws
+http://www.pmc.edu/csc-apply	a			Virtual Tour
+http://www.pmc.edu/csc-apply	a			Campus Map
+http://www.pmc.edu/csc-apply	a			Directions to PMC
+http://www.pmc.edu/csc-apply	a			Photo Gallery
+http://www.pmc.edu/csc-apply	a			Videos
+http://www.pmc.edu/csc-apply	a			Visiting Boston
+http://www.pmc.edu/csc-apply	a			Accommodations
+http://www.pmc.edu/csc-apply	a			Restaurants in Chestnut Hill
+http://www.pmc.edu/csc-apply	a			Contact Admissions
+http://www.pmc.edu/csc-apply	a			Scholarships and Grants 
+http://www.pmc.edu/csc-apply	a			Welcome
+http://www.pmc.edu/csc-apply	a			International Application for Admission
+http://www.pmc.edu/csc-apply	a			Academic Programs
+http://www.pmc.edu/csc-apply	a			Visa Information
+http://www.pmc.edu/csc-apply	a			What Students Say
+http://www.pmc.edu/csc-apply	a			Tuition Deposit
+http://www.pmc.edu/csc-apply	a			Welcome to Pine Manor College!
+http://www.pmc.edu/csc-apply	a			Directions
+http://www.pmc.edu/csc-apply	a			Parents and Families
+http://www.pmc.edu/csc-apply	a			FAFSA - IRS Data Retrieval Tool
+http://www.pmc.edu/csc-apply	a			Founders Scholarship
+http://www.pmc.edu/csc-apply	a			Dean's List
+http://www.pmc.edu/csc-apply	a			Biology
+http://www.pmc.edu/csc-apply	a			Pathways to Science
+http://www.pmc.edu/csc-apply	a			Tufts University “TEACRS”
+http://www.pmc.edu/csc-apply	a			BioScholars
+http://www.pmc.edu/csc-apply	a			Biology Program
+http://www.pmc.edu/csc-apply	a			BioTech Certificate
+http://www.pmc.edu/csc-apply	a			Senior Internships
+http://www.pmc.edu/csc-apply	a			Business and Management (BAM)
+http://www.pmc.edu/csc-apply	a			Business and Management Program Requirements
+http://www.pmc.edu/csc-apply	a			Let's Get to Business: FALL 2019 SPEAKERS
+http://www.pmc.edu/csc-apply	a			Communication
+http://www.pmc.edu/csc-apply	a			Communication Program Requirements
+http://www.pmc.edu/csc-apply	a			Community Health
+http://www.pmc.edu/csc-apply	a			Community Health Requirements
+http://www.pmc.edu/csc-apply	a			Early Childhood: Education, Health and Leadership
+http://www.pmc.edu/csc-apply	a			Early Childhood: Education, Health & Leadership Program Requirements
+http://www.pmc.edu/csc-apply	a			CORI Policy
+http://www.pmc.edu/csc-apply	a			English: College Composition
+http://www.pmc.edu/csc-apply	a			English: Creative Writing and Literature
+http://www.pmc.edu/csc-apply	a			English Program Requirements
+http://www.pmc.edu/csc-apply	a			BA/MFA in Creative Writing
+http://www.pmc.edu/csc-apply	a			Mathematics and Quantitative Reasoning
+http://www.pmc.edu/csc-apply	a			Psychology
+http://www.pmc.edu/csc-apply	a			Psychology Program Requirements
+http://www.pmc.edu/csc-apply	a			Psychology Alumni Dinner
+http://www.pmc.edu/csc-apply	a			Sociology and Political Science
+http://www.pmc.edu/csc-apply	a			Sociology and Political Science Program Requirements
+http://www.pmc.edu/csc-apply	a			Visual Arts
+http://www.pmc.edu/csc-apply	a			Visual Arts Program Requirements
+http://www.pmc.edu/csc-apply	a			Self-Designed Major
+http://www.pmc.edu/csc-apply	a			Academic Minors
+http://www.pmc.edu/csc-apply	a			Accounting
+http://www.pmc.edu/csc-apply	a			Art History
+http://www.pmc.edu/csc-apply	a			Counseling
+http://www.pmc.edu/csc-apply	a			Creative Writing
+http://www.pmc.edu/csc-apply	a			Criminal Justice
+http://www.pmc.edu/csc-apply	a			Dance
+http://www.pmc.edu/csc-apply	a			Education
+http://www.pmc.edu/csc-apply	a			English
+http://www.pmc.edu/csc-apply	a			Fitness and Wellness
+http://www.pmc.edu/csc-apply	a			French
+http://www.pmc.edu/csc-apply	a			Human Resource Management
+http://www.pmc.edu/csc-apply	a			International Business
+http://www.pmc.edu/csc-apply	a			Music
+http://www.pmc.edu/csc-apply	a			Non-Profit Organization
+http://www.pmc.edu/csc-apply	a			Political Science
+http://www.pmc.edu/csc-apply	a			Sociology and Political Science Minor
+http://www.pmc.edu/csc-apply	a			Sociology
+http://www.pmc.edu/csc-apply	a			Sports Management
+http://www.pmc.edu/csc-apply	a			Theatre
+http://www.pmc.edu/csc-apply	a			Women's Studies
+http://www.pmc.edu/csc-apply	a			Cross Registration / Consortium Schools
+http://www.pmc.edu/csc-apply	a			Portfolio Learning
+http://www.pmc.edu/csc-apply	a			Internship Program
+http://www.pmc.edu/csc-apply	a			Off-Campus Study
+http://www.pmc.edu/csc-apply	a			Associate Degree Program
+http://www.pmc.edu/csc-apply	a			A.S. in Biology
+http://www.pmc.edu/csc-apply	a			A.A. in Criminal Justice
+http://www.pmc.edu/csc-apply	a			A.A. Early Childhood / Education
+http://www.pmc.edu/csc-apply	a			A.A. in English
+http://www.pmc.edu/csc-apply	a			A.S. in Health Sciences
+http://www.pmc.edu/csc-apply	a			A.A. in Liberal Studies
+http://www.pmc.edu/csc-apply	a			A.S. in Management
+http://www.pmc.edu/csc-apply	a			A.A. in Performing Arts
+http://www.pmc.edu/csc-apply	a			A.A. in Theatre
+http://www.pmc.edu/csc-apply	a			A.A. in Visual Arts
+http://www.pmc.edu/csc-apply	a			Microsoft Certification Test Center
+http://www.pmc.edu/csc-apply	a			FAQs; What Makes Us Different?
+http://www.pmc.edu/csc-apply	a			News & Events
+http://www.pmc.edu/csc-apply	a			Program Overview
+http://www.pmc.edu/csc-apply	a			Admissions & Transfers
+http://www.pmc.edu/csc-apply	a			Tuition & Fees
+http://www.pmc.edu/csc-apply	a			Financial Aid / Fellowships
+http://www.pmc.edu/csc-apply	a			Pedagogy & Applied Tracks
+http://www.pmc.edu/csc-apply	a			Comics & Graphic Narratives
+http://www.pmc.edu/csc-apply	a			Alumni & Degree Applications
+http://www.pmc.edu/csc-apply	a			Professional Development courses
+http://www.pmc.edu/csc-apply	a			Graduate Publications
+http://www.pmc.edu/csc-apply	a			Post-graduate Opportunities
+http://www.pmc.edu/csc-apply	a			PG Semester Details
+http://www.pmc.edu/csc-apply	a			PG Certificate Details
+http://www.pmc.edu/csc-apply	a			Semester Application Form
+http://www.pmc.edu/csc-apply	a			Certificate Application Form
+http://www.pmc.edu/csc-apply	a			Apply
+http://www.pmc.edu/csc-apply	a			Deadlines
+http://www.pmc.edu/csc-apply	a			Classes for Audit
+http://www.pmc.edu/csc-apply	a			Class Audit Policy
+http://www.pmc.edu/csc-apply	a			Class Audit Registration Form
+http://www.pmc.edu/csc-apply	a			Faculty, Staff, & Guests
+http://www.pmc.edu/csc-apply	a			Upcoming Special Guests
+http://www.pmc.edu/csc-apply	a			Past Special Guests
+http://www.pmc.edu/csc-apply	a			Faculty Interviews
+http://www.pmc.edu/csc-apply	a			Brendan Kiely Interview
+http://www.pmc.edu/csc-apply	a			Olugbemisola Rhuday-Perkovich Interview
+http://www.pmc.edu/csc-apply	a			Sandra Scofield Interview
+http://www.pmc.edu/csc-apply	a			Laure-Anne Bosselaar Interview
+http://www.pmc.edu/csc-apply	a			Randall Kenan Interview
+http://www.pmc.edu/csc-apply	a			Dzvinia Orlowsky Interview
+http://www.pmc.edu/csc-apply	a			Interview with Grace Lin
+http://www.pmc.edu/csc-apply	a			Laura Williams McCaffrey Interview
+http://www.pmc.edu/csc-apply	a			Anne-Marie Oomen Interview
+http://www.pmc.edu/csc-apply	a			David Yoo interview
+http://www.pmc.edu/csc-apply	a			Steven Huff Interview
+http://www.pmc.edu/csc-apply	a			Robert Lopez Interview
+http://www.pmc.edu/csc-apply	a			Kathi Aguero Interview
+http://www.pmc.edu/csc-apply	a			Iain Haley Pollock
+http://www.pmc.edu/csc-apply	a			Venise Berry Interview
+http://www.pmc.edu/csc-apply	a			Josh Neufeld Interview
+http://www.pmc.edu/csc-apply	a			Sterling Watson Interview
+http://www.pmc.edu/csc-apply	a			Interview with Renée Watson
+http://www.pmc.edu/csc-apply	a			Interview with Jedediah Berry
+http://www.pmc.edu/csc-apply	a			Amy Hoffman Interview
+http://www.pmc.edu/csc-apply	a			Commencement Speakers
+http://www.pmc.edu/csc-apply	a			Graduate Profiles
+http://www.pmc.edu/csc-apply	a			Photos & Videos
+http://www.pmc.edu/csc-apply	a			Winter Residency - Photo Album 2015
+http://www.pmc.edu/csc-apply	a			Summer Residency Photo Album 2014
+http://www.pmc.edu/csc-apply	a			Winter Residency Photo Album 2014
+http://www.pmc.edu/csc-apply	a			MFA Videos
+http://www.pmc.edu/csc-apply	a			Cave Canem Partnership
+http://www.pmc.edu/csc-apply	a			Resources
+http://www.pmc.edu/csc-apply	a			IT Help and Online Resources for MFA Students
+http://www.pmc.edu/csc-apply	a			Links
+http://www.pmc.edu/csc-apply	a			Contact
+http://www.pmc.edu/csc-apply	a			Solstice: Maximum Tilt Anthology
+http://www.pmc.edu/csc-apply	a			About Annenberg Library
+http://www.pmc.edu/csc-apply	a			Citing Sources
+http://www.pmc.edu/csc-apply	a			Interlibrary Loan
+http://www.pmc.edu/csc-apply	a			Suggestion Box
+http://www.pmc.edu/csc-apply	a			Public Patrons & Visitors
+http://www.pmc.edu/csc-apply	a			Advising & Counseling
+http://www.pmc.edu/csc-apply	a			Bookstore
+http://www.pmc.edu/csc-apply	a			Institutional Technology
+http://www.pmc.edu/csc-apply	a			Computer Facilities
+http://www.pmc.edu/csc-apply	a			Privacy Statement
+http://www.pmc.edu/csc-apply	a			Learning Resource Center (LRC)
+http://www.pmc.edu/csc-apply	a			Accessibility Services
+http://www.pmc.edu/csc-apply	a			Accessibility Services Registration and Disclosure Form
+http://www.pmc.edu/csc-apply	a			Learning Resource Center Staff
+http://www.pmc.edu/csc-apply	a			Students
+http://www.pmc.edu/csc-apply	a			Resume and Cover Letter Guide
+http://www.pmc.edu/csc-apply	a			Networking Guide - Internship
+http://www.pmc.edu/csc-apply	a			Networking Guide - Full-Time
+http://www.pmc.edu/csc-apply	a			Essential Interviewing Techniques
+http://www.pmc.edu/csc-apply	a			References Guide
+http://www.pmc.edu/csc-apply	a			Graduate School Guide
+http://www.pmc.edu/csc-apply	a			Alumni
+http://www.pmc.edu/csc-apply	a			Networking Guide
+http://www.pmc.edu/csc-apply	a			Employers
+http://www.pmc.edu/csc-apply	a			Submit a Job
+http://www.pmc.edu/csc-apply	a			Job Search Resources
+http://www.pmc.edu/csc-apply	a			Volunteer & Community Service
+http://www.pmc.edu/csc-apply	a			Resumes, Cover Letters, References, Thank You Letters
+http://www.pmc.edu/csc-apply	a			Career Development Videos
+http://www.pmc.edu/csc-apply	a			Academic Policies
+http://www.pmc.edu/csc-apply	a			Degree Programs
+http://www.pmc.edu/csc-apply	a			Baccalaureate Programs
+http://www.pmc.edu/csc-apply	a			Associate Degree Requirements
+http://www.pmc.edu/csc-apply	a			Minors
+http://www.pmc.edu/csc-apply	a			MFA Requirements
+http://www.pmc.edu/csc-apply	a			Academic Ethics and Integrity
+http://www.pmc.edu/csc-apply	a			Course Designations
+http://www.pmc.edu/csc-apply	a			College Composition Grading Standards
+http://www.pmc.edu/csc-apply	a			Continuing Studies
+http://www.pmc.edu/csc-apply	a			Course Descriptions
+http://www.pmc.edu/csc-apply	a			Accounting Courses
+http://www.pmc.edu/csc-apply	a			Anthropology Courses
+http://www.pmc.edu/csc-apply	a			Art History Courses
+http://www.pmc.edu/csc-apply	a			Biology Courses
+http://www.pmc.edu/csc-apply	a			Chemistry Courses
+http://www.pmc.edu/csc-apply	a			Communication Courses
+http://www.pmc.edu/csc-apply	a			Community Health Courses
+http://www.pmc.edu/csc-apply	a			Computer Studies Courses
+http://www.pmc.edu/csc-apply	a			Dance Courses
+http://www.pmc.edu/csc-apply	a			Early Childhood: Education, Health and Leadership Courses
+http://www.pmc.edu/csc-apply	a			Economics Courses
+http://www.pmc.edu/csc-apply	a			English: College Composition Courses
+http://www.pmc.edu/csc-apply	a			English: Creative Writing and Literature Courses
+http://www.pmc.edu/csc-apply	a			Finance Courses
+http://www.pmc.edu/csc-apply	a			First Year Seminar Courses
+http://www.pmc.edu/csc-apply	a			French Courses
+http://www.pmc.edu/csc-apply	a			History Courses
+http://www.pmc.edu/csc-apply	a			Humanities Courses
+http://www.pmc.edu/csc-apply	a			Interdisciplinary Courses
+http://www.pmc.edu/csc-apply	a			Internships
+http://www.pmc.edu/csc-apply	a			Liberal Studies Courses
+http://www.pmc.edu/csc-apply	a			Management Courses
+http://www.pmc.edu/csc-apply	a			Marketing Courses
+http://www.pmc.edu/csc-apply	a			Mathematics Courses
+http://www.pmc.edu/csc-apply	a			Music Courses
+http://www.pmc.edu/csc-apply	a			Physics Courses
+http://www.pmc.edu/csc-apply	a			Philosophy Courses
+http://www.pmc.edu/csc-apply	a			Political Science Courses
+http://www.pmc.edu/csc-apply	a			Psychology Courses
+http://www.pmc.edu/csc-apply	a			Quantitative Reasoning Courses
+http://www.pmc.edu/csc-apply	a			Religion Courses
+http://www.pmc.edu/csc-apply	a			Service Learning Courses
+http://www.pmc.edu/csc-apply	a			Sociology Courses
+http://www.pmc.edu/csc-apply	a			Spanish Courses
+http://www.pmc.edu/csc-apply	a			Social and Political Systems Courses
+http://www.pmc.edu/csc-apply	a			Theatre Courses
+http://www.pmc.edu/csc-apply	a			Visual Arts Courses
+http://www.pmc.edu/csc-apply	a			Women’s Studies Courses
+http://www.pmc.edu/csc-apply	a			Courses Without Disciplinary Designations
+http://www.pmc.edu/csc-apply	a			Information Networks
+http://www.pmc.edu/csc-apply	a			Copyright Infringement Policy
+http://www.pmc.edu/csc-apply	a			Honors 2019
+http://www.pmc.edu/csc-apply	a			Honors 2018
+http://www.pmc.edu/csc-apply	a			Honors 2017
+http://www.pmc.edu/csc-apply	a			Honors 2016
+http://www.pmc.edu/csc-apply	a			Honors 2015
+http://www.pmc.edu/csc-apply	a			Honors 2014
+http://www.pmc.edu/csc-apply	a			Student Online Payment
+http://www.pmc.edu/csc-apply	a			MFA Registration Form
+http://www.pmc.edu/csc-apply	a			Programs
+http://www.pmc.edu/csc-apply	a			Smartphone App
+http://www.pmc.edu/csc-apply	a			Student Organizations
+http://www.pmc.edu/csc-apply	a			New Student Housing Questionnaire 
+http://www.pmc.edu/csc-apply	a			What to Bring to Campus
+http://www.pmc.edu/csc-apply	a			Forms
+http://www.pmc.edu/csc-apply	a			Residence Hall Layout
+http://www.pmc.edu/csc-apply	a			Residential Calendar 2019-2020
+http://www.pmc.edu/csc-apply	a			Student Property Insurance Information
+http://www.pmc.edu/csc-apply	a			Resident Assistant Recruitment for Spring 2020
+http://www.pmc.edu/csc-apply	a			Family Resources
+http://www.pmc.edu/csc-apply	a			Academic Questions
+http://www.pmc.edu/csc-apply	a			Outside the Classroom Questions
+http://www.pmc.edu/csc-apply	a			Contact Us!
+http://www.pmc.edu/csc-apply	a			Important Forms
+http://www.pmc.edu/csc-apply	a			Orientation Leaders
+http://www.pmc.edu/csc-apply	a			Orientation Schedule
+http://www.pmc.edu/csc-apply	a			Crime Reports 
+http://www.pmc.edu/csc-apply	a			Emergency Notification System
+http://www.pmc.edu/csc-apply	a			Emergency Procedures
+http://www.pmc.edu/csc-apply	a			Helpful Links
+http://www.pmc.edu/csc-apply	a			Parking Information
+http://www.pmc.edu/csc-apply	a			Register Your Guest
+http://www.pmc.edu/csc-apply	a			Guest Policy
+http://www.pmc.edu/csc-apply	a			Report a Crime Anonymously
+http://www.pmc.edu/csc-apply	a			Shuttle Service
+http://www.pmc.edu/csc-apply	a			Shuttle Schedule
+http://www.pmc.edu/csc-apply	a			Shuttle Policy
+http://www.pmc.edu/csc-apply	a			Meet the Drivers
+http://www.pmc.edu/csc-apply	a			Shuttle Request Form
+http://www.pmc.edu/csc-apply	a			Weather and College Closings
+http://www.pmc.edu/csc-apply	a			Required Health Forms
+http://www.pmc.edu/csc-apply	a			Alumnae/i Ambassador Registration
+http://www.pmc.edu/csc-apply	a			Submit Class Notes
+http://www.pmc.edu/csc-apply	a			Planned Giving
+http://www.pmc.edu/csc-apply	a			Associates Club
+http://www.pmc.edu/csc-apply	a			Ways to Give
+http://www.pmc.edu/csc-apply	a			Make a Gift
+http://www.pmc.edu/csc-apply	a			Double Your Gift
+http://www.pmc.edu/csc-apply	a			Allysn Austin '09
+http://www.pmc.edu/csc-apply	a			Ariana De Pina '11
+http://www.pmc.edu/csc-apply	a			Christina Santos ‘12
+http://www.pmc.edu/csc-apply	a			Courtney (Wallace) Peterson '10
+http://www.pmc.edu/csc-apply	a			Devon Govoni '05
+http://www.pmc.edu/csc-apply	a			Daniela Ramirez '13
+http://www.pmc.edu/csc-apply	a			Dorosella Kaluma '11
+http://www.pmc.edu/csc-apply	a			Elizabeth (Azu) Adjei ‘13
+http://www.pmc.edu/csc-apply	a			Glenn Grushko '12
+http://www.pmc.edu/csc-apply	a			Hannah Kaplan '13
+http://www.pmc.edu/csc-apply	a			Heba Khurram '14
+http://www.pmc.edu/csc-apply	a			Jeselene Andrade '13
+http://www.pmc.edu/csc-apply	a			Johanne (Souffrant) Watts '09
+http://www.pmc.edu/csc-apply	a			Kara Pogue Kessel '09
+http://www.pmc.edu/csc-apply	a			Karm Syndia Augustin ‘13
+http://www.pmc.edu/csc-apply	a			Kate Holden ‘14
+http://www.pmc.edu/csc-apply	a			Katherine Henao '14
+http://www.pmc.edu/csc-apply	a			Katherine Tavarez ‘15
+http://www.pmc.edu/csc-apply	a			Margaret (Peggie Sweeney) Krippendorf ‘96
+http://www.pmc.edu/csc-apply	a			Margaret Roberts '13
+http://www.pmc.edu/csc-apply	a			Ryanne Spann '10
+http://www.pmc.edu/csc-apply	a			Sera Godfrey '02
+http://www.pmc.edu/csc-apply	a			Shakia Weaver ‘13
+http://www.pmc.edu/csc-apply	a			Stephanie Crawford '09
+http://www.pmc.edu/csc-apply	a			Tamara Sakala ‘14
+http://www.pmc.edu/csc-apply	a			Tamise Francois '11
+http://www.pmc.edu/csc-apply	a			Tatiana Mendez ‘15
+http://www.pmc.edu/csc-apply	a			Teakia Brown '07
+http://www.pmc.edu/csc-apply	a			Luz “Vanessa” Cintron '10
+http://www.pmc.edu/csc-apply	div			In This Section
+http://www.pmc.edu/csc-apply	div			 > How to Apply
+http://www.pmc.edu/csc-apply	h1			How to Apply to the Pine Manor Preschool & Daycare
+http://www.pmc.edu/csc-apply	p		a	If you are interested in learning more about the Child Study Center, you may download an 
+http://www.pmc.edu/csc-apply	a			Application.pdf
+http://www.pmc.edu/csc-apply	p		a	, and mail it with a non-refundable $35 fee to Pine Manor College, Child Study Center, 400 Heath Street, Chestnut Hill, MA 02467-2332.  Or 
+http://www.pmc.edu/csc-apply	a			you may pay online
+http://www.pmc.edu/csc-apply	p		a	 by completing the form on this website at 
+http://www.pmc.edu/csc-apply	a			www.pmc.edu/csc-onlinepayment
+http://www.pmc.edu/csc-apply	p			. Once the application is received, a visit with the Director and tour of the program will be scheduled.  Applications are accepted on a first come first served basis.  Priority is given to families currently enrolled, siblings of current students, and children of Pine Manor College faculty, staff, and students.  Once a family has decided to enroll, a contract is completed and a $500 deposit is required to secure placement.  This deposit is non-refundable.  The deposit is credited towards the first tuition payment.  All checks should be payable to Pine Manor College.  All payments for deposits and tuitions should be mailed to Pine Manor College, Business Department, 400 Heath Street, Chestnut Hill, MA 02467-2332.
+http://www.pmc.edu/csc-apply	a			Prev
+http://www.pmc.edu/csc-apply	a			Next
+http://www.pmc.edu/csc-apply	a			For our Photo Album click here
+http://www.pmc.edu/csc-apply	a			  Child Study Center Facebook!
+http://www.pmc.edu/csc-apply	strong		br	We welcome children and families
+http://www.pmc.edu/csc-apply	strong		br	 from all over the Greater
+http://www.pmc.edu/csc-apply	strong			 Boston Area including:
+http://www.pmc.edu/csc-apply	a			Brookline
+http://www.pmc.edu/csc-apply	a			Chestnut Hill
+http://www.pmc.edu/csc-apply	a			Needham
+http://www.pmc.edu/csc-apply	a			Waban
+http://www.pmc.edu/csc-apply	a			Jamaica Plain
+http://www.pmc.edu/csc-apply	a			Boston
+http://www.pmc.edu/csc-apply	a			Site Map
+http://www.pmc.edu/csc-apply	a			Portal Login
+http://www.pmc.edu/csc-apply	p			Phone 617-731-7000 | Fax 617-731-7199 | 400 Heath Street, Chestnut Hill, MA 02467
+http://www.pmc.edu/csc-apply	p		br	Copyright © 2010, Pine Manor College
+http://www.pmc.edu/csc-apply	br			                              All Rights Reserved.                      
+http://www.pmc.edu/mfa-apply	button			Search
+http://www.pmc.edu/mfa-apply	a			Pine Manor College
+http://www.pmc.edu/mfa-apply	a			Skip navigation
+http://www.pmc.edu/mfa-apply	a			 Menu
+http://www.pmc.edu/mfa-apply	a			Home
+http://www.pmc.edu/mfa-apply	a			About
+http://www.pmc.edu/mfa-apply	a			English Language Institute (ELI)
+http://www.pmc.edu/mfa-apply	a			About ELI
+http://www.pmc.edu/mfa-apply	a			ELI News
+http://www.pmc.edu/mfa-apply	a			Courses
+http://www.pmc.edu/mfa-apply	a			Intensive English Program
+http://www.pmc.edu/mfa-apply	a			Semi-Intensive English Program
+http://www.pmc.edu/mfa-apply	a			University Preparation
+http://www.pmc.edu/mfa-apply	a			English   University Studies
+http://www.pmc.edu/mfa-apply	a			Private Lessons
+http://www.pmc.edu/mfa-apply	a			Language & Excursions Program
+http://www.pmc.edu/mfa-apply	a			Application & Prices
+http://www.pmc.edu/mfa-apply	a			ELI Online Payment
+http://www.pmc.edu/mfa-apply	a			Campus & Location
+http://www.pmc.edu/mfa-apply	a			Activities
+http://www.pmc.edu/mfa-apply	a			Sample Activity Calendars
+http://www.pmc.edu/mfa-apply	a			Campus Life
+http://www.pmc.edu/mfa-apply	a			Team
+http://www.pmc.edu/mfa-apply	a			Contact Us
+http://www.pmc.edu/mfa-apply	a			Become a PMC ELI Agent
+http://www.pmc.edu/mfa-apply	a			Faculty & Staff Directory
+http://www.pmc.edu/mfa-apply	a			Hess Gallery
+http://www.pmc.edu/mfa-apply	a			General Information
+http://www.pmc.edu/mfa-apply	a			Current Exhibition
+http://www.pmc.edu/mfa-apply	a			Upcoming Exhibitions
+http://www.pmc.edu/mfa-apply	a			Previous Exhibitions
+http://www.pmc.edu/mfa-apply	a			Information for Artists
+http://www.pmc.edu/mfa-apply	a			History
+http://www.pmc.edu/mfa-apply	a			In Memoriam
+http://www.pmc.edu/mfa-apply	a			Job Opportunities
+http://www.pmc.edu/mfa-apply	a			Mission
+http://www.pmc.edu/mfa-apply	a			Enrollment
+http://www.pmc.edu/mfa-apply	a			Academics
+http://www.pmc.edu/mfa-apply	a			Strategic Plan
+http://www.pmc.edu/mfa-apply	a			Accreditation
+http://www.pmc.edu/mfa-apply	a			Student Life
+http://www.pmc.edu/mfa-apply	a			Financial Information
+http://www.pmc.edu/mfa-apply	a			English Language Institute
+http://www.pmc.edu/mfa-apply	a			News
+http://www.pmc.edu/mfa-apply	a			Preschool
+http://www.pmc.edu/mfa-apply	a			About Us
+http://www.pmc.edu/mfa-apply	a			Open House
+http://www.pmc.edu/mfa-apply	a			Curriculum
+http://www.pmc.edu/mfa-apply	a			Location
+http://www.pmc.edu/mfa-apply	a			Schedules & Rates
+http://www.pmc.edu/mfa-apply	a			CSC Online Payment
+http://www.pmc.edu/mfa-apply	a			Meet the Staff
+http://www.pmc.edu/mfa-apply	a			How to Apply
+http://www.pmc.edu/mfa-apply	a			Contracts
+http://www.pmc.edu/mfa-apply	a			Calendar
+http://www.pmc.edu/mfa-apply	a			Daily Schedule
+http://www.pmc.edu/mfa-apply	a			Photo Album
+http://www.pmc.edu/mfa-apply	a			Family Involvement
+http://www.pmc.edu/mfa-apply	a			FAQ
+http://www.pmc.edu/mfa-apply	a			What Parents Say
+http://www.pmc.edu/mfa-apply	a			Parent Handbook
+http://www.pmc.edu/mfa-apply	a			Newton
+http://www.pmc.edu/mfa-apply	a			Trustees
+http://www.pmc.edu/mfa-apply	a			By-Laws
+http://www.pmc.edu/mfa-apply	a			Visitor's Guide
+http://www.pmc.edu/mfa-apply	a			Virtual Tour
+http://www.pmc.edu/mfa-apply	a			Campus Map
+http://www.pmc.edu/mfa-apply	a			Directions to PMC
+http://www.pmc.edu/mfa-apply	a			Photo Gallery
+http://www.pmc.edu/mfa-apply	a			Videos
+http://www.pmc.edu/mfa-apply	a			Visiting Boston
+http://www.pmc.edu/mfa-apply	a			Accommodations
+http://www.pmc.edu/mfa-apply	a			Restaurants in Chestnut Hill
+http://www.pmc.edu/mfa-apply	a			Event rentals
+http://www.pmc.edu/mfa-apply	a			Admissions
+http://www.pmc.edu/mfa-apply	a			Apply for Admission
+http://www.pmc.edu/mfa-apply	a			Academic Offerings
+http://www.pmc.edu/mfa-apply	a			Meet our staff
+http://www.pmc.edu/mfa-apply	a			Contact Admissions
+http://www.pmc.edu/mfa-apply	a			Financial Aid
+http://www.pmc.edu/mfa-apply	a			Scholarships and Grants 
+http://www.pmc.edu/mfa-apply	a			International Students
+http://www.pmc.edu/mfa-apply	a			Welcome
+http://www.pmc.edu/mfa-apply	a			International Application for Admission
+http://www.pmc.edu/mfa-apply	a			Academic Programs
+http://www.pmc.edu/mfa-apply	a			Visa Information
+http://www.pmc.edu/mfa-apply	a			What Students Say
+http://www.pmc.edu/mfa-apply	a			Open College
+http://www.pmc.edu/mfa-apply	a			New Students Information
+http://www.pmc.edu/mfa-apply	a			Tuition Deposit
+http://www.pmc.edu/mfa-apply	a			Welcome to Pine Manor College!
+http://www.pmc.edu/mfa-apply	a			Quotes from Senior Portfolios
+http://www.pmc.edu/mfa-apply	a			Student Enrollment
+http://www.pmc.edu/mfa-apply	a			Transfer to PMC
+http://www.pmc.edu/mfa-apply	a			Visit Pine Manor College
+http://www.pmc.edu/mfa-apply	a			Directions
+http://www.pmc.edu/mfa-apply	a			Parents and Families
+http://www.pmc.edu/mfa-apply	a			Viewbook
+http://www.pmc.edu/mfa-apply	a			Additional Financial Resources
+http://www.pmc.edu/mfa-apply	a			Applications and Forms
+http://www.pmc.edu/mfa-apply	a			Applying for Financial Aid
+http://www.pmc.edu/mfa-apply	a			FAFSA - IRS Data Retrieval Tool
+http://www.pmc.edu/mfa-apply	a			Contacts for Financial Aid
+http://www.pmc.edu/mfa-apply	a			Financial Aid FAQ
+http://www.pmc.edu/mfa-apply	a			Late Student Account Payment Fee
+http://www.pmc.edu/mfa-apply	a			PMC Loan Center
+http://www.pmc.edu/mfa-apply	a			Satisfactory Academic Progress Policy
+http://www.pmc.edu/mfa-apply	a			Scholarships and Grants
+http://www.pmc.edu/mfa-apply	a			Founders Scholarship
+http://www.pmc.edu/mfa-apply	a			Student Consumer Information
+http://www.pmc.edu/mfa-apply	a			Tuition & Costs
+http://www.pmc.edu/mfa-apply	a			Credit Balance Refund Policy
+http://www.pmc.edu/mfa-apply	a			Withdrawal Refund Policy
+http://www.pmc.edu/mfa-apply	a			Student Health Insurance Plan
+http://www.pmc.edu/mfa-apply	a			Dean of the College
+http://www.pmc.edu/mfa-apply	a			Dean's List
+http://www.pmc.edu/mfa-apply	a			Departments & Programs
+http://www.pmc.edu/mfa-apply	a			Biology
+http://www.pmc.edu/mfa-apply	a			Pathways to Science
+http://www.pmc.edu/mfa-apply	a			Tufts University “TEACRS”
+http://www.pmc.edu/mfa-apply	a			BioScholars
+http://www.pmc.edu/mfa-apply	a			Biology Program
+http://www.pmc.edu/mfa-apply	a			BioTech Certificate
+http://www.pmc.edu/mfa-apply	a			Senior Internships
+http://www.pmc.edu/mfa-apply	a			Business and Management (BAM)
+http://www.pmc.edu/mfa-apply	a			Business and Management Program Requirements
+http://www.pmc.edu/mfa-apply	a			Let's Get to Business: FALL 2019 SPEAKERS
+http://www.pmc.edu/mfa-apply	a			Communication
+http://www.pmc.edu/mfa-apply	a			Communication Program Requirements
+http://www.pmc.edu/mfa-apply	a			Community Health
+http://www.pmc.edu/mfa-apply	a			Community Health Requirements
+http://www.pmc.edu/mfa-apply	a			Early Childhood: Education, Health and Leadership
+http://www.pmc.edu/mfa-apply	a			Early Childhood: Education, Health & Leadership Program Requirements
+http://www.pmc.edu/mfa-apply	a			CORI Policy
+http://www.pmc.edu/mfa-apply	a			English: College Composition
+http://www.pmc.edu/mfa-apply	a			English: Creative Writing and Literature
+http://www.pmc.edu/mfa-apply	a			English Program Requirements
+http://www.pmc.edu/mfa-apply	a			BA/MFA in Creative Writing
+http://www.pmc.edu/mfa-apply	a			Mathematics and Quantitative Reasoning
+http://www.pmc.edu/mfa-apply	a			Psychology
+http://www.pmc.edu/mfa-apply	a			Psychology Program Requirements
+http://www.pmc.edu/mfa-apply	a			Psychology Alumni Dinner
+http://www.pmc.edu/mfa-apply	a			Sociology and Political Science
+http://www.pmc.edu/mfa-apply	a			Sociology and Political Science Program Requirements
+http://www.pmc.edu/mfa-apply	a			Visual Arts
+http://www.pmc.edu/mfa-apply	a			Visual Arts Program Requirements
+http://www.pmc.edu/mfa-apply	a			Self-Designed Major
+http://www.pmc.edu/mfa-apply	a			Academic Minors
+http://www.pmc.edu/mfa-apply	a			Accounting
+http://www.pmc.edu/mfa-apply	a			Art History
+http://www.pmc.edu/mfa-apply	a			Counseling
+http://www.pmc.edu/mfa-apply	a			Creative Writing
+http://www.pmc.edu/mfa-apply	a			Criminal Justice
+http://www.pmc.edu/mfa-apply	a			Dance
+http://www.pmc.edu/mfa-apply	a			Education
+http://www.pmc.edu/mfa-apply	a			English
+http://www.pmc.edu/mfa-apply	a			Fitness and Wellness
+http://www.pmc.edu/mfa-apply	a			French
+http://www.pmc.edu/mfa-apply	a			Human Resource Management
+http://www.pmc.edu/mfa-apply	a			International Business
+http://www.pmc.edu/mfa-apply	a			Music
+http://www.pmc.edu/mfa-apply	a			Non-Profit Organization
+http://www.pmc.edu/mfa-apply	a			Political Science
+http://www.pmc.edu/mfa-apply	a			Sociology and Political Science Minor
+http://www.pmc.edu/mfa-apply	a			Sociology
+http://www.pmc.edu/mfa-apply	a			Sports Management
+http://www.pmc.edu/mfa-apply	a			Theatre
+http://www.pmc.edu/mfa-apply	a			Women's Studies
+http://www.pmc.edu/mfa-apply	a			Cross Registration / Consortium Schools
+http://www.pmc.edu/mfa-apply	a			Portfolio Learning
+http://www.pmc.edu/mfa-apply	a			Internship Program
+http://www.pmc.edu/mfa-apply	a			Off-Campus Study
+http://www.pmc.edu/mfa-apply	a			Associate Degree Program
+http://www.pmc.edu/mfa-apply	a			A.S. in Biology
+http://www.pmc.edu/mfa-apply	a			A.A. in Criminal Justice
+http://www.pmc.edu/mfa-apply	a			A.A. Early Childhood / Education
+http://www.pmc.edu/mfa-apply	a			A.A. in English
+http://www.pmc.edu/mfa-apply	a			A.S. in Health Sciences
+http://www.pmc.edu/mfa-apply	a			A.A. in Liberal Studies
+http://www.pmc.edu/mfa-apply	a			A.S. in Management
+http://www.pmc.edu/mfa-apply	a			A.A. in Performing Arts
+http://www.pmc.edu/mfa-apply	a			A.A. in Theatre
+http://www.pmc.edu/mfa-apply	a			A.A. in Visual Arts
+http://www.pmc.edu/mfa-apply	a			Microsoft Certification Test Center
+http://www.pmc.edu/mfa-apply	a			MFA in Creative Writing
+http://www.pmc.edu/mfa-apply	a			FAQs; What Makes Us Different?
+http://www.pmc.edu/mfa-apply	a			News & Events
+http://www.pmc.edu/mfa-apply	a			Program Overview
+http://www.pmc.edu/mfa-apply	a			Admissions & Transfers
+http://www.pmc.edu/mfa-apply	a			Tuition & Fees
+http://www.pmc.edu/mfa-apply	a			Financial Aid / Fellowships
+http://www.pmc.edu/mfa-apply	a			Pedagogy & Applied Tracks
+http://www.pmc.edu/mfa-apply	a			Comics & Graphic Narratives
+http://www.pmc.edu/mfa-apply	a			Academic Calendar
+http://www.pmc.edu/mfa-apply	a			Alumni & Degree Applications
+http://www.pmc.edu/mfa-apply	a			Professional Development courses
+http://www.pmc.edu/mfa-apply	a			Graduate Publications
+http://www.pmc.edu/mfa-apply	a			Post-graduate Opportunities
+http://www.pmc.edu/mfa-apply	a			PG Semester Details
+http://www.pmc.edu/mfa-apply	a			PG Certificate Details
+http://www.pmc.edu/mfa-apply	a			Semester Application Form
+http://www.pmc.edu/mfa-apply	a			Certificate Application Form
+http://www.pmc.edu/mfa-apply	a			Apply
+http://www.pmc.edu/mfa-apply	a			Deadlines
+http://www.pmc.edu/mfa-apply	a			Classes for Audit
+http://www.pmc.edu/mfa-apply	a			Class Audit Policy
+http://www.pmc.edu/mfa-apply	a			Class Audit Registration Form
+http://www.pmc.edu/mfa-apply	a			Faculty, Staff, & Guests
+http://www.pmc.edu/mfa-apply	a			Upcoming Special Guests
+http://www.pmc.edu/mfa-apply	a			Past Special Guests
+http://www.pmc.edu/mfa-apply	a			Faculty Interviews
+http://www.pmc.edu/mfa-apply	a			Brendan Kiely Interview
+http://www.pmc.edu/mfa-apply	a			Olugbemisola Rhuday-Perkovich Interview
+http://www.pmc.edu/mfa-apply	a			Sandra Scofield Interview
+http://www.pmc.edu/mfa-apply	a			Laure-Anne Bosselaar Interview
+http://www.pmc.edu/mfa-apply	a			Randall Kenan Interview
+http://www.pmc.edu/mfa-apply	a			Dzvinia Orlowsky Interview
+http://www.pmc.edu/mfa-apply	a			Interview with Grace Lin
+http://www.pmc.edu/mfa-apply	a			Laura Williams McCaffrey Interview
+http://www.pmc.edu/mfa-apply	a			Anne-Marie Oomen Interview
+http://www.pmc.edu/mfa-apply	a			David Yoo interview
+http://www.pmc.edu/mfa-apply	a			Steven Huff Interview
+http://www.pmc.edu/mfa-apply	a			Robert Lopez Interview
+http://www.pmc.edu/mfa-apply	a			Kathi Aguero Interview
+http://www.pmc.edu/mfa-apply	a			Iain Haley Pollock
+http://www.pmc.edu/mfa-apply	a			Venise Berry Interview
+http://www.pmc.edu/mfa-apply	a			Josh Neufeld Interview
+http://www.pmc.edu/mfa-apply	a			Sterling Watson Interview
+http://www.pmc.edu/mfa-apply	a			Interview with Renée Watson
+http://www.pmc.edu/mfa-apply	a			Interview with Jedediah Berry
+http://www.pmc.edu/mfa-apply	a			Amy Hoffman Interview
+http://www.pmc.edu/mfa-apply	a			Commencement Speakers
+http://www.pmc.edu/mfa-apply	a			Graduate Profiles
+http://www.pmc.edu/mfa-apply	a			Photos & Videos
+http://www.pmc.edu/mfa-apply	a			Winter Residency - Photo Album 2015
+http://www.pmc.edu/mfa-apply	a			Summer Residency Photo Album 2014
+http://www.pmc.edu/mfa-apply	a			Winter Residency Photo Album 2014
+http://www.pmc.edu/mfa-apply	a			MFA Videos
+http://www.pmc.edu/mfa-apply	a			Cave Canem Partnership
+http://www.pmc.edu/mfa-apply	a			Resources
+http://www.pmc.edu/mfa-apply	a			IT Help and Online Resources for MFA Students
+http://www.pmc.edu/mfa-apply	a			Links
+http://www.pmc.edu/mfa-apply	a			Contact
+http://www.pmc.edu/mfa-apply	a			Solstice: Maximum Tilt Anthology
+http://www.pmc.edu/mfa-apply	a			Academic Services
+http://www.pmc.edu/mfa-apply	a			Annenberg Library
+http://www.pmc.edu/mfa-apply	a			About Annenberg Library
+http://www.pmc.edu/mfa-apply	a			Citing Sources
+http://www.pmc.edu/mfa-apply	a			Interlibrary Loan
+http://www.pmc.edu/mfa-apply	a			Suggestion Box
+http://www.pmc.edu/mfa-apply	a			Public Patrons & Visitors
+http://www.pmc.edu/mfa-apply	a			Advising & Counseling
+http://www.pmc.edu/mfa-apply	a			Bookstore
+http://www.pmc.edu/mfa-apply	a			Institutional Technology
+http://www.pmc.edu/mfa-apply	a			Computer Facilities
+http://www.pmc.edu/mfa-apply	a			Technology Resources
+http://www.pmc.edu/mfa-apply	a			Privacy Statement
+http://www.pmc.edu/mfa-apply	a			Learning Resource Center (LRC)
+http://www.pmc.edu/mfa-apply	a			Accessibility Services
+http://www.pmc.edu/mfa-apply	a			Accessibility Services Registration and Disclosure Form
+http://www.pmc.edu/mfa-apply	a			Learning Resource Center Staff
+http://www.pmc.edu/mfa-apply	a			Career Development
+http://www.pmc.edu/mfa-apply	a			Students
+http://www.pmc.edu/mfa-apply	a			Resume and Cover Letter Guide
+http://www.pmc.edu/mfa-apply	a			Networking Guide - Internship
+http://www.pmc.edu/mfa-apply	a			Networking Guide - Full-Time
+http://www.pmc.edu/mfa-apply	a			Essential Interviewing Techniques
+http://www.pmc.edu/mfa-apply	a			References Guide
+http://www.pmc.edu/mfa-apply	a			Graduate School Guide
+http://www.pmc.edu/mfa-apply	a			Alumni
+http://www.pmc.edu/mfa-apply	a			Networking Guide
+http://www.pmc.edu/mfa-apply	a			Employers
+http://www.pmc.edu/mfa-apply	a			Submit a Job
+http://www.pmc.edu/mfa-apply	a			My Career Story
+http://www.pmc.edu/mfa-apply	a			Job Search Resources
+http://www.pmc.edu/mfa-apply	a			Volunteer & Community Service
+http://www.pmc.edu/mfa-apply	a			Resumes, Cover Letters, References, Thank You Letters
+http://www.pmc.edu/mfa-apply	a			Career Development Videos
+http://www.pmc.edu/mfa-apply	a			Academic Catalog
+http://www.pmc.edu/mfa-apply	a			Academic Policies
+http://www.pmc.edu/mfa-apply	a			Degree Programs
+http://www.pmc.edu/mfa-apply	a			Baccalaureate Programs
+http://www.pmc.edu/mfa-apply	a			Associate Degree Requirements
+http://www.pmc.edu/mfa-apply	a			Minors
+http://www.pmc.edu/mfa-apply	a			MFA Requirements
+http://www.pmc.edu/mfa-apply	a			Academic Ethics and Integrity
+http://www.pmc.edu/mfa-apply	a			Course Designations
+http://www.pmc.edu/mfa-apply	a			College Composition Grading Standards
+http://www.pmc.edu/mfa-apply	a			Continuing Studies
+http://www.pmc.edu/mfa-apply	a			Course Descriptions
+http://www.pmc.edu/mfa-apply	a			Accounting Courses
+http://www.pmc.edu/mfa-apply	a			Anthropology Courses
+http://www.pmc.edu/mfa-apply	a			Art History Courses
+http://www.pmc.edu/mfa-apply	a			Biology Courses
+http://www.pmc.edu/mfa-apply	a			Chemistry Courses
+http://www.pmc.edu/mfa-apply	a			Communication Courses
+http://www.pmc.edu/mfa-apply	a			Community Health Courses
+http://www.pmc.edu/mfa-apply	a			Computer Studies Courses
+http://www.pmc.edu/mfa-apply	a			Dance Courses
+http://www.pmc.edu/mfa-apply	a			Early Childhood: Education, Health and Leadership Courses
+http://www.pmc.edu/mfa-apply	a			Economics Courses
+http://www.pmc.edu/mfa-apply	a			English: College Composition Courses
+http://www.pmc.edu/mfa-apply	a			English: Creative Writing and Literature Courses
+http://www.pmc.edu/mfa-apply	a			Finance Courses
+http://www.pmc.edu/mfa-apply	a			First Year Seminar Courses
+http://www.pmc.edu/mfa-apply	a			French Courses
+http://www.pmc.edu/mfa-apply	a			History Courses
+http://www.pmc.edu/mfa-apply	a			Humanities Courses
+http://www.pmc.edu/mfa-apply	a			Interdisciplinary Courses
+http://www.pmc.edu/mfa-apply	a			Internships
+http://www.pmc.edu/mfa-apply	a			Liberal Studies Courses
+http://www.pmc.edu/mfa-apply	a			Management Courses
+http://www.pmc.edu/mfa-apply	a			Marketing Courses
+http://www.pmc.edu/mfa-apply	a			Mathematics Courses
+http://www.pmc.edu/mfa-apply	a			Music Courses
+http://www.pmc.edu/mfa-apply	a			Physics Courses
+http://www.pmc.edu/mfa-apply	a			Philosophy Courses
+http://www.pmc.edu/mfa-apply	a			Political Science Courses
+http://www.pmc.edu/mfa-apply	a			Psychology Courses
+http://www.pmc.edu/mfa-apply	a			Quantitative Reasoning Courses
+http://www.pmc.edu/mfa-apply	a			Religion Courses
+http://www.pmc.edu/mfa-apply	a			Service Learning Courses
+http://www.pmc.edu/mfa-apply	a			Sociology Courses
+http://www.pmc.edu/mfa-apply	a			Spanish Courses
+http://www.pmc.edu/mfa-apply	a			Social and Political Systems Courses
+http://www.pmc.edu/mfa-apply	a			Theatre Courses
+http://www.pmc.edu/mfa-apply	a			Visual Arts Courses
+http://www.pmc.edu/mfa-apply	a			Women’s Studies Courses
+http://www.pmc.edu/mfa-apply	a			Courses Without Disciplinary Designations
+http://www.pmc.edu/mfa-apply	a			Information Networks
+http://www.pmc.edu/mfa-apply	a			Copyright Infringement Policy
+http://www.pmc.edu/mfa-apply	a			Confidentiality of Student Records
+http://www.pmc.edu/mfa-apply	a			Core Curriculum Requirements
+http://www.pmc.edu/mfa-apply	a			Conifers
+http://www.pmc.edu/mfa-apply	a			Faculty Presentations and Publications
+http://www.pmc.edu/mfa-apply	a			Faculty Symposium Series
+http://www.pmc.edu/mfa-apply	a			Full-Time Faculty Directory
+http://www.pmc.edu/mfa-apply	a			Honors Programs
+http://www.pmc.edu/mfa-apply	a			Honors 2019
+http://www.pmc.edu/mfa-apply	a			Honors 2018
+http://www.pmc.edu/mfa-apply	a			Honors 2017
+http://www.pmc.edu/mfa-apply	a			Honors 2016
+http://www.pmc.edu/mfa-apply	a			Honors 2015
+http://www.pmc.edu/mfa-apply	a			Honors 2014
+http://www.pmc.edu/mfa-apply	a			Internships Evaluation
+http://www.pmc.edu/mfa-apply	a			Institutional Review Board
+http://www.pmc.edu/mfa-apply	a			Kings Pathways
+http://www.pmc.edu/mfa-apply	a			Pathways to Healthcare and Science Careers
+http://www.pmc.edu/mfa-apply	a			Presidential Scholarship Reception
+http://www.pmc.edu/mfa-apply	a			Registrar
+http://www.pmc.edu/mfa-apply	a			Student Online Payment
+http://www.pmc.edu/mfa-apply	a			MFA Registration Form
+http://www.pmc.edu/mfa-apply	a			Student Affairs 
+http://www.pmc.edu/mfa-apply	a			Student Activities 
+http://www.pmc.edu/mfa-apply	a			Programs
+http://www.pmc.edu/mfa-apply	a			Smartphone App
+http://www.pmc.edu/mfa-apply	a			Student Organizations
+http://www.pmc.edu/mfa-apply	a			Residence Life
+http://www.pmc.edu/mfa-apply	a			New Student Housing Questionnaire 
+http://www.pmc.edu/mfa-apply	a			What to Bring to Campus
+http://www.pmc.edu/mfa-apply	a			Forms
+http://www.pmc.edu/mfa-apply	a			Residence Hall Layout
+http://www.pmc.edu/mfa-apply	a			Residential Calendar 2019-2020
+http://www.pmc.edu/mfa-apply	a			Student Property Insurance Information
+http://www.pmc.edu/mfa-apply	a			Resident Assistant Recruitment for Spring 2020
+http://www.pmc.edu/mfa-apply	a			New Student Resources
+http://www.pmc.edu/mfa-apply	a			Family Resources
+http://www.pmc.edu/mfa-apply	a			Academic Questions
+http://www.pmc.edu/mfa-apply	a			Outside the Classroom Questions
+http://www.pmc.edu/mfa-apply	a			Contact Us!
+http://www.pmc.edu/mfa-apply	a			Important Forms
+http://www.pmc.edu/mfa-apply	a			Orientation Leaders
+http://www.pmc.edu/mfa-apply	a			Orientation Schedule
+http://www.pmc.edu/mfa-apply	a			Student Affairs Staff
+http://www.pmc.edu/mfa-apply	a			Campus Safety
+http://www.pmc.edu/mfa-apply	a			Crime Reports 
+http://www.pmc.edu/mfa-apply	a			Emergency Notification System
+http://www.pmc.edu/mfa-apply	a			Emergency Procedures
+http://www.pmc.edu/mfa-apply	a			Helpful Links
+http://www.pmc.edu/mfa-apply	a			Parking Information
+http://www.pmc.edu/mfa-apply	a			Register Your Guest
+http://www.pmc.edu/mfa-apply	a			Guest Policy
+http://www.pmc.edu/mfa-apply	a			Report a Crime Anonymously
+http://www.pmc.edu/mfa-apply	a			Shuttle Service
+http://www.pmc.edu/mfa-apply	a			Shuttle Schedule
+http://www.pmc.edu/mfa-apply	a			Shuttle Policy
+http://www.pmc.edu/mfa-apply	a			Meet the Drivers
+http://www.pmc.edu/mfa-apply	a			Shuttle Request Form
+http://www.pmc.edu/mfa-apply	a			Weather and College Closings
+http://www.pmc.edu/mfa-apply	a			Dining
+http://www.pmc.edu/mfa-apply	a			Athletics
+http://www.pmc.edu/mfa-apply	a			Health and Wellness
+http://www.pmc.edu/mfa-apply	a			Required Health Forms
+http://www.pmc.edu/mfa-apply	a			International Student Resources
+http://www.pmc.edu/mfa-apply	a			Online Store
+http://www.pmc.edu/mfa-apply	a			Student Handbook
+http://www.pmc.edu/mfa-apply	a			Title IX/Sexual Misconduct Policy
+http://www.pmc.edu/mfa-apply	a			Men's Baseball
+http://www.pmc.edu/mfa-apply	a			Men's Basketball
+http://www.pmc.edu/mfa-apply	a			Men's Cross Country
+http://www.pmc.edu/mfa-apply	a			Men's Soccer
+http://www.pmc.edu/mfa-apply	a			Men's Volleyball
+http://www.pmc.edu/mfa-apply	a			Women's Basketball
+http://www.pmc.edu/mfa-apply	a			Women's Cross Country
+http://www.pmc.edu/mfa-apply	a			Women's Soccer
+http://www.pmc.edu/mfa-apply	a			Women's Softball
+http://www.pmc.edu/mfa-apply	a			Women's Volleyball
+http://www.pmc.edu/mfa-apply	a			Alumnae/i & Friends
+http://www.pmc.edu/mfa-apply	a			Alumnae/i Ambassadors Program
+http://www.pmc.edu/mfa-apply	a			Alumnae/i Ambassador Registration
+http://www.pmc.edu/mfa-apply	a			Class Notes
+http://www.pmc.edu/mfa-apply	a			Submit Class Notes
+http://www.pmc.edu/mfa-apply	a			Give to PMC
+http://www.pmc.edu/mfa-apply	a			Planned Giving
+http://www.pmc.edu/mfa-apply	a			Associates Club
+http://www.pmc.edu/mfa-apply	a			Ways to Give
+http://www.pmc.edu/mfa-apply	a			Make a Gift
+http://www.pmc.edu/mfa-apply	a			Double Your Gift
+http://www.pmc.edu/mfa-apply	a			Allysn Austin '09
+http://www.pmc.edu/mfa-apply	a			Ariana De Pina '11
+http://www.pmc.edu/mfa-apply	a			Christina Santos ‘12
+http://www.pmc.edu/mfa-apply	a			Courtney (Wallace) Peterson '10
+http://www.pmc.edu/mfa-apply	a			Devon Govoni '05
+http://www.pmc.edu/mfa-apply	a			Daniela Ramirez '13
+http://www.pmc.edu/mfa-apply	a			Dorosella Kaluma '11
+http://www.pmc.edu/mfa-apply	a			Elizabeth (Azu) Adjei ‘13
+http://www.pmc.edu/mfa-apply	a			Glenn Grushko '12
+http://www.pmc.edu/mfa-apply	a			Hannah Kaplan '13
+http://www.pmc.edu/mfa-apply	a			Heba Khurram '14
+http://www.pmc.edu/mfa-apply	a			Jeselene Andrade '13
+http://www.pmc.edu/mfa-apply	a			Johanne (Souffrant) Watts '09
+http://www.pmc.edu/mfa-apply	a			Kara Pogue Kessel '09
+http://www.pmc.edu/mfa-apply	a			Karm Syndia Augustin ‘13
+http://www.pmc.edu/mfa-apply	a			Kate Holden ‘14
+http://www.pmc.edu/mfa-apply	a			Katherine Henao '14
+http://www.pmc.edu/mfa-apply	a			Katherine Tavarez ‘15
+http://www.pmc.edu/mfa-apply	a			Margaret (Peggie Sweeney) Krippendorf ‘96
+http://www.pmc.edu/mfa-apply	a			Margaret Roberts '13
+http://www.pmc.edu/mfa-apply	a			Ryanne Spann '10
+http://www.pmc.edu/mfa-apply	a			Sera Godfrey '02
+http://www.pmc.edu/mfa-apply	a			Shakia Weaver ‘13
+http://www.pmc.edu/mfa-apply	a			Stephanie Crawford '09
+http://www.pmc.edu/mfa-apply	a			Tamara Sakala ‘14
+http://www.pmc.edu/mfa-apply	a			Tamise Francois '11
+http://www.pmc.edu/mfa-apply	a			Tatiana Mendez ‘15
+http://www.pmc.edu/mfa-apply	a			Teakia Brown '07
+http://www.pmc.edu/mfa-apply	a			Luz “Vanessa” Cintron '10
+http://www.pmc.edu/mfa-apply	a			Pine Manor College Products
+http://www.pmc.edu/mfa-apply	a			PMC Bulletin
+http://www.pmc.edu/mfa-apply	a			Past Alumnae/i Events
+http://www.pmc.edu/mfa-apply	a			Recent PMC Grads
+http://www.pmc.edu/mfa-apply	a			Services
+http://www.pmc.edu/mfa-apply	a			Testimonials from PMC Graduates
+http://www.pmc.edu/mfa-apply	a			Update Your Contact Information
+http://www.pmc.edu/mfa-apply	div			In This Section
+http://www.pmc.edu/mfa-apply	div			 > Apply
+http://www.pmc.edu/mfa-apply	h1			Apply
+http://www.pmc.edu/mfa-apply	strong		strong	The winter 2020 residency, which begins our spring semester, will take place from 
+http://www.pmc.edu/mfa-apply	strong			January 3 – January 12, 2020.
+http://www.pmc.edu/mfa-apply	strong			The summer 2020 residency, which begins our fall semester, will take place from July 10 – July 19, 2020.
+http://www.pmc.edu/mfa-apply	a			Application Guidelines
+http://www.pmc.edu/mfa-apply	a			Apply Online
+http://www.pmc.edu/mfa-apply	a			Print Application Form
+http://www.pmc.edu/mfa-apply	a			Print MFA International Student Verification of Financial Support Form
+http://www.pmc.edu/mfa-apply	a			Fellowships, Scholarships, and Financial Aid
+http://www.pmc.edu/mfa-apply	a			Advice & Comments to Applicants (from our students)
+http://www.pmc.edu/mfa-apply	p	ul	a	Please see our 
+http://www.pmc.edu/mfa-apply	a			deadlines page
+http://www.pmc.edu/mfa-apply	p	ul		 for information regarding when applications are due.
+http://www.pmc.edu/mfa-apply	p	p	em	The Admissions Committee looks for the willingness to work hard and evolve as a writer or visual storyteller; evidence that the applicant is a reader; evidence that the applicant is not just a writer, but a reader; and creative work that (by way of command of language, freshness and originality of prose or verse, depth of understanding and clear explication of the subject(s), development of dramatic material, and demonstrated knowledge of the relationship between form and content) warrants admission to a graduate-level program. 
+http://www.pmc.edu/mfa-apply	em			Comic & Graphic Narratives 
+http://www.pmc.edu/mfa-apply	p	p		applicants please note: limited drawing skills are acceptable if the student is committed to growing as a visual artist as well as a writer.
+http://www.pmc.edu/mfa-apply	span			How to apply:
+http://www.pmc.edu/mfa-apply	p	p		Applicants must submit a writing sample, a personal essay, a completed application form, and the $50 application fee, in addition to transcripts and three letters of recommendation. Writing samples, essays, and application forms may be attached as PDF or Word documents through the online application portal. Please label all attachments this way: last name, genre to which you’re applying, and either “writing sample” or “essay.” For example, if your last name were Smith and you were attaching your poetry manuscript, you’d label the attachment “Smith, poetry, writing sample.”
+http://www.pmc.edu/mfa-apply	p	p		For applications sent via regular mail, please ensure that ALL materials are clearly labeled Solstice MFA Office to ensure proper on-campus delivery.
+http://www.pmc.edu/mfa-apply	span			The manuscript:
+http://www.pmc.edu/mfa-apply	p	p		Your manuscript must represent work in the genre in which you plan to concentrate (material in excess of our stated page limits will not be read):
+http://www.pmc.edu/mfa-apply	p	p		Poetry — no more than 10 pages; singled spaced, 12-point font; one poem per page; longer poems okay, simply indicate continuation onto next page
+http://www.pmc.edu/mfa-apply	p	p		Fiction or Creative Nonfiction — no more than 25 pages; double spaced, 12-point font; may include multiple short pieces
+http://www.pmc.edu/mfa-apply	p	p		Writing for Children & Young Adults —no more than 25 pages; double spaced, 12-point font; applicants may submit a combination of picture book and prose narrative genres
+http://www.pmc.edu/mfa-apply	p	p		*Comics/Graphic Narratives(fiction or nonfiction) — no more than 8–12 pages of sequential fiction or nonfiction
+http://www.pmc.edu/mfa-apply	p	p		All manuscripts should include the writer’s name and page numbers. *Comics/graphic narrative manuscripts must not exceed the 12-page limit and should be attached as a PDF file, no larger than 8MB.
+http://www.pmc.edu/mfa-apply	span			The personal essay:
+http://www.pmc.edu/mfa-apply	p	p		The personal essay should state: highlights of what you’ve been reading during the last two years, what you have learned from any literary influences (new or old), and how you have applied that knowledge to your own work; what you consider to be the strengths and weaknesses of your own work; experience with critical evaluation of your work; what you hope to gain from an MFA program; and possible obstacles to carrying a 25-hour-a-week workload. The essay should be formatted as per above, and must not run over the limit of five typed, double-spaced pages using a 12-point font.
+http://www.pmc.edu/mfa-apply	span			Other requirements:
+http://www.pmc.edu/mfa-apply	p	p	a	*Three letters of recommendation, sent directly (not enclosed with your application) to: Meg Kearney, Solstice MFA Director, Pine Manor College, 400 Heath Street, Chestnut Hill, MA 02467. (NOTE: Letters can be emailed, provided they include complete contact information, to 
+http://www.pmc.edu/mfa-apply	a			kearneym@pmc.edu
+http://www.pmc.edu/mfa-apply	p	p		*Letters of recommendation need not be from a published author and/or former professor. We are looking for letters that vouch for the applicant's seriousness and dedication to the art of writing (and comics/graphic narratives, if applicable), as well as his/her ability to get along well in a community of writers. We will accept letters of rec past the deadline. Please don't hesitate to apply if you don't have these yet. We will expect them to arrive subsequently. 
+http://www.pmc.edu/mfa-apply	p	p	u	Official college transcript(s) from any school(s) where you received a degree (we accept hard copies or emailed copies sent by the degree granting institution). Note that we only need proof of a degree; transcripts showing partial credits are not necessary. Note that the Admissions Committee will 
+http://www.pmc.edu/mfa-apply	u			not
+http://www.pmc.edu/mfa-apply	p	p		 delay its decision based on a missing transcript, but you should have your transcript sent as soon as possible.
+http://www.pmc.edu/mfa-apply	p	p		A completed application form, and the $50 application fee, payable by check or credit card.
+http://www.pmc.edu/mfa-apply	p	p		GREs are not required.
+http://www.pmc.edu/mfa-apply	p	p	strong	If you are reapplying within 12 months from your last application, the MFA Office will still have your original file, including transcripts and letters of recommendation. In this case, you need send only a new or revised manuscript, a one-to-three page personal essay updating us on your life as a writer since you last applied, a new application form, and the $50 application fee. 
+http://www.pmc.edu/mfa-apply	strong			If you are hoping for a Need-Based Scholarship, you will need to begin this process again; see our Financial Aid page for details.
+http://www.pmc.edu/mfa-apply	p	p		The MFA Office will confirm receipt of your application, letters of recommendation, and transcripts by email; our office cannot return applications or provide copies of applicants’ evaluations or letters of recommendation.
+http://www.pmc.edu/mfa-apply	em			Applicants can expect a response within three weeks of receipt of their complete application by the Solstice MFA Office. If you have any questions, please contact the MFA in Creative Writing office at:
+http://www.pmc.edu/mfa-apply	p	p	br	Solstice MFA Program of Pine Manor College 
+http://www.pmc.edu/mfa-apply	p	p	br	 400 Heath Street 
+http://www.pmc.edu/mfa-apply	p	p	br	 Chestnut Hill, MA 02467 (617) 731-7697 / 7684
+http://www.pmc.edu/mfa-apply	p	p	br	 Fax: (617) 731-7631 
+http://www.pmc.edu/mfa-apply	p	p	a	 E-mail: 
+http://www.pmc.edu/mfa-apply	a			mfa@pmc.edu
+http://www.pmc.edu/mfa-apply	a			 Follow us on Facebook!
+http://www.pmc.edu/mfa-apply	a			 Follow us on Twitter!
+http://www.pmc.edu/mfa-apply	a			Site Map
+http://www.pmc.edu/mfa-apply	a			Portal Login
+http://www.pmc.edu/mfa-apply	p			Phone 617-731-7000 | Fax 617-731-7199 | 400 Heath Street, Chestnut Hill, MA 02467
+http://www.pmc.edu/mfa-apply	p		br	Copyright © 2010, Pine Manor College
+http://www.pmc.edu/mfa-apply	br		a	                  All Rights Reserved | 
+http://www.pmc.edu/mfa-apply	a			Powered by Water

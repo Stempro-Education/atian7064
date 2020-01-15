@@ -1,0 +1,858 @@
+url	parent	ps	ns	text
+https://webapps.salisbury.edu/admissions/request-info	span			Admissions
+https://webapps.salisbury.edu/admissions/request-info	span			Request Information
+https://webapps.salisbury.edu/admissions/request-info	h1			Request Information Form
+https://webapps.salisbury.edu/admissions/request-info	p			Please submit the form below to tell us more about yourself and receive additional information from Salisbury University such as newsletters, e-mails, and publications.      
+https://webapps.salisbury.edu/admissions/request-info	p	p		       * indicates a required field
+https://webapps.salisbury.edu/admissions/request-info	legend			Name, Address, and Contact Information
+https://webapps.salisbury.edu/admissions/request-info	label			      *First name:           
+https://webapps.salisbury.edu/admissions/request-info	label			      Middle initial:           
+https://webapps.salisbury.edu/admissions/request-info	label			      *Last name:           
+https://webapps.salisbury.edu/admissions/request-info	label			      *Address:           
+https://webapps.salisbury.edu/admissions/request-info	label			      Address2:           
+https://webapps.salisbury.edu/admissions/request-info	label			      *City:           
+https://webapps.salisbury.edu/admissions/request-info	label			      *State:          
+https://webapps.salisbury.edu/admissions/request-info	option			Select...
+https://webapps.salisbury.edu/admissions/request-info	option			Outside US
+https://webapps.salisbury.edu/admissions/request-info	option			Alabama
+https://webapps.salisbury.edu/admissions/request-info	option			Alaska
+https://webapps.salisbury.edu/admissions/request-info	option			Arizona
+https://webapps.salisbury.edu/admissions/request-info	option			Arkansas
+https://webapps.salisbury.edu/admissions/request-info	option			California
+https://webapps.salisbury.edu/admissions/request-info	option			Colorado
+https://webapps.salisbury.edu/admissions/request-info	option			Connecticut
+https://webapps.salisbury.edu/admissions/request-info	option			Delaware
+https://webapps.salisbury.edu/admissions/request-info	option			Florida
+https://webapps.salisbury.edu/admissions/request-info	option			Georgia
+https://webapps.salisbury.edu/admissions/request-info	option			Hawaii
+https://webapps.salisbury.edu/admissions/request-info	option			Idaho
+https://webapps.salisbury.edu/admissions/request-info	option			Illinois
+https://webapps.salisbury.edu/admissions/request-info	option			Indiana
+https://webapps.salisbury.edu/admissions/request-info	option			Iowa
+https://webapps.salisbury.edu/admissions/request-info	option			Kansas
+https://webapps.salisbury.edu/admissions/request-info	option			Kentucky
+https://webapps.salisbury.edu/admissions/request-info	option			Louisiana
+https://webapps.salisbury.edu/admissions/request-info	option			Maine
+https://webapps.salisbury.edu/admissions/request-info	option			Maryland
+https://webapps.salisbury.edu/admissions/request-info	option			Massachusetts
+https://webapps.salisbury.edu/admissions/request-info	option			Michigan
+https://webapps.salisbury.edu/admissions/request-info	option			Minnesota
+https://webapps.salisbury.edu/admissions/request-info	option			Mississippi
+https://webapps.salisbury.edu/admissions/request-info	option			Missouri
+https://webapps.salisbury.edu/admissions/request-info	option			Montana
+https://webapps.salisbury.edu/admissions/request-info	option			Nebraska
+https://webapps.salisbury.edu/admissions/request-info	option			Nevada
+https://webapps.salisbury.edu/admissions/request-info	option			New Hampshire
+https://webapps.salisbury.edu/admissions/request-info	option			New Jersey
+https://webapps.salisbury.edu/admissions/request-info	option			New Mexico
+https://webapps.salisbury.edu/admissions/request-info	option			New York
+https://webapps.salisbury.edu/admissions/request-info	option			North Carolina
+https://webapps.salisbury.edu/admissions/request-info	option			North Dakota
+https://webapps.salisbury.edu/admissions/request-info	option			Ohio
+https://webapps.salisbury.edu/admissions/request-info	option			Oklahoma
+https://webapps.salisbury.edu/admissions/request-info	option			Oregon
+https://webapps.salisbury.edu/admissions/request-info	option			Pennsylvania
+https://webapps.salisbury.edu/admissions/request-info	option			Rhode Island
+https://webapps.salisbury.edu/admissions/request-info	option			South Carolina
+https://webapps.salisbury.edu/admissions/request-info	option			South Dakota
+https://webapps.salisbury.edu/admissions/request-info	option			Tennessee
+https://webapps.salisbury.edu/admissions/request-info	option			Texas
+https://webapps.salisbury.edu/admissions/request-info	option			Utah
+https://webapps.salisbury.edu/admissions/request-info	option			Vermont
+https://webapps.salisbury.edu/admissions/request-info	option			Virginia
+https://webapps.salisbury.edu/admissions/request-info	option			Washington
+https://webapps.salisbury.edu/admissions/request-info	option			Washington D.C.
+https://webapps.salisbury.edu/admissions/request-info	option			West Virginia
+https://webapps.salisbury.edu/admissions/request-info	option			Wisconsin
+https://webapps.salisbury.edu/admissions/request-info	option			Wyoming
+https://webapps.salisbury.edu/admissions/request-info	label		span	      *Province 
+https://webapps.salisbury.edu/admissions/request-info	span			(if outside US)
+https://webapps.salisbury.edu/admissions/request-info	label		span	      *Country 
+https://webapps.salisbury.edu/admissions/request-info	label			      *Postal code:              
+https://webapps.salisbury.edu/admissions/request-info	label			      *Telephone:          
+https://webapps.salisbury.edu/admissions/request-info	label			      Cell phone:          
+https://webapps.salisbury.edu/admissions/request-info	label			      *Email address:           
+https://webapps.salisbury.edu/admissions/request-info	legend			Student Information
+https://webapps.salisbury.edu/admissions/request-info	span			      *Gender:          
+https://webapps.salisbury.edu/admissions/request-info	label			Female
+https://webapps.salisbury.edu/admissions/request-info	label			Male
+https://webapps.salisbury.edu/admissions/request-info	label			Prefer not to answer
+https://webapps.salisbury.edu/admissions/request-info	label			      *Date of birth:              
+https://webapps.salisbury.edu/admissions/request-info	label			      *Student type:          
+https://webapps.salisbury.edu/admissions/request-info	option			Freshman
+https://webapps.salisbury.edu/admissions/request-info	option			Transfer Student
+https://webapps.salisbury.edu/admissions/request-info	option			Graduate Student
+https://webapps.salisbury.edu/admissions/request-info	label			      *Entry Term:          
+https://webapps.salisbury.edu/admissions/request-info	option			Spring 2020
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2020
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2021
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2021
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2022
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2022
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2023
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2023
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2024
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2024
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2025
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2025
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2026
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2026
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2027
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2027
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2028
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2028
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2029
+https://webapps.salisbury.edu/admissions/request-info	option	option		Fall 2029
+https://webapps.salisbury.edu/admissions/request-info	option	option		Spring 2030
+https://webapps.salisbury.edu/admissions/request-info	label		br	      *High school name: 
+https://webapps.salisbury.edu/admissions/request-info	em		br	Begin entering high school name
+https://webapps.salisbury.edu/admissions/request-info	em			 select from list that appears.
+https://webapps.salisbury.edu/admissions/request-info	label			*High School Graduation Year:
+https://webapps.salisbury.edu/admissions/request-info	option			2027
+https://webapps.salisbury.edu/admissions/request-info	option			2026
+https://webapps.salisbury.edu/admissions/request-info	option			2025
+https://webapps.salisbury.edu/admissions/request-info	option			2024
+https://webapps.salisbury.edu/admissions/request-info	option			2023
+https://webapps.salisbury.edu/admissions/request-info	option			2022
+https://webapps.salisbury.edu/admissions/request-info	option			2021
+https://webapps.salisbury.edu/admissions/request-info	option			2020
+https://webapps.salisbury.edu/admissions/request-info	option			2019
+https://webapps.salisbury.edu/admissions/request-info	option			2018
+https://webapps.salisbury.edu/admissions/request-info	option			2017
+https://webapps.salisbury.edu/admissions/request-info	option			2016
+https://webapps.salisbury.edu/admissions/request-info	option			2015
+https://webapps.salisbury.edu/admissions/request-info	option			2014
+https://webapps.salisbury.edu/admissions/request-info	option			2013
+https://webapps.salisbury.edu/admissions/request-info	option			2012
+https://webapps.salisbury.edu/admissions/request-info	option			2011
+https://webapps.salisbury.edu/admissions/request-info	option			2010
+https://webapps.salisbury.edu/admissions/request-info	option			2009
+https://webapps.salisbury.edu/admissions/request-info	option			2008
+https://webapps.salisbury.edu/admissions/request-info	option			2007
+https://webapps.salisbury.edu/admissions/request-info	option			2006
+https://webapps.salisbury.edu/admissions/request-info	option			2005
+https://webapps.salisbury.edu/admissions/request-info	option			2004
+https://webapps.salisbury.edu/admissions/request-info	option			2003
+https://webapps.salisbury.edu/admissions/request-info	option			2002
+https://webapps.salisbury.edu/admissions/request-info	option			2001
+https://webapps.salisbury.edu/admissions/request-info	option			2000
+https://webapps.salisbury.edu/admissions/request-info	option			1999
+https://webapps.salisbury.edu/admissions/request-info	option			1998
+https://webapps.salisbury.edu/admissions/request-info	option			1997
+https://webapps.salisbury.edu/admissions/request-info	option			1996
+https://webapps.salisbury.edu/admissions/request-info	option			1995
+https://webapps.salisbury.edu/admissions/request-info	option			1994
+https://webapps.salisbury.edu/admissions/request-info	option			1993
+https://webapps.salisbury.edu/admissions/request-info	option			1992
+https://webapps.salisbury.edu/admissions/request-info	option			1991
+https://webapps.salisbury.edu/admissions/request-info	option			1990
+https://webapps.salisbury.edu/admissions/request-info	option			1989
+https://webapps.salisbury.edu/admissions/request-info	option			1988
+https://webapps.salisbury.edu/admissions/request-info	option			1987
+https://webapps.salisbury.edu/admissions/request-info	option			1986
+https://webapps.salisbury.edu/admissions/request-info	option			1985
+https://webapps.salisbury.edu/admissions/request-info	option			1984
+https://webapps.salisbury.edu/admissions/request-info	option			1983
+https://webapps.salisbury.edu/admissions/request-info	option			1982
+https://webapps.salisbury.edu/admissions/request-info	option			1981
+https://webapps.salisbury.edu/admissions/request-info	option			1980
+https://webapps.salisbury.edu/admissions/request-info	option			1979
+https://webapps.salisbury.edu/admissions/request-info	option			1978
+https://webapps.salisbury.edu/admissions/request-info	option			1977
+https://webapps.salisbury.edu/admissions/request-info	option			1976
+https://webapps.salisbury.edu/admissions/request-info	option			1975
+https://webapps.salisbury.edu/admissions/request-info	option			1974
+https://webapps.salisbury.edu/admissions/request-info	option			1973
+https://webapps.salisbury.edu/admissions/request-info	option			1972
+https://webapps.salisbury.edu/admissions/request-info	option			1971
+https://webapps.salisbury.edu/admissions/request-info	option			1970
+https://webapps.salisbury.edu/admissions/request-info	option			1969
+https://webapps.salisbury.edu/admissions/request-info	option			1968
+https://webapps.salisbury.edu/admissions/request-info	option			1967
+https://webapps.salisbury.edu/admissions/request-info	option			1966
+https://webapps.salisbury.edu/admissions/request-info	option			1965
+https://webapps.salisbury.edu/admissions/request-info	option			1964
+https://webapps.salisbury.edu/admissions/request-info	option			1963
+https://webapps.salisbury.edu/admissions/request-info	option			1962
+https://webapps.salisbury.edu/admissions/request-info	option			1961
+https://webapps.salisbury.edu/admissions/request-info	option			1960
+https://webapps.salisbury.edu/admissions/request-info	option			1959
+https://webapps.salisbury.edu/admissions/request-info	option			1958
+https://webapps.salisbury.edu/admissions/request-info	option			1957
+https://webapps.salisbury.edu/admissions/request-info	option			1956
+https://webapps.salisbury.edu/admissions/request-info	option			1955
+https://webapps.salisbury.edu/admissions/request-info	option			1954
+https://webapps.salisbury.edu/admissions/request-info	option			1953
+https://webapps.salisbury.edu/admissions/request-info	option			1952
+https://webapps.salisbury.edu/admissions/request-info	option			1951
+https://webapps.salisbury.edu/admissions/request-info	option			1950
+https://webapps.salisbury.edu/admissions/request-info	option			1949
+https://webapps.salisbury.edu/admissions/request-info	option			1948
+https://webapps.salisbury.edu/admissions/request-info	option			1947
+https://webapps.salisbury.edu/admissions/request-info	option			1946
+https://webapps.salisbury.edu/admissions/request-info	option			1945
+https://webapps.salisbury.edu/admissions/request-info	label		br	          *College:
+https://webapps.salisbury.edu/admissions/request-info	em		br	Begin entering college
+https://webapps.salisbury.edu/admissions/request-info	label			*Primary Academic Interest
+https://webapps.salisbury.edu/admissions/request-info	option			Still Deciding
+https://webapps.salisbury.edu/admissions/request-info	option			  Accounting
+https://webapps.salisbury.edu/admissions/request-info	option			Applied Health Physiology
+https://webapps.salisbury.edu/admissions/request-info	option			Anthropology
+https://webapps.salisbury.edu/admissions/request-info	option			Art
+https://webapps.salisbury.edu/admissions/request-info	option			Art-Graphic Design/Visual Comm
+https://webapps.salisbury.edu/admissions/request-info	option			Athletic Training
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences-Botany
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences-Biochem
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences-Environ MS
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences-Genetics
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences-Cell & Mol
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences- Sec Ed
+https://webapps.salisbury.edu/admissions/request-info	option			Biological Sciences-Zoology
+https://webapps.salisbury.edu/admissions/request-info	option			Business Administration
+https://webapps.salisbury.edu/admissions/request-info	option			Business-International Bus
+https://webapps.salisbury.edu/admissions/request-info	option			Conflict Analysis/Dispute Res
+https://webapps.salisbury.edu/admissions/request-info	option			Chemistry
+https://webapps.salisbury.edu/admissions/request-info	option			Communication Arts-Mass Media
+https://webapps.salisbury.edu/admissions/request-info	option			Communication Arts
+https://webapps.salisbury.edu/admissions/request-info	option			Computer Science
+https://webapps.salisbury.edu/admissions/request-info	option			Dance
+https://webapps.salisbury.edu/admissions/request-info	option			Early Childhood Education
+https://webapps.salisbury.edu/admissions/request-info	option			Economics
+https://webapps.salisbury.edu/admissions/request-info	option			Educational Administration
+https://webapps.salisbury.edu/admissions/request-info	option			Education-Reading Education
+https://webapps.salisbury.edu/admissions/request-info	option			Education
+https://webapps.salisbury.edu/admissions/request-info	option			Elementary Education
+https://webapps.salisbury.edu/admissions/request-info	option			English
+https://webapps.salisbury.edu/admissions/request-info	option			English-Creative Writing
+https://webapps.salisbury.edu/admissions/request-info	option			English-Literature
+https://webapps.salisbury.edu/admissions/request-info	option			English-Secondary Education
+https://webapps.salisbury.edu/admissions/request-info	option			Engineering
+https://webapps.salisbury.edu/admissions/request-info	option			Electrical Engineering
+https://webapps.salisbury.edu/admissions/request-info	option			Environmental Health Science
+https://webapps.salisbury.edu/admissions/request-info	option			Environmental Issues
+https://webapps.salisbury.edu/admissions/request-info	option			English as Second Language
+https://webapps.salisbury.edu/admissions/request-info	option			Exercise Science
+https://webapps.salisbury.edu/admissions/request-info	option			Finance
+https://webapps.salisbury.edu/admissions/request-info	option			French
+https://webapps.salisbury.edu/admissions/request-info	option			Geography-Earth & Atmospheric
+https://webapps.salisbury.edu/admissions/request-info	option			Geography & Geosciences
+https://webapps.salisbury.edu/admissions/request-info	option			Geology
+https://webapps.salisbury.edu/admissions/request-info	option			Geography-Mapping & Comp Apps
+https://webapps.salisbury.edu/admissions/request-info	option			Geography-Environmental Planng
+https://webapps.salisbury.edu/admissions/request-info	option			History-Secondary Education
+https://webapps.salisbury.edu/admissions/request-info	option			History
+https://webapps.salisbury.edu/admissions/request-info	option			Health Education
+https://webapps.salisbury.edu/admissions/request-info	option			Honors Program
+https://webapps.salisbury.edu/admissions/request-info	option			Interdisciplinary Studies
+https://webapps.salisbury.edu/admissions/request-info	option			Information Systems
+https://webapps.salisbury.edu/admissions/request-info	option			International Studies
+https://webapps.salisbury.edu/admissions/request-info	option			Languages
+https://webapps.salisbury.edu/admissions/request-info	option			Master of Arts in Teaching
+https://webapps.salisbury.edu/admissions/request-info	option			Mathematics-Secondary Ed
+https://webapps.salisbury.edu/admissions/request-info	option			Mathematics
+https://webapps.salisbury.edu/admissions/request-info	option			Mathematics-Statistics
+https://webapps.salisbury.edu/admissions/request-info	option			Clinical Lab Science/Med Tech
+https://webapps.salisbury.edu/admissions/request-info	option			Management
+https://webapps.salisbury.edu/admissions/request-info	option			Marketing
+https://webapps.salisbury.edu/admissions/request-info	option			Modern Languages
+https://webapps.salisbury.edu/admissions/request-info	option			Music
+https://webapps.salisbury.edu/admissions/request-info	option			Music-Secondary Education
+https://webapps.salisbury.edu/admissions/request-info	option			Nursing
+https://webapps.salisbury.edu/admissions/request-info	option			Physical Education
+https://webapps.salisbury.edu/admissions/request-info	option			Philosophy
+https://webapps.salisbury.edu/admissions/request-info	option			Physics-Microelectronics
+https://webapps.salisbury.edu/admissions/request-info	option			Physics
+https://webapps.salisbury.edu/admissions/request-info	option			Political Science-Envir Policy
+https://webapps.salisbury.edu/admissions/request-info	option			Pol Science-Applied Politics
+https://webapps.salisbury.edu/admissions/request-info	option			Political Science
+https://webapps.salisbury.edu/admissions/request-info	option			Poli Sci-Int'l & Compar Polit
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Dentistry
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Law
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Medicine
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Optometry
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Pharmacy
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Physical Therapy
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Podiatry
+https://webapps.salisbury.edu/admissions/request-info	option			Pre-Veterinary Medicine
+https://webapps.salisbury.edu/admissions/request-info	option			Public School Administration
+https://webapps.salisbury.edu/admissions/request-info	option			Psychology
+https://webapps.salisbury.edu/admissions/request-info	option			Respiratory Therapy
+https://webapps.salisbury.edu/admissions/request-info	option			Secondary Education
+https://webapps.salisbury.edu/admissions/request-info	option			Science Education
+https://webapps.salisbury.edu/admissions/request-info	option			Sociology
+https://webapps.salisbury.edu/admissions/request-info	option			Social Work
+https://webapps.salisbury.edu/admissions/request-info	option			Spanish
+https://webapps.salisbury.edu/admissions/request-info	option			Theatre
+https://webapps.salisbury.edu/admissions/request-info	legend			Submit
+https://webapps.salisbury.edu/admissions/request-info	footer		br	          Copyright © 2018 
+https://webapps.salisbury.edu/admissions/request-info	a			Salisbury University
+https://www.salisbury.edu/admissions/index.aspx	a			Jump to Header
+https://www.salisbury.edu/admissions/index.aspx	a			Jump to Main Content
+https://www.salisbury.edu/admissions/index.aspx	a			Jump to Footer
+https://www.salisbury.edu/admissions/index.aspx	span			Explore Academics
+https://www.salisbury.edu/admissions/index.aspx	a			Find Your Program
+https://www.salisbury.edu/admissions/index.aspx	a			Colleges & Endowed Schools
+https://www.salisbury.edu/admissions/index.aspx	a			Graduate Studies
+https://www.salisbury.edu/admissions/index.aspx	a			The English Language Institute
+https://www.salisbury.edu/admissions/index.aspx	a			Libraries & Academic Resources
+https://www.salisbury.edu/admissions/index.aspx	a			Our Faculty
+https://www.salisbury.edu/admissions/index.aspx	a			Research
+https://www.salisbury.edu/admissions/index.aspx	a			Study Abroad
+https://www.salisbury.edu/admissions/index.aspx	a			Internships
+https://www.salisbury.edu/admissions/index.aspx	span			Become a Student
+https://www.salisbury.edu/admissions/index.aspx	a			Visit Campus
+https://www.salisbury.edu/admissions/index.aspx	a			Apply - Freshman
+https://www.salisbury.edu/admissions/index.aspx	a			Apply - Transfer
+https://www.salisbury.edu/admissions/index.aspx	a			Apply - Graduate
+https://www.salisbury.edu/admissions/index.aspx	a			Apply - International
+https://www.salisbury.edu/admissions/index.aspx	a			Admitted Students
+https://www.salisbury.edu/admissions/index.aspx	span			Afford College
+https://www.salisbury.edu/admissions/index.aspx	a			Tuition & Fees
+https://www.salisbury.edu/admissions/index.aspx	a			How to Apply for Aid
+https://www.salisbury.edu/admissions/index.aspx	a			Types of Aid
+https://www.salisbury.edu/admissions/index.aspx	a			Parents & Family
+https://www.salisbury.edu/admissions/index.aspx	span			Experience Campus
+https://www.salisbury.edu/admissions/index.aspx	a			Housing & Residence Life
+https://www.salisbury.edu/admissions/index.aspx	a			University Dining
+https://www.salisbury.edu/admissions/index.aspx	a			Athletics
+https://www.salisbury.edu/admissions/index.aspx	a			Clubs & Organizations
+https://www.salisbury.edu/admissions/index.aspx	a			News & Events
+https://www.salisbury.edu/admissions/index.aspx	a			Student Services
+https://www.salisbury.edu/admissions/index.aspx	a			Facilities
+https://www.salisbury.edu/admissions/index.aspx	a			Diversity & Inclusion
+https://www.salisbury.edu/admissions/index.aspx	span			Discover SU
+https://www.salisbury.edu/admissions/index.aspx	a			Outcomes & Rankings
+https://www.salisbury.edu/admissions/index.aspx	a			Mission & Values
+https://www.salisbury.edu/admissions/index.aspx	a			Campus Leadership
+https://www.salisbury.edu/admissions/index.aspx	a			Campus History
+https://www.salisbury.edu/admissions/index.aspx	a			Community Outreach
+https://www.salisbury.edu/admissions/index.aspx	a			Campus Spotlights
+https://www.salisbury.edu/admissions/index.aspx	a			Offices and Departments
+https://www.salisbury.edu/admissions/index.aspx	a			Our Region
+https://www.salisbury.edu/admissions/index.aspx	a			Campus Map & Directions
+https://www.salisbury.edu/admissions/index.aspx	a			Current Students
+https://www.salisbury.edu/admissions/index.aspx	a			Faculty & Staff
+https://www.salisbury.edu/admissions/index.aspx	a			Alumni
+https://www.salisbury.edu/admissions/index.aspx	a			Donors, Friends & Families
+https://www.salisbury.edu/admissions/index.aspx	legend			Search Salisbury University
+https://www.salisbury.edu/admissions/index.aspx	label			Search
+https://www.salisbury.edu/admissions/index.aspx	span			Search
+https://www.salisbury.edu/admissions/index.aspx	div			Common Searches
+https://www.salisbury.edu/admissions/index.aspx	a			Admissions
+https://www.salisbury.edu/admissions/index.aspx	a			Campus Calendars
+https://www.salisbury.edu/admissions/index.aspx	a			Events
+https://www.salisbury.edu/admissions/index.aspx	a			Majors &        Minors
+https://www.salisbury.edu/admissions/index.aspx	a			       Registrar
+https://www.salisbury.edu/admissions/index.aspx	a			       We Are SU: The Campaign for Salisbury University
+https://www.salisbury.edu/admissions/index.aspx	a			GullNet
+https://www.salisbury.edu/admissions/index.aspx	a			       IT Help Desk
+https://www.salisbury.edu/admissions/index.aspx	a			       Mobile Printing
+https://www.salisbury.edu/admissions/index.aspx	a			       MyClasses
+https://www.salisbury.edu/admissions/index.aspx	a			Directory        (Faculty & Staff)
+https://www.salisbury.edu/admissions/index.aspx	a			Offices &        Departments
+https://www.salisbury.edu/admissions/index.aspx	a			Map        of the Campus
+https://www.salisbury.edu/admissions/index.aspx	a			       Visitor Parking
+https://www.salisbury.edu/admissions/index.aspx	h1			Salisbury University Admissions
+https://www.salisbury.edu/admissions/index.aspx	h2			Apply Now – The Admissions Team is Here to Help.
+https://www.salisbury.edu/admissions/index.aspx	p			We look forward to getting to know you throughout the admissions process. Explore all of the opportunities available through each of our programs. From undergraduate majors to doctoral programs, we hope you select SU to help you shape your future!
+https://www.salisbury.edu/admissions/index.aspx	a			Freshman Admissions
+https://www.salisbury.edu/admissions/index.aspx	a			Transfer Admissions
+https://www.salisbury.edu/admissions/index.aspx	a			Graduate Admissions
+https://www.salisbury.edu/admissions/index.aspx	a			International Admissions
+https://www.salisbury.edu/admissions/index.aspx	a			Honors College Admissions
+https://www.salisbury.edu/admissions/index.aspx	a			Campus Visits & Tours
+https://www.salisbury.edu/admissions/index.aspx	div			                                                                      Salisbury University offers one of the most beautiful campuses in the region. Designated as a national arboretum, SU is located in the natural learning lab of the Eastern Shore, halfway between the Atlantic Ocean and the Chesapeake Bay. The beauty and friendliness of campus contributed to SU’s designation on Rugg’s Recommendations list of “Magic Dream” schools – “campuses you visit and fall in love with” and inclusion among the “50 Most Amazing University Botanical Gardens and Arboretums in the U.S.”                     
+https://www.salisbury.edu/admissions/index.aspx	a		svg	Rankings & Reputation
+https://www.salisbury.edu/admissions/index.aspx	span			Years in The Princeton Review’s  The Best Colleges
+https://www.salisbury.edu/admissions/index.aspx	span			16:1
+https://www.salisbury.edu/admissions/index.aspx	span			Student/Faculty Ratio
+https://www.salisbury.edu/admissions/index.aspx	span			Years in U.S. News & World Report’s Best Colleges
+https://www.salisbury.edu/admissions/index.aspx	h2			What's Happening at SU
+https://www.salisbury.edu/admissions/index.aspx	h3			'U.S. News' Again Names SU Online M.B.A., Nursing Programs Among Nation's Best
+https://www.salisbury.edu/admissions/index.aspx	time			January 14, 2020
+https://www.salisbury.edu/admissions/index.aspx	h3			SU Announces New Data Science Major
+https://www.salisbury.edu/admissions/index.aspx	time			January 13, 2020
+https://www.salisbury.edu/admissions/index.aspx	a		svg	More News
+https://www.salisbury.edu/admissions/index.aspx	span			Jan
+https://www.salisbury.edu/admissions/index.aspx	h3			CELL 'Women and Money' Conference
+https://www.salisbury.edu/admissions/index.aspx	time			08:30 AM
+https://www.salisbury.edu/admissions/index.aspx	h3			'Posters on the Bay' Presentation
+https://www.salisbury.edu/admissions/index.aspx	time			11:00 AM
+https://www.salisbury.edu/admissions/index.aspx	time			1:00 PM
+https://www.salisbury.edu/admissions/index.aspx	a		svg	More Events
+https://www.salisbury.edu/admissions/index.aspx	div			Also of Interest:
+https://www.salisbury.edu/admissions/index.aspx	a			Study Abroad at Salisbury University
+https://www.salisbury.edu/admissions/index.aspx	a			Ranking of Sociology Doctoral Programs
+https://www.salisbury.edu/admissions/index.aspx	a			Biological Sciences at Salisbury University
+https://www.salisbury.edu/admissions/index.aspx	a			Visit Salisbury
+https://www.salisbury.edu/admissions/index.aspx	a			Apply Now
+https://www.salisbury.edu/admissions/index.aspx	a			Request Info
+https://www.salisbury.edu/admissions/index.aspx	span			1101 Camden Avenue
+https://www.salisbury.edu/admissions/index.aspx	span			Salisbury, MD 21801
+https://www.salisbury.edu/admissions/index.aspx	a			(410) 543-6000
+https://www.salisbury.edu/admissions/index.aspx	a			News and Events
+https://www.salisbury.edu/admissions/index.aspx	a			Academic Calendar
+https://www.salisbury.edu/admissions/index.aspx	a			Libraries
+https://www.salisbury.edu/admissions/index.aspx	a			Give to SU
+https://www.salisbury.edu/admissions/index.aspx	a			Careers
+https://www.salisbury.edu/admissions/index.aspx	a			Bookstore
+https://www.salisbury.edu/admissions/index.aspx	a			Privacy
+https://www.salisbury.edu/admissions/index.aspx	a			Web Accessibility
+https://www.salisbury.edu/admissions/index.aspx	a			Terms of Use
+https://www.salisbury.edu/admissions/index.aspx	a			Copyright
+https://www.salisbury.edu/admissions/index.aspx	a			Student Consumer Information
+https://www.salisbury.edu/admissions/index.aspx	p			© 2018 Salisbury University.
+https://www.salisbury.edu/admissions/index.aspx	a			Questions? Feedback?
+https://www.salisbury.edu/admissions/index.aspx	noscript	script	a	 powered by 
+https://www.salisbury.edu/admissions/index.aspx	a			Olark live chat software
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Jump to Header
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Jump to Main Content
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Jump to Footer
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Explore Academics
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Find Your Program
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Colleges & Endowed Schools
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Graduate Studies
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			The English Language Institute
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Libraries & Academic Resources
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Our Faculty
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Research
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Study Abroad
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Internships
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Become a Student
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Visit Campus
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Apply - Freshman
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Apply - Transfer
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Apply - Graduate
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Apply - International
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Admitted Students
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Afford College
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Tuition & Fees
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			How to Apply for Aid
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Types of Aid
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Parents & Family
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Experience Campus
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Housing & Residence Life
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			University Dining
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Athletics
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Clubs & Organizations
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			News & Events
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Student Services
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Facilities
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Diversity & Inclusion
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Discover SU
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Outcomes & Rankings
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Mission & Values
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Campus Leadership
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Campus History
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Community Outreach
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Campus Spotlights
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Offices and Departments
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Our Region
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Campus Map & Directions
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Current Students
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Faculty & Staff
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Alumni
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Donors, Friends & Families
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	legend			Search Salisbury University
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	label			Search
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Search
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	div			Common Searches
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Admissions
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Campus Calendars
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Events
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Majors &        Minors
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			       Registrar
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			       We Are SU: The Campaign for Salisbury University
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			GullNet
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			       IT Help Desk
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			       Mobile Printing
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			       MyClasses
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Directory        (Faculty & Staff)
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Offices &        Departments
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Map        of the Campus
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			       Visitor Parking
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Afford College
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			How Do I Apply for Financial Aid?
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2		svg	Afford College
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Section Home
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Net Price Calculator
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			How to Apply
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			SU Scholarships
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Student Eligibility Requirements
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Verification by the U.S. Department of Education
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Office of Financial Aid & Scholarships
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Accounts Receivable & Cashiers Office
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h1			How Do I Apply for Financial Aid?
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			SU Award Notification Guides
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			Check out SU's Undergraduate and Graduate Notification Guides for more information on financial aid at SU:
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			2019-2020 Award Notification Guide
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			Who's My Parent When I Fill Out My FAFSA?
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		em	Dependent students are required to report parent information on the 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	em			Free Application for Federal Student Aid
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		strong	 (FAFSA
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		em	). If you’re not sure whether you are a 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	em			dependent student
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		a	, go to 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Student Aid Website
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			For reporting purposes, “parent” means your legal (biological or adoptive) parent or stepparent, or a person that the state has determined to be your legal parent.   Use this guide to figure out which parent’s information to include (depending on your family situation). 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Question 1: Are your parents married to each other? 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			If yes, then report information for both parents on the FAFSA. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			If no, then answer question 2. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Question 2: Do your parents live together? 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			If yes, then report information for both parents on the FAFSA, even if they were never married, are divorced, or are separated. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			If no, then answer question 3. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Question 3: Did you live with one parent more than the other over the past 12 months? 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			If yes, then report information on the FAFSA for the parent you lived with more. Also, if this parent remarried, you will need to report information for your stepparent on the FAFSA. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			If no, then report information on the FAFSA for the parent who provided more financial support over the past 12 months or in the last year you received support. Also, if this parent remarried, you will need to report information for your stepparent on the FAFSA. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			The following people are not your parents unless they have legally adopted you:
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Widowed Stepparent
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Grandparents
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Foster Parents
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Legal Guardians
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Older Brothers or Sisters
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Aunts or Uncles
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			FAFSA Tips & Common Mistakes to Avoid
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			The best way to complete the 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		span	Free Application for Federal Student Aid (FAFSA)
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			 is early, online, and without any mistakes (
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		span	download
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			 and print our checklist of what you'll need to have on hand in order to file your FAFSA). If you aren't yet ready to file a FAFSA, the Department of Education's 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		span	FAFSA4caster tool
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span		a	 can help you estimate your eligibility for federal student aid by providing some basic information. Check these 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			helpful tips
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			 and tricks!
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Using the IRS’s Data Retrieval Tool When Completing the FAFSA
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		a	The IRS Data Retrieval Tool allows applicants who have already filed their federal income tax returns to prefill the answers to some questions on the 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Free Application for Federal Student Aid (FAFSA)
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			 by transferring data from their federal income tax returns. This can save the family some time in completing the FAFSA. It may also reduce the likelihood that your FAFSA will be selected for verification.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			In order to utilize the IRS Data Retrieval Tool applicants must have a valid Social Security Number and FSA ID to use the IRS Data Retrieval Tool. The applicant will need to authenticate himself or herself to the IRS in order to use the IRS Data Retrieval Tool. Students and parents must use the tool separately for their respective income tax returns.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			You will not be able to utilize the IRS Data Retrieval Tool if you are an independent applicant is married and files separate federal income tax returns or a dependent applicant's parents are married and file separate federal income tax returns (e.g., married filing separately or head of household), the applicant will not be able to use the IRS Data Retrieval Tool. Also, if there has been a change in the marital status of the applicant or parent (if the applicant is a dependent student) after the end of the tax year, the applicant will not be able to use the IRS Data Retrieval Tool.  It’s also important to note that the IRS Data Retrieval Tool will only transfer information from an original income tax return and not an amended income tax return.  Finally, Applicants who have filed a foreign income tax return instead of or in addition to a US income tax return will be unable to use the IRS Data Retrieval Tool. For example, taxpayers who file both a US income tax return and a Puerto Rican tax return will be unable to use the IRS Data Retrieval Tool. Also, the IRS Data Retrieval Tool is available only to taxpayers who have a valid Social Security number. Taxpayers who file income tax returns using a Tax ID Number (TIN) will not be able to use the tool.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p		em	Students and parents who are eligible to use the IRS Data Retrieval Tool (IRS DRT) can access it from within the 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			 (FAFSA) on the student or parent finances pages:
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li		strong	Click 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	strong			Link To IRS
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li		strong	. (
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	strong			Note
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			": If you have already used the IRS DRT to transfer your tax return information into your application, click the ""View option to link to the IRS"" hyperlink.)"
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li		strong	Enter your FSA ID. (
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			: The person whose tax information is being transferred should enter his or her own FSA ID. Students will not be asked to enter their FSA ID if they entered an FSA ID to begin their FAFSA.)
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			Your FAFSA will be saved and you will be transferred to the IRS Web site.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			On the IRS Web site, enter the requested information exactly as it appears on your tax return. If you get an error that there's no match, double check your information, including the exact mailing address on your return.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li		em	Once authenticated with the IRS, you will be provided with information surrounding your IRS tax information. You can either transfer your information from the IRS, or choose to return to 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	em			FAFSA on the Web
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			"If you use the IRS DRT to transfer your tax return information from the IRS, the information will not display on your FAFSA. For your protection, the answer to each question is replaced with ""Transferred from the IRS."""
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			I Filled Out The FAFSA, What Happens Next?
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			Important Dates!
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	strong			Fall 2020/Spring 2021 - 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li		a	The 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			 for students attending college in 2020-2021 (Fall 2020/Spring 2021) will be available beginning on October 1, 2019
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	strong			Fall 2019/Spring 2020
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li		a	 - The 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			 for students attending college in 2019-2020 (Fall 2019/Spring 2020) is available now.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			What Does SU's Financial Aid Timeline Look Like?
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	October 1 - The first step
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	li			September 1 - Apply for admission with the Office of Undergraduate Admissions. Upon review of your application, test scores and GPA, the amount of institutional, academic merit aid will be determined automatically.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			October 1 - The first step when applying for federal student aid (and state aid) is completing the Free Application for Federal Student Aid or FAFSA. Fill out your FAFSA, available starting October 1st, at fafsa.ed.gov, using school code 002091. 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			Keep in mind that priority funding at SU and most state gift aid (including Maryland) requires you to complete the FAFSA no later than March 1. Your FAFSA results will automatically be sent SU for processing.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	December 1 - Check out SU's Academic Works 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	div			                                                              December 1 - Check out SU's Academic Works scholarship website to explore other institutional scholarship opportunities.  Sign in with your GullNet user name and password.  Once signed-in, follow the instructions to begin the application process.                         
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Mid-February - Incoming students receive packets
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			"Mid-February - Incoming students for the Fall term will begin to receive their financial aid award packages with their eligible award amounts based on their academic background, need and FAFSA results.  Keep an eye on your GullNet ""To-Do"" list and your campus email account for any additional requirements necessary to assess your eligibility for federal student aid.  If these items are not addressed it may affect the amount of federal student aid you are eligible to receive as a student at SU. "
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			      Keep in mind, students must actively accept their student aid awards in GullNet if they wish to receive federal student aid at SU.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	March 1 - This is the last day to submit your FAFSA 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			March 1 - This is the last day to submit your FAFSA for priority institutional scholarships and Maryland state aid.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	May 1 - SU's deposit deadline 
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	div			                                                              May 1 - This is SU's deposit deadline for admission to the University.                         
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	June
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			"June - Current students will begin to receive their financial aid award packages with their eligible award amounts based on their academic background, need and FAFSA results.  Keep an eye on your GullNet ""To-Do"" list and your campus email account for any additional requirements necessary to assess your eligibility for federal student aid.  If these items are not addressed it may affect the amount of federal student aid you are eligible to receive as a student at SU.   Keep in mind, students must actively accept their student aid awards in GullNet if they wish to receive federal student aid at SU."
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Mid-June - Freshman orientation
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			Mid-June - Freshman orientation takes place.  You'll get to visit campus, talk with your academic advisors, pick your classes and get some face-time with the Financial Aid, Housing and many other departments at SU.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	Mid-July - Fall semester bills distributed
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			Mid-July - Fall semester bills distributed via email to the student’s SU email account.
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a		svg	August - Start your academic journey
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			August - Welcome to SU and the start of classes!
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	h2			Contact Us:
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Office Financial Aid
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Holloway Hall Room 213
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Office: 410-543-6165
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Fax: 410-543-6138
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			finaid@salisbury.edu
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Website
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	div			Also of Interest:
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Office of Financial Aid & Scholarships at...
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Financial Aid & Scholarship Forms and Publications
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Office of Financial Aid & Scholarships Staff
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Visit Salisbury
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Apply Now
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Request Info
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			1101 Camden Avenue
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	span			Salisbury, MD 21801
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			(410) 543-6000
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			News and Events
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Academic Calendar
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Libraries
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Give to SU
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Careers
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Bookstore
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Privacy
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Web Accessibility
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Terms of Use
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Copyright
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	a			Student Consumer Information
+https://www.salisbury.edu/afford-college/how-to-apply.aspx	p			© 2018 Salisbury University.
+http://www.salisbury.edu	a			Jump to Header
+http://www.salisbury.edu	a			Jump to Main Content
+http://www.salisbury.edu	a			Jump to Footer
+http://www.salisbury.edu	span			Explore Academics
+http://www.salisbury.edu	a			Find Your Program
+http://www.salisbury.edu	a			Colleges & Endowed Schools
+http://www.salisbury.edu	a			Graduate Studies
+http://www.salisbury.edu	a			The English Language Institute
+http://www.salisbury.edu	a			Libraries & Academic Resources
+http://www.salisbury.edu	a			Our Faculty
+http://www.salisbury.edu	a			Research
+http://www.salisbury.edu	a			Study Abroad
+http://www.salisbury.edu	a			Internships
+http://www.salisbury.edu	span			Become a Student
+http://www.salisbury.edu	a			Visit Campus
+http://www.salisbury.edu	a			Apply - Freshman
+http://www.salisbury.edu	a			Apply - Transfer
+http://www.salisbury.edu	a			Apply - Graduate
+http://www.salisbury.edu	a			Apply - International
+http://www.salisbury.edu	a			Admitted Students
+http://www.salisbury.edu	span			Afford College
+http://www.salisbury.edu	a			Tuition & Fees
+http://www.salisbury.edu	a			How to Apply for Aid
+http://www.salisbury.edu	a			Types of Aid
+http://www.salisbury.edu	a			Parents & Family
+http://www.salisbury.edu	span			Experience Campus
+http://www.salisbury.edu	a			Housing & Residence Life
+http://www.salisbury.edu	a			University Dining
+http://www.salisbury.edu	a			Athletics
+http://www.salisbury.edu	a			Clubs & Organizations
+http://www.salisbury.edu	a			News & Events
+http://www.salisbury.edu	a			Student Services
+http://www.salisbury.edu	a			Facilities
+http://www.salisbury.edu	a			Diversity & Inclusion
+http://www.salisbury.edu	span			Discover SU
+http://www.salisbury.edu	a			Outcomes & Rankings
+http://www.salisbury.edu	a			Mission & Values
+http://www.salisbury.edu	a			Campus Leadership
+http://www.salisbury.edu	a			Campus History
+http://www.salisbury.edu	a			Community Outreach
+http://www.salisbury.edu	a			Campus Spotlights
+http://www.salisbury.edu	a			Offices and Departments
+http://www.salisbury.edu	a			Our Region
+http://www.salisbury.edu	a			Campus Map & Directions
+http://www.salisbury.edu	a			Current Students
+http://www.salisbury.edu	a			Faculty & Staff
+http://www.salisbury.edu	a			Alumni
+http://www.salisbury.edu	a			Donors, Friends & Families
+http://www.salisbury.edu	legend			Search Salisbury University
+http://www.salisbury.edu	label			Search
+http://www.salisbury.edu	span			Search
+http://www.salisbury.edu	div			Common Searches
+http://www.salisbury.edu	a			Admissions
+http://www.salisbury.edu	a			Campus Calendars
+http://www.salisbury.edu	a			Events
+http://www.salisbury.edu	a			Majors &        Minors
+http://www.salisbury.edu	a			       Registrar
+http://www.salisbury.edu	a			       We Are SU: The Campaign for Salisbury University
+http://www.salisbury.edu	a			GullNet
+http://www.salisbury.edu	a			       IT Help Desk
+http://www.salisbury.edu	a			       Mobile Printing
+http://www.salisbury.edu	a			       MyClasses
+http://www.salisbury.edu	a			Directory        (Faculty & Staff)
+http://www.salisbury.edu	a			Offices &        Departments
+http://www.salisbury.edu	a			Map        of the Campus
+http://www.salisbury.edu	a			       Visitor Parking
+http://www.salisbury.edu	h2		br	A Maryland University
+http://www.salisbury.edu	h2			 National Distinction
+http://www.salisbury.edu	p			A University community that promotes diversity, collaboration and excellence. 
+http://www.salisbury.edu	p			Salisbury University provides opportunities for student creative expression.
+http://www.salisbury.edu	p			Salisbury University provides opportunities for student research for all majors.
+http://www.salisbury.edu	h1			Salisbury University
+http://www.salisbury.edu	h2			Academic Excellence. Outstanding Opportunity.
+http://www.salisbury.edu	a		span	Choose Your Unique Path
+http://www.salisbury.edu	h3			Choose Your Unique Path
+http://www.salisbury.edu	p			Award-winning academic facilities, support services designed to help you achieve and high-quality programs taught by leaders in their discipline guide your evolution as a scholar and an individual.
+http://www.salisbury.edu	a		svg	Our Degree Programs
+http://www.salisbury.edu	a		span	Gain a Global Perspective
+http://www.salisbury.edu	h3			Gain a Global Perspective
+http://www.salisbury.edu	p			The internationalization of your education at SU changes your outlook and expands your opportunities by providing the breadth of experience you need to excel in the global community.
+http://www.salisbury.edu	a		svg	Our Study Abroad Options
+http://www.salisbury.edu	a		span	Immerse Yourself in Research
+http://www.salisbury.edu	h3			Immerse Yourself in Research
+http://www.salisbury.edu	p			Salisbury is known for its undergraduate research and self-directed learning opportunities. Students in all majors and programs are encouraged by faculty-mentors to take inspiration beyond the classroom.
+http://www.salisbury.edu	a		svg	Hands-On Learning at SU
+http://www.salisbury.edu	span			Endowed Academic Schools
+http://www.salisbury.edu	span			Undergraduate Degree Programs
+http://www.salisbury.edu	span			Master's Degree Programs
+http://www.salisbury.edu	span			Doctoral Degree Programs
+http://www.salisbury.edu	h2			World-Class Faculty and Leadership, Focused on You
+http://www.salisbury.edu	blockquote		svg	There is no greater satisfaction for me as an educator – and SU’s President – than teaching young men and women to think critically, and to think creatively.
+http://www.salisbury.edu	span			Dr. Charles Wight
+http://www.salisbury.edu	span			SU President
+http://www.salisbury.edu	h2			Location Is Everything
+http://www.salisbury.edu	a			Residence Life
+http://www.salisbury.edu	a			The Shore
+http://www.salisbury.edu	h3			Enhancing education by advancing student learning environments
+http://www.salisbury.edu	p			SU boasts a collection of state-of-the-art buildings designed to help you excel. The Guerrieri Academic Commons, completed in 2016, is just one of our innovative centers for learning, discovery and interaction.
+http://www.salisbury.edu	a		svg	Take a Virtual Tour of SU
+http://www.salisbury.edu	h3			A beautiful campus, a wide selection of fun activities and friends for life
+http://www.salisbury.edu	p			Life as a resident at Salisbury offers a wide array of recreational and social activities. Our students enjoy nationally competitive club teams; intramural sports; access to fitness, aquatic and tennis facilities; as well as concerts, lectures and exhibits.
+http://www.salisbury.edu	a		svg	Browse the SU Events Calendar
+http://www.salisbury.edu	h3			Salisbury University is the prime location to explore your horizons
+http://www.salisbury.edu	p			Located at the southern edge of Salisbury, a region of more than 100,000 in eastern Maryland, SU is only 30 miles from the beaches of Ocean City, MD, and a short car trip from Baltimore; Washington, D.C.; Philadelphia; and Norfolk.
+http://www.salisbury.edu	a		svg	Schedule a Visit to SU
+http://www.salisbury.edu	h2			Life at Salisbury
+http://www.salisbury.edu	p			You may find your voice and lead the way or you may join your voice with a group of like-minded individuals – or you may do both. Whatever role you take, SU provides opportunities to collaborate, get inspired and find the true you.
+http://www.salisbury.edu	h3			Student Government
+http://www.salisbury.edu	a		svg	Explore
+http://www.salisbury.edu	h3			Clubs & Organizations
+http://www.salisbury.edu	h3			Sea Gull Athletics
+http://www.salisbury.edu	h2			What's Happening at SU
+http://www.salisbury.edu	h3			'U.S. News' Again Names SU Online M.B.A., Nursing Programs Among Nation's Best
+http://www.salisbury.edu	time			January 14, 2020
+http://www.salisbury.edu	h3			SU Announces New Data Science Major
+http://www.salisbury.edu	time			January 13, 2020
+http://www.salisbury.edu	h3			WSCL Antenna, Transmitter to Move
+http://www.salisbury.edu	time			January 10, 2020
+http://www.salisbury.edu	h3			Fiala Named College of Health and Human Services Founding Dean
+http://www.salisbury.edu	time			January 9, 2020
+http://www.salisbury.edu	a		svg	More News
+http://www.salisbury.edu	span			Jan
+http://www.salisbury.edu	h3			CELL 'Women and Money' Conference
+http://www.salisbury.edu	time			08:30 AM
+http://www.salisbury.edu	h3			'Posters on the Bay' Presentation
+http://www.salisbury.edu	time			11:00 AM
+http://www.salisbury.edu	h3			'Discover SU' Brown and Church Carillon Tour
+http://www.salisbury.edu	time			04:00 PM
+http://www.salisbury.edu	a		svg	More Events
+http://www.salisbury.edu	div			Also of Interest:
+http://www.salisbury.edu	a			Salisbury University/University of Maryland...
+http://www.salisbury.edu	a			Commencement
+http://www.salisbury.edu	a			Teacher Academy of Maryland (TAM)
+http://www.salisbury.edu	a			Visit Salisbury
+http://www.salisbury.edu	a			Apply Now
+http://www.salisbury.edu	a			Request Info
+http://www.salisbury.edu	span			1101 Camden Avenue
+http://www.salisbury.edu	span			Salisbury, MD 21801
+http://www.salisbury.edu	a			(410) 543-6000
+http://www.salisbury.edu	a			News and Events
+http://www.salisbury.edu	a			Academic Calendar
+http://www.salisbury.edu	a			Libraries
+http://www.salisbury.edu	a			Give to SU
+http://www.salisbury.edu	a			Careers
+http://www.salisbury.edu	a			Bookstore
+http://www.salisbury.edu	a			Privacy
+http://www.salisbury.edu	a			Web Accessibility
+http://www.salisbury.edu	a			Terms of Use
+http://www.salisbury.edu	a			Copyright
+http://www.salisbury.edu	a			Student Consumer Information
+http://www.salisbury.edu	p			© 2018 Salisbury University.
+http://www.salisbury.edu/news	a			Jump to Header
+http://www.salisbury.edu/news	a			Jump to Main Content
+http://www.salisbury.edu/news	a			Jump to Footer
+http://www.salisbury.edu/news	span			Explore Academics
+http://www.salisbury.edu/news	a			Find Your Program
+http://www.salisbury.edu/news	a			Colleges & Endowed Schools
+http://www.salisbury.edu/news	a			Graduate Studies
+http://www.salisbury.edu/news	a			The English Language Institute
+http://www.salisbury.edu/news	a			Libraries & Academic Resources
+http://www.salisbury.edu/news	a			Our Faculty
+http://www.salisbury.edu/news	a			Research
+http://www.salisbury.edu/news	a			Study Abroad
+http://www.salisbury.edu/news	a			Internships
+http://www.salisbury.edu/news	span			Become a Student
+http://www.salisbury.edu/news	a			Visit Campus
+http://www.salisbury.edu/news	a			Apply - Freshman
+http://www.salisbury.edu/news	a			Apply - Transfer
+http://www.salisbury.edu/news	a			Apply - Graduate
+http://www.salisbury.edu/news	a			Apply - International
+http://www.salisbury.edu/news	a			Admitted Students
+http://www.salisbury.edu/news	span			Afford College
+http://www.salisbury.edu/news	a			Tuition & Fees
+http://www.salisbury.edu/news	a			How to Apply for Aid
+http://www.salisbury.edu/news	a			Types of Aid
+http://www.salisbury.edu/news	a			Parents & Family
+http://www.salisbury.edu/news	span			Experience Campus
+http://www.salisbury.edu/news	a			Housing & Residence Life
+http://www.salisbury.edu/news	a			University Dining
+http://www.salisbury.edu/news	a			Athletics
+http://www.salisbury.edu/news	a			Clubs & Organizations
+http://www.salisbury.edu/news	a			News & Events
+http://www.salisbury.edu/news	a			Student Services
+http://www.salisbury.edu/news	a			Facilities
+http://www.salisbury.edu/news	a			Diversity & Inclusion
+http://www.salisbury.edu/news	span			Discover SU
+http://www.salisbury.edu/news	a			Outcomes & Rankings
+http://www.salisbury.edu/news	a			Mission & Values
+http://www.salisbury.edu/news	a			Campus Leadership
+http://www.salisbury.edu/news	a			Campus History
+http://www.salisbury.edu/news	a			Community Outreach
+http://www.salisbury.edu/news	a			Campus Spotlights
+http://www.salisbury.edu/news	a			Offices and Departments
+http://www.salisbury.edu/news	a			Our Region
+http://www.salisbury.edu/news	a			Campus Map & Directions
+http://www.salisbury.edu/news	a			Current Students
+http://www.salisbury.edu/news	a			Faculty & Staff
+http://www.salisbury.edu/news	a			Alumni
+http://www.salisbury.edu/news	a			Donors, Friends & Families
+http://www.salisbury.edu/news	legend			Search Salisbury University
+http://www.salisbury.edu/news	label			Search
+http://www.salisbury.edu/news	span			Search
+http://www.salisbury.edu/news	div			Common Searches
+http://www.salisbury.edu/news	a			Admissions
+http://www.salisbury.edu/news	a			Campus Calendars
+http://www.salisbury.edu/news	a			Events
+http://www.salisbury.edu/news	a			Majors &        Minors
+http://www.salisbury.edu/news	a			       Registrar
+http://www.salisbury.edu/news	a			       We Are SU: The Campaign for Salisbury University
+http://www.salisbury.edu/news	a			GullNet
+http://www.salisbury.edu/news	a			       IT Help Desk
+http://www.salisbury.edu/news	a			       Mobile Printing
+http://www.salisbury.edu/news	a			       MyClasses
+http://www.salisbury.edu/news	a			Directory        (Faculty & Staff)
+http://www.salisbury.edu/news	a			Offices &        Departments
+http://www.salisbury.edu/news	a			Map        of the Campus
+http://www.salisbury.edu/news	a			       Visitor Parking
+http://www.salisbury.edu/news	span			University News
+http://www.salisbury.edu/news	h2		svg	University News
+http://www.salisbury.edu/news	strong			Section Home
+http://www.salisbury.edu/news	a			News Archive
+http://www.salisbury.edu/news	a			University Events
+http://www.salisbury.edu/news	a			What's Happening at SU
+http://www.salisbury.edu/news	a			SU in the Media
+http://www.salisbury.edu/news	h1			University News
+http://www.salisbury.edu/news	h2			University News
+http://www.salisbury.edu/news	h2			Submit an SU Story Idea
+http://www.salisbury.edu/news	p			Share your achievements and those of current and former students, along with any other suggestions.
+http://www.salisbury.edu/news	a		svg	SUBMIT AN SU STORY IDEA
+http://www.salisbury.edu/news	h2			Contact Information
+http://www.salisbury.edu/news	span			Public Relations Office
+http://www.salisbury.edu/news	span			Holloway Hall (HH) 140 
+http://www.salisbury.edu/news	a			410-543-6030
+http://www.salisbury.edu/news	a			publicrelations@salisbury.edu
+http://www.salisbury.edu/news	div			Also of Interest:
+http://www.salisbury.edu/news	a			News From Alumni
+http://www.salisbury.edu/news	a			News and Events
+http://www.salisbury.edu/news	a			The Seidel News
+http://www.salisbury.edu/news	a			Visit Salisbury
+http://www.salisbury.edu/news	a			Apply Now
+http://www.salisbury.edu/news	a			Request Info
+http://www.salisbury.edu/news	span			1101 Camden Avenue
+http://www.salisbury.edu/news	span			Salisbury, MD 21801
+http://www.salisbury.edu/news	a			(410) 543-6000
+http://www.salisbury.edu/news	a			Academic Calendar
+http://www.salisbury.edu/news	a			Libraries
+http://www.salisbury.edu/news	a			Give to SU
+http://www.salisbury.edu/news	a			Careers
+http://www.salisbury.edu/news	a			Bookstore
+http://www.salisbury.edu/news	a			Privacy
+http://www.salisbury.edu/news	a			Web Accessibility
+http://www.salisbury.edu/news	a			Terms of Use
+http://www.salisbury.edu/news	a			Copyright
+http://www.salisbury.edu/news	a			Student Consumer Information
+http://www.salisbury.edu/news	p			© 2018 Salisbury University.

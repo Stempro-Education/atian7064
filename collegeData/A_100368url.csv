@@ -1,0 +1,6 @@
+url	status_code
+http://www.cffp.edu	200
+https://www.cffp.edu	200
+https://ecampus.cffp.edu	200
+https://ecampus.cffp.edu/Account/Logon	200
+https://ecampus.cffp.edu/Account/Forgot	200

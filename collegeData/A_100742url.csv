@@ -1,0 +1,4 @@
+url	status_code
+http://www.iub.edu	200
+http://www.iub.edu/search	200
+http://www.iub.edu/privacy	200

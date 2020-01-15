@@ -1,0 +1,658 @@
+url	parent	ps	ns	text
+https://charlie.cumberland.edu/zapply	span			Environment
+https://charlie.cumberland.edu/zapply	span			Welcome to Admissions!
+https://charlie.cumberland.edu/zapply	li			It's Time to Rise
+https://charlie.cumberland.edu/zapply	span			Greetings from Admissions!
+https://charlie.cumberland.edu/zapply	li			Admissions Application is currently undergoing maintenance, Please try again later.
+https://charlie.cumberland.edu/zapply	li			Questions: 615 547-1246.
+https://charlie.cumberland.edu/zapply	span			University
+https://charlie.cumberland.edu/zapply	span			Application
+https://charlie.cumberland.edu/zapply	h3			Getting Started
+https://charlie.cumberland.edu/zapply	u			First Time
+https://charlie.cumberland.edu/zapply	div		br	                                  Start now and we'll quickly furnish you with credentials:                                  
+https://charlie.cumberland.edu/zapply	b			Choose a degree type, and provide email address.
+https://charlie.cumberland.edu/zapply	li			"Complete ""About You"" page."
+https://charlie.cumberland.edu/zapply	li			"Complete ""Academic Background"" page."
+https://charlie.cumberland.edu/zapply	li			Credentials (username/passcode) are emailed to you.
+https://charlie.cumberland.edu/zapply	li			Access Admissions, pay the small application fee.
+https://charlie.cumberland.edu/zapply	p			                                      What could be simpler?   Your journey begins with the 'Welcome' area below.                                  
+https://charlie.cumberland.edu/zapply	u			Quick Tips
+https://charlie.cumberland.edu/zapply	p			A few general tips to aide you with application completion.
+https://charlie.cumberland.edu/zapply	i		button	                                              Tap/click a                                              
+https://charlie.cumberland.edu/zapply	button			                                                   Section                                               
+https://charlie.cumberland.edu/zapply	i			                                              button to expand/collapse section.                                          
+https://charlie.cumberland.edu/zapply	i			Click the menu bar &ddarr▪ to collapse all sections at once. This also automatically posts all changes to storage.
+https://charlie.cumberland.edu/zapply	i			Click the menu bar &uuarr■; to expand all sections at once.
+https://charlie.cumberland.edu/zapply	i			As you complete a section, the application will update and then collapse that section automatically after you enter information.
+https://charlie.cumberland.edu/zapply	i			Sections indicate status:
+https://charlie.cumberland.edu/zapply	td			Lookup
+https://charlie.cumberland.edu/zapply	td			Input
+https://charlie.cumberland.edu/zapply	td			Success
+https://charlie.cumberland.edu/zapply	td			Error
+https://charlie.cumberland.edu/zapply	i			Collect all your green dots to proceed to the next page.
+https://charlie.cumberland.edu/zapply	u			Areas / Flags
+https://charlie.cumberland.edu/zapply	div		div	                                Admissions Application Operational Indicators and Flags.                                
+https://charlie.cumberland.edu/zapply	th			Area
+https://charlie.cumberland.edu/zapply	th			Flag
+https://charlie.cumberland.edu/zapply	th			Last
+https://charlie.cumberland.edu/zapply	th			Post
+https://charlie.cumberland.edu/zapply	th			Misc
+https://charlie.cumberland.edu/zapply	th			Table
+https://charlie.cumberland.edu/zapply	th			Actn
+https://charlie.cumberland.edu/zapply	th			Out
+https://charlie.cumberland.edu/zapply	td			DIRTY
+https://charlie.cumberland.edu/zapply	b			CAMs Status
+https://charlie.cumberland.edu/zapply	td			Address
+https://charlie.cumberland.edu/zapply	td			L_AREA_0
+https://charlie.cumberland.edu/zapply	b			zApply Status
+https://charlie.cumberland.edu/zapply	td			College
+https://charlie.cumberland.edu/zapply	td			L_AREA_1
+https://charlie.cumberland.edu/zapply	td			PROSPECT
+https://charlie.cumberland.edu/zapply	td			Contacts
+https://charlie.cumberland.edu/zapply	td			L_AREA_2M
+https://charlie.cumberland.edu/zapply	td			Mail Addr
+https://charlie.cumberland.edu/zapply	td			HighSchl
+https://charlie.cumberland.edu/zapply	td			L_AREA_2P
+https://charlie.cumberland.edu/zapply	td			Perm Addr
+https://charlie.cumberland.edu/zapply	td			NextUniq
+https://charlie.cumberland.edu/zapply	td			L_AREA_3
+https://charlie.cumberland.edu/zapply	td			PARENT1
+https://charlie.cumberland.edu/zapply	td			Prospect
+https://charlie.cumberland.edu/zapply	td			L_AREA_4
+https://charlie.cumberland.edu/zapply	td			PARENT2 
+https://charlie.cumberland.edu/zapply	td			ProsAddr
+https://charlie.cumberland.edu/zapply	td			L_AREA_5
+https://charlie.cumberland.edu/zapply	td			CITIZEN
+https://charlie.cumberland.edu/zapply	td			ProsBack
+https://charlie.cumberland.edu/zapply	td			L_AREA_6
+https://charlie.cumberland.edu/zapply	td			ETHNICITY
+https://charlie.cumberland.edu/zapply	td			ProsCtzn
+https://charlie.cumberland.edu/zapply	td			L_AREA_7
+https://charlie.cumberland.edu/zapply	td			SEL SVC
+https://charlie.cumberland.edu/zapply	td			ProsColl
+https://charlie.cumberland.edu/zapply	td			L_AREA_8
+https://charlie.cumberland.edu/zapply	td			MILITARY
+https://charlie.cumberland.edu/zapply	td			ProsCtct
+https://charlie.cumberland.edu/zapply	td			L_AREA_9
+https://charlie.cumberland.edu/zapply	td			YOUR PLANS
+https://charlie.cumberland.edu/zapply	td			ProsEthn
+https://charlie.cumberland.edu/zapply	td			L_AREA_A
+https://charlie.cumberland.edu/zapply	td			BACK INFO
+https://charlie.cumberland.edu/zapply	td			ProsHigh
+https://charlie.cumberland.edu/zapply	td			L_AREA_B
+https://charlie.cumberland.edu/zapply	td			HIGH SCHOOL
+https://charlie.cumberland.edu/zapply	td			ProsLegl
+https://charlie.cumberland.edu/zapply	td			L_AREA_C
+https://charlie.cumberland.edu/zapply	td			UNIV COLL
+https://charlie.cumberland.edu/zapply	td			ProsMilt
+https://charlie.cumberland.edu/zapply	td			L_AREA_D
+https://charlie.cumberland.edu/zapply	td			ACT TEST
+https://charlie.cumberland.edu/zapply	td			ProsPlan
+https://charlie.cumberland.edu/zapply	td			L_AREA_E
+https://charlie.cumberland.edu/zapply	td			SAT TEST
+https://charlie.cumberland.edu/zapply	td			ProsACT
+https://charlie.cumberland.edu/zapply	td			L_AREA_F
+https://charlie.cumberland.edu/zapply	td			PORTAL
+https://charlie.cumberland.edu/zapply	td			ProsSAT
+https://charlie.cumberland.edu/zapply	td			L_AREA_G
+https://charlie.cumberland.edu/zapply	td			LEGALESE
+https://charlie.cumberland.edu/zapply	td			ProsSSvc
+https://charlie.cumberland.edu/zapply	td			L_AREA_N
+https://charlie.cumberland.edu/zapply	td			NEXT of KIN
+https://charlie.cumberland.edu/zapply	td			ProsFee
+https://charlie.cumberland.edu/zapply	td			L_AREA_S
+https://charlie.cumberland.edu/zapply	td			SPOUSE
+https://charlie.cumberland.edu/zapply	td			StudPort
+https://charlie.cumberland.edu/zapply	td			L_AREA_X
+https://charlie.cumberland.edu/zapply	td			LOGIN
+https://charlie.cumberland.edu/zapply	td			TermCalr
+https://charlie.cumberland.edu/zapply	td			L_AREA_XA
+https://charlie.cumberland.edu/zapply	td			PROS ACTV
+https://charlie.cumberland.edu/zapply	td			ProsActv
+https://charlie.cumberland.edu/zapply	b			Legend:
+https://charlie.cumberland.edu/zapply	td			Pass 
+https://charlie.cumberland.edu/zapply	td			Clean 
+https://charlie.cumberland.edu/zapply	td			Stepping 
+https://charlie.cumberland.edu/zapply	td			Dirty 
+https://charlie.cumberland.edu/zapply	td			Posted 
+https://charlie.cumberland.edu/zapply	td			Fail 
+https://charlie.cumberland.edu/zapply	td			Online 
+https://charlie.cumberland.edu/zapply	td			Offline 
+https://charlie.cumberland.edu/zapply	td			inProcess 
+https://charlie.cumberland.edu/zapply	td			Failed 
+https://charlie.cumberland.edu/zapply	button			                                                       Cookies                                                   
+https://charlie.cumberland.edu/zapply	u			Welcome
+https://charlie.cumberland.edu/zapply	h3			, complete
+https://charlie.cumberland.edu/zapply	li			                                      Thank you, just one moment as we prepare your specific application.                                  
+https://charlie.cumberland.edu/zapply	h3			Confirmed Admission Application
+https://charlie.cumberland.edu/zapply	p		span	                                  Dear                                    
+https://charlie.cumberland.edu/zapply	span			Prospect
+https://charlie.cumberland.edu/zapply	p		span	                                  Thank you, your application was submitted on: 
+https://charlie.cumberland.edu/zapply	p			.                                  Please sign in using the emailed credentials for your CAMs Student Portal to view Document Tracking and follow                                  your progress in the application process.                              
+https://charlie.cumberland.edu/zapply	i			"You may need to ""Activate Student Account"" directly below the ""Login"" button."
+https://charlie.cumberland.edu/zapply	td		br	                                          Sincerely,
+https://charlie.cumberland.edu/zapply	span			University Admission Team
+https://charlie.cumberland.edu/zapply	span			(xxx) yyy-zzzz
+https://charlie.cumberland.edu/zapply	button			                                                  Student Portal                                              
+https://charlie.cumberland.edu/zapply	span			                                              First-Time                                          
+https://charlie.cumberland.edu/zapply	span			                                              Quick Tips                                          
+https://charlie.cumberland.edu/zapply	span			                                              Login                                          
+https://charlie.cumberland.edu/zapply	u			Mandatory Fields
+https://charlie.cumberland.edu/zapply	span			Kindly select a value for the following input field, please:
+https://charlie.cumberland.edu/zapply	div		br	                                                  Degree Type
+https://charlie.cumberland.edu/zapply	span			                                                                              Welcome!                                                                          
+https://charlie.cumberland.edu/zapply	span			                                                                          Welcome!                                                                      
+https://charlie.cumberland.edu/zapply	span			                                                                  Welcome.  To explore the possibilities,  to start the journey, to discover your inner strengths, your hidden abilities,                                                                  to compose those new, exciting chapters of your education, requires a few simple steps to proceed forward, to pursue                                                                  personal goals, refine your interests, and to achieve, begins by choosing the type of admission application.                                                              
+https://charlie.cumberland.edu/zapply	span			To begin that transition, that journey...
+https://charlie.cumberland.edu/zapply	label			                                                                      I am applying for:                                                                  
+https://charlie.cumberland.edu/zapply	option			--loading--
+https://charlie.cumberland.edu/zapply	div		br	                                                                              Undergraduate:                                                                              
+https://charlie.cumberland.edu/zapply	li			                                                                                          Currently enrolled in high school                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          A recent high school graduate                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          A transfer student                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          An international student seeking an undergraduate degree                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          A student planning to participate in NAIA athletics                                                                                      
+https://charlie.cumberland.edu/zapply	div		br	                                                                              Graduate:                                                                              
+https://charlie.cumberland.edu/zapply	div		ul	                                                                                  If you already have your Bachelor's Degree and are seeking to apply for one of the following  programs:                                                                                      
+https://charlie.cumberland.edu/zapply	li		ul	                                                                                          Master of Arts                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                                  Fine Arts (Studio Arts).                                                                                              
+https://charlie.cumberland.edu/zapply	li			                                                                                                  Sport Management.                                                                                              
+https://charlie.cumberland.edu/zapply	li			                                                                                          Master of Arts in Teaching: (Initial Licensure program; Multiple disciplines available).                                                                                        
+https://charlie.cumberland.edu/zapply	li			                                                                                          Master of Business Administration.                                                                                      
+https://charlie.cumberland.edu/zapply	li		ul	                                                                                          Master of Education.                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                                  Instructional Leadership.                                                                                              
+https://charlie.cumberland.edu/zapply	li			                                                                                                  Physical Education & Sports.                                                                                              
+https://charlie.cumberland.edu/zapply	li			                                                                                          Master of Public Service Management.                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          Master of Sport and Exercise Science.                                                                                      
+https://charlie.cumberland.edu/zapply	div		br	                                                                                  Tennessee Promise:                                                                                  
+https://charlie.cumberland.edu/zapply	li			                                                                                              Currently enrolled in a Tennessee high school.                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                              Seeking to utilize TN Promise Scholarship in pursuit of an associate degree.                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                              Do not plan to participate on a NAIA sanctioned athletic team.                                                                                          
+https://charlie.cumberland.edu/zapply	div		br	                                                                                  Tennessee Reconnect:                                                                                  
+https://charlie.cumberland.edu/zapply	li			                                                                                              Be a Tennessee resident for at least a year.                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                              Complete the FAFSA.                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                              Meet FAFSA definition of an independent student.                                                                                          
+https://charlie.cumberland.edu/zapply	li			                                                                                              No Previous earned associate or baccalaureate degree.                                                                                          
+https://charlie.cumberland.edu/zapply	div		br	                                                                                Online Programs:                                                                              
+https://charlie.cumberland.edu/zapply	div		ul	                                                                                  If one of the following categories applies to you:                                                                                     
+https://charlie.cumberland.edu/zapply	li		ul	                                                                                          Master of Arts in Education (Online)                                                                                          
+https://charlie.cumberland.edu/zapply	li			"                                                                                                  This program is intended for students seeking a general education Masters degree or an endorsement for their current license. If seeking an Initial Licensure program, please see ""Graduate Student"" application for the Master of Arts in Teaching. Multiple disciplines are available.                                                                                               "
+https://charlie.cumberland.edu/zapply	li			                                                                                          Master of Business Administration (Online)                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          Master of Science in Nursing (Online)                                                                                      
+https://charlie.cumberland.edu/zapply	li			                                                                                          RN to BSN (Online)                                                                                      
+https://charlie.cumberland.edu/zapply	div		br	                                                                              Certificate:
+https://charlie.cumberland.edu/zapply	li			                                                                                          Complete this application if you are seeking to apply for the                                                                                          COMSTAR Tower Climbing Program.                                                                                      
+https://charlie.cumberland.edu/zapply	label			                                                                      Email Address                                                                  
+https://charlie.cumberland.edu/zapply	label			                                                      There are several Prospects tied to this email, please choose one.                                                  
+https://charlie.cumberland.edu/zapply	option			--loading...
+https://charlie.cumberland.edu/zapply	span			Proceed
+https://charlie.cumberland.edu/zapply	address			                                      campus address                                  
+https://charlie.cumberland.edu/zapply	span			                                          Help                                      
+https://charlie.cumberland.edu/zapply	span			                                          Privacy                                      
+https://charlie.cumberland.edu/zapply	span			                                          Terms                                      
+https://charlie.cumberland.edu/zapply	div		div	Visitor: 
+https://charlie.cumberland.edu/zapply	address			                          campus address                      
+https://charlie.cumberland.edu/zapply	label			                                  Help                              
+https://www.cumberland.edu/admissions	span			Search
+https://www.cumberland.edu/admissions	span			http://www.facebook.com/CumberlandUniversity
+https://www.cumberland.edu/admissions	span			http://www.twitter.com/CumberlandU
+https://www.cumberland.edu/admissions	span			https://www.instagram.com/cumberlandu/
+https://www.cumberland.edu/admissions	span			https://www.linkedin.com/school/cumberland-university/
+https://www.cumberland.edu/admissions	span			https://www.youtube.com/user/CumberlandU
+https://www.cumberland.edu/admissions	a			Home
+https://www.cumberland.edu/admissions	a			About
+https://www.cumberland.edu/admissions	a			Directory
+https://www.cumberland.edu/admissions	a			News
+https://www.cumberland.edu/admissions	a			Giving
+https://www.cumberland.edu/admissions	a			E-Portal
+https://www.cumberland.edu/admissions	a			Apply Now
+https://www.cumberland.edu/admissions	a			Search
+https://www.cumberland.edu/admissions	a			Menu
+https://www.cumberland.edu/admissions	span			Academics
+https://www.cumberland.edu/admissions	a			School of Humanities, Education, and the Arts
+https://www.cumberland.edu/admissions	a			Labry School of Science, Technology, and Business
+https://www.cumberland.edu/admissions	a			Rudy School of Nursing and Health Professions
+https://www.cumberland.edu/admissions	a			Graduate Programs
+https://www.cumberland.edu/admissions	a			Undergraduate Programs
+https://www.cumberland.edu/admissions	a			Academic Resources
+https://www.cumberland.edu/admissions	a			Vise Library
+https://www.cumberland.edu/admissions	a			ComStar
+https://www.cumberland.edu/admissions	a			Culinary Center
+https://www.cumberland.edu/admissions	a			Colloquium
+https://www.cumberland.edu/admissions	span			Admissions
+https://www.cumberland.edu/admissions	a			Undergraduate
+https://www.cumberland.edu/admissions	a			Graduate
+https://www.cumberland.edu/admissions	a			Dual Enrollment
+https://www.cumberland.edu/admissions	a			Admitted Students
+https://www.cumberland.edu/admissions	a			Parents
+https://www.cumberland.edu/admissions	a			CU Online
+https://www.cumberland.edu/admissions	span			Financial
+https://www.cumberland.edu/admissions	a			Tuition and Fees
+https://www.cumberland.edu/admissions	a			Work Study
+https://www.cumberland.edu/admissions	a			Scholarships
+https://www.cumberland.edu/admissions	a			E-Cashier
+https://www.cumberland.edu/admissions	span			Athletics
+https://www.cumberland.edu/admissions	span			Student Life
+https://www.cumberland.edu/admissions	a			Student Resources
+https://www.cumberland.edu/admissions	a			Residence Life & Housing
+https://www.cumberland.edu/admissions	a			Dining
+https://www.cumberland.edu/admissions	a			Student Organizations
+https://www.cumberland.edu/admissions	a			Phoenix Marching Band
+https://www.cumberland.edu/admissions	span			CU Online
+https://www.cumberland.edu/admissions	a			Course Login
+https://www.cumberland.edu/admissions	a			CANVAS
+https://www.cumberland.edu/admissions	span			2020 Commencement
+https://www.cumberland.edu/admissions	span			REQUEST INFORMATION
+https://www.cumberland.edu/admissions	span			SCHEDULE A VISIT
+https://www.cumberland.edu/admissions	span			APPLY NOW
+https://www.cumberland.edu/admissions	span			UNDERGRADUATE
+https://www.cumberland.edu/admissions	span			VETERANS
+https://www.cumberland.edu/admissions	span			GRADUATE
+https://www.cumberland.edu/admissions	span			TRANSFER STUDENTS
+https://www.cumberland.edu/admissions	span			DUAL-ENROLLMENT
+https://www.cumberland.edu/admissions	span			TN PROMISE
+https://www.cumberland.edu/admissions	span			INTERNATIONAL STUDENTS
+https://www.cumberland.edu/admissions	span			ADMITTED STUDENTS
+https://www.cumberland.edu/admissions	span			Cumberland University offers more than 100 different degree programs to choose from, meaning you can rise and pursue the career you want with a degree from CU. Before your academic journey can begin, you first have to apply and be accepted. Don’t feel overwhelmed. We’re here to answer all of your questions to be sure you feel confident and ready for the next step. Whether you’re an incoming freshman, transfer student or graduate student, we have enrollment specialists who guide you through the entire admissions process. Check out the guide below to learn how to become a Phoenix in just eight easy steps. 
+https://www.cumberland.edu/admissions	span			"""I instantly felt a sense of camraderie because of the diversity, sociability, and fellowship on campus."""
+https://www.cumberland.edu/admissions	p			- Carlos Tirado, CU Class of 2019
+https://www.cumberland.edu/admissions	span			2019-2020 VIEW BOOK
+https://www.cumberland.edu/admissions	span			PERSONAL STATEMENT
+https://www.cumberland.edu/admissions	span			IMMUNIZATION FORM
+https://www.cumberland.edu/admissions	span			APPLICANT RECOMMENDATION FORM
+https://www.cumberland.edu/admissions	span			COMSTAR CERTIFICATION
+https://www.cumberland.edu/admissions	span			Experience Preview Day
+https://www.cumberland.edu/admissions	p			The Cumberland University invites interested students and parents to visit our campus for Preview Day! The day will include conversations about college planning, academic programs, scholarships and financial aid, and most importantly, information about why you should become part of the CU family. You'll meet Cumberland students who will discuss several aspects of college life. You'll meet faculty members who will talk about our programs of study. You'll tour our academic, housing and athletics complexes. You'll enjoy a day on our beautiful campus, eat with us and learn all about CU.
+https://www.cumberland.edu/admissions	span			REGISTER HERE
+https://www.cumberland.edu/admissions	li			Learn about Cumberland University
+https://www.cumberland.edu/admissions	li			Ask CU Students questions about college life at CU
+https://www.cumberland.edu/admissions	li			Talk with Professors
+https://www.cumberland.edu/admissions	li			Tour Campus
+https://www.cumberland.edu/admissions	li			"Enjoy lunch with ""future"" classmates"
+https://www.cumberland.edu/admissions	li			Explore life at Cumberland University
+https://www.cumberland.edu/admissions	span			"""Our graduates have gone on to achieve extraordinary things in their careers and in their communities."""
+https://www.cumberland.edu/admissions	p			Dr. Bill McKee, Provost
+https://www.cumberland.edu/admissions	span			About
+https://www.cumberland.edu/admissions	a			History
+https://www.cumberland.edu/admissions	a			Leadership
+https://www.cumberland.edu/admissions	a			Accreditation
+https://www.cumberland.edu/admissions	a			Athletics
+https://www.cumberland.edu/admissions	a			Alumni
+https://www.cumberland.edu/admissions	a			Request Information
+https://www.cumberland.edu/admissions	a			Schedule a Visit
+https://www.cumberland.edu/admissions	a			Apply
+https://www.cumberland.edu/admissions	a			Viewbook
+https://www.cumberland.edu/admissions	a			Catalog
+https://www.cumberland.edu/admissions	a			Programs
+https://www.cumberland.edu/admissions	a			Student Handbook
+https://www.cumberland.edu/admissions	a			Career Services and Internships
+https://www.cumberland.edu/admissions	a			University Chaplain
+https://www.cumberland.edu/admissions	a			Registrar
+https://www.cumberland.edu/admissions	a			Office of Student Success
+https://www.cumberland.edu/admissions	a			Office of Marketing and Communications
+https://www.cumberland.edu/admissions	a			Tennessee Promise
+https://www.cumberland.edu/admissions	a			Code of Conduct
+https://www.cumberland.edu/admissions	a			Start FAFSA
+https://www.cumberland.edu/admissions	a			Bookstore
+https://www.cumberland.edu/admissions	a			Pride Shop
+https://www.cumberland.edu/admissions	a			Counseling Services
+https://www.cumberland.edu/admissions	a			Disability Services
+https://www.cumberland.edu/admissions	a			Campus Security
+https://www.cumberland.edu/admissions	a			Forms and Policies
+https://www.cumberland.edu/admissions	span			Quick Links
+https://www.cumberland.edu/admissions	a			Employee
+https://www.cumberland.edu/admissions	a			Careers at CU
+https://www.cumberland.edu/admissions	a			Forms
+https://www.cumberland.edu/admissions	a			Parking Map
+https://www.cumberland.edu/admissions	a			Camps
+https://www.cumberland.edu/admissions	a			Request A Transcript
+https://www.cumberland.edu/admissions	a			IT Service Request
+https://www.cumberland.edu/admissions	a			Arts Academy
+https://www.cumberland.edu/admissions	a			Marketing Requests
+https://www.cumberland.edu/admissions	p		br	1 Cumberland Square
+https://www.cumberland.edu/admissions	p		br	 Lebanon, TN 37087-3408
+https://www.cumberland.edu/admissions	p		br	 615.444.2562
+https://www.cumberland.edu/admissions	p		br	 800.467.0562
+https://www.cumberland.edu/admissions	p			 615.444.2569 (fax)
+http://www.cumberland.edu	span			Search
+http://www.cumberland.edu	span			http://www.facebook.com/CumberlandUniversity
+http://www.cumberland.edu	span			http://www.twitter.com/CumberlandU
+http://www.cumberland.edu	span			https://www.instagram.com/cumberlandu/
+http://www.cumberland.edu	span			https://www.linkedin.com/school/cumberland-university/
+http://www.cumberland.edu	span			https://www.youtube.com/user/CumberlandU
+http://www.cumberland.edu	a			Home
+http://www.cumberland.edu	a			About
+http://www.cumberland.edu	a			Directory
+http://www.cumberland.edu	a			News
+http://www.cumberland.edu	a			Giving
+http://www.cumberland.edu	a			E-Portal
+http://www.cumberland.edu	a			Apply Now
+http://www.cumberland.edu	a			Search
+http://www.cumberland.edu	a			Menu
+http://www.cumberland.edu	span			Academics
+http://www.cumberland.edu	a			School of Humanities, Education, and the Arts
+http://www.cumberland.edu	a			Labry School of Science, Technology, and Business
+http://www.cumberland.edu	a			Rudy School of Nursing and Health Professions
+http://www.cumberland.edu	a			Graduate Programs
+http://www.cumberland.edu	a			Undergraduate Programs
+http://www.cumberland.edu	a			Academic Resources
+http://www.cumberland.edu	a			Vise Library
+http://www.cumberland.edu	a			ComStar
+http://www.cumberland.edu	a			Culinary Center
+http://www.cumberland.edu	a			Colloquium
+http://www.cumberland.edu	span			Admissions
+http://www.cumberland.edu	a			Undergraduate
+http://www.cumberland.edu	a			Graduate
+http://www.cumberland.edu	a			Dual Enrollment
+http://www.cumberland.edu	a			Admitted Students
+http://www.cumberland.edu	a			Parents
+http://www.cumberland.edu	a			CU Online
+http://www.cumberland.edu	span			Financial
+http://www.cumberland.edu	a			Tuition and Fees
+http://www.cumberland.edu	a			Work Study
+http://www.cumberland.edu	a			Scholarships
+http://www.cumberland.edu	a			E-Cashier
+http://www.cumberland.edu	span			Athletics
+http://www.cumberland.edu	span			Student Life
+http://www.cumberland.edu	a			Student Resources
+http://www.cumberland.edu	a			Residence Life & Housing
+http://www.cumberland.edu	a			Dining
+http://www.cumberland.edu	a			Student Organizations
+http://www.cumberland.edu	a			Phoenix Marching Band
+http://www.cumberland.edu	span			CU Online
+http://www.cumberland.edu	a			Course Login
+http://www.cumberland.edu	a			CANVAS
+http://www.cumberland.edu	span			2020 Commencement
+http://www.cumberland.edu	span			REQUEST INFORMATION
+http://www.cumberland.edu	span			SCHEDULE A VISIT
+http://www.cumberland.edu	span			APPLY NOW
+http://www.cumberland.edu	span			Discover How We Rise
+http://www.cumberland.edu	span			Rise and Succeed
+http://www.cumberland.edu	span			Who do you want to become? Whether you want to impact the next generation as a teacher, care with confidence in healthcare, or be a pioneer in tomorrow's top industries, we can help you rise academically, and prepare for a lifetime of success .
+http://www.cumberland.edu	span			Campus Life
+http://www.cumberland.edu	span			Rise and Connect
+http://www.cumberland.edu	span			Customize your campus life with 55 student organizations, honor societies, and interest groups to keep you connected to your friends, and to the fun. Staying involved helps shape the exciting college experience every student should have.
+http://www.cumberland.edu	span			Rise and Compete
+http://www.cumberland.edu	span			We are Phoenix! Cumberland rallies behind 21 men's and women's athletic teams that rise and compete for conference and national championships. In the game or in the stands you become part of the    winning team. 
+http://www.cumberland.edu	span			Cumberland At A Glance
+http://www.cumberland.edu	span			Students Enrolled
+http://www.cumberland.edu	noscript			2,550
+http://www.cumberland.edu	span			Full-Time Students
+http://www.cumberland.edu	span			Programs of Study
+http://www.cumberland.edu	noscript			110
+http://www.cumberland.edu	span			Student to Faculty Ratio
+http://www.cumberland.edu	span			Acceptance Rate
+http://www.cumberland.edu	span			Graduate Programs
+http://www.cumberland.edu	span			CU Spotlights
+http://www.cumberland.edu	span			Alumni Spotlight
+http://www.cumberland.edu	span			Don Carlos Birdwell
+http://www.cumberland.edu	span			Student Spotlight
+http://www.cumberland.edu	span			Allie Garciá
+http://www.cumberland.edu	span			Faculty & Staff Spotlight
+http://www.cumberland.edu	span			Dr. Marcia Barnes
+http://www.cumberland.edu	a			Cumberland to Create Chemistry Degree for Fall 2020
+http://www.cumberland.edu	span			      January 13, 2020    
+http://www.cumberland.edu	a			Read More
+http://www.cumberland.edu	a			Cumberland Provost and Vice President for Academic Affairs Elected to SACSCOC Board of Trustees
+http://www.cumberland.edu	span			      January 10, 2020    
+http://www.cumberland.edu	a			Cumberland to Host Ceremony in Recognition of Holocaust Remembrance Day
+http://www.cumberland.edu	span			      January 9, 2020    
+http://www.cumberland.edu	a			Cumberland Elects Frank Rudy to Board of Trust
+http://www.cumberland.edu	a			Cumberland University and Journey Church Announce Closing on Leeville Pike Property
+http://www.cumberland.edu	span			      January 8, 2020    
+http://www.cumberland.edu	a			Cumberland Announces Fall 2019 Dean’s List
+http://www.cumberland.edu	span			      December 19, 2019    
+http://www.cumberland.edu	span			Campus Events
+http://www.cumberland.edu	span			January 20
+http://www.cumberland.edu	p			University Closed - MLK Day
+http://www.cumberland.edu	span			February 4
+http://www.cumberland.edu	p			Grad Finale
+http://www.cumberland.edu	span			February 28
+http://www.cumberland.edu	p			Midterm Grades Due
+http://www.cumberland.edu	span			VIEW ACADEMIC CALENDAR
+http://www.cumberland.edu	span			VIEW ATHLETIC CALENDAR
+http://www.cumberland.edu	span			Load More...
+http://www.cumberland.edu	a			Follow on Instagram
+http://www.cumberland.edu	span			Come Experience CU
+http://www.cumberland.edu	p			We invite you to visit our growing campus. We'd love to connect with you, meet your family, and share all Cumberland University has to offer.
+http://www.cumberland.edu	strong			Main Campus: 
+http://www.cumberland.edu	p		br	1 Cumberland Square
+http://www.cumberland.edu	p		br	 Lebanon, TN 37087-3408
+http://www.cumberland.edu	p		br	 615.444.2562
+http://www.cumberland.edu	p		br	 800.467.0562
+http://www.cumberland.edu	p			 615.444.2569 (fax)
+http://www.cumberland.edu	a			Campus Map
+http://www.cumberland.edu	span			Top of page
+http://www.cumberland.edu	span			About
+http://www.cumberland.edu	a			History
+http://www.cumberland.edu	a			Leadership
+http://www.cumberland.edu	a			Accreditation
+http://www.cumberland.edu	a			Athletics
+http://www.cumberland.edu	a			Alumni
+http://www.cumberland.edu	a			Request Information
+http://www.cumberland.edu	a			Schedule a Visit
+http://www.cumberland.edu	a			Apply
+http://www.cumberland.edu	a			Viewbook
+http://www.cumberland.edu	a			Catalog
+http://www.cumberland.edu	a			Programs
+http://www.cumberland.edu	a			Student Handbook
+http://www.cumberland.edu	a			Career Services and Internships
+http://www.cumberland.edu	a			University Chaplain
+http://www.cumberland.edu	a			Registrar
+http://www.cumberland.edu	a			Office of Student Success
+http://www.cumberland.edu	a			Office of Marketing and Communications
+http://www.cumberland.edu	a			Tennessee Promise
+http://www.cumberland.edu	a			Code of Conduct
+http://www.cumberland.edu	a			Start FAFSA
+http://www.cumberland.edu	a			Bookstore
+http://www.cumberland.edu	a			Pride Shop
+http://www.cumberland.edu	a			Counseling Services
+http://www.cumberland.edu	a			Disability Services
+http://www.cumberland.edu	a			Campus Security
+http://www.cumberland.edu	a			Forms and Policies
+http://www.cumberland.edu	span			Quick Links
+http://www.cumberland.edu	a			Employee
+http://www.cumberland.edu	a			Careers at CU
+http://www.cumberland.edu	a			Forms
+http://www.cumberland.edu	a			Parking Map
+http://www.cumberland.edu	a			Camps
+http://www.cumberland.edu	a			Request A Transcript
+http://www.cumberland.edu	a			IT Service Request
+http://www.cumberland.edu	a			Arts Academy
+http://www.cumberland.edu	a			Marketing Requests
+http://www.cumberland.edu/admissions/visit	span			Search
+http://www.cumberland.edu/admissions/visit	span			http://www.facebook.com/CumberlandUniversity
+http://www.cumberland.edu/admissions/visit	span			http://www.twitter.com/CumberlandU
+http://www.cumberland.edu/admissions/visit	span			https://www.instagram.com/cumberlandu/
+http://www.cumberland.edu/admissions/visit	span			https://www.linkedin.com/school/cumberland-university/
+http://www.cumberland.edu/admissions/visit	span			https://www.youtube.com/user/CumberlandU
+http://www.cumberland.edu/admissions/visit	a			Home
+http://www.cumberland.edu/admissions/visit	a			About
+http://www.cumberland.edu/admissions/visit	a			Directory
+http://www.cumberland.edu/admissions/visit	a			News
+http://www.cumberland.edu/admissions/visit	a			Giving
+http://www.cumberland.edu/admissions/visit	a			E-Portal
+http://www.cumberland.edu/admissions/visit	a			Apply Now
+http://www.cumberland.edu/admissions/visit	a			Search
+http://www.cumberland.edu/admissions/visit	a			Menu
+http://www.cumberland.edu/admissions/visit	span			Academics
+http://www.cumberland.edu/admissions/visit	a			School of Humanities, Education, and the Arts
+http://www.cumberland.edu/admissions/visit	a			Labry School of Science, Technology, and Business
+http://www.cumberland.edu/admissions/visit	a			Rudy School of Nursing and Health Professions
+http://www.cumberland.edu/admissions/visit	a			Graduate Programs
+http://www.cumberland.edu/admissions/visit	a			Undergraduate Programs
+http://www.cumberland.edu/admissions/visit	a			Academic Resources
+http://www.cumberland.edu/admissions/visit	a			Vise Library
+http://www.cumberland.edu/admissions/visit	a			ComStar
+http://www.cumberland.edu/admissions/visit	a			Culinary Center
+http://www.cumberland.edu/admissions/visit	a			Colloquium
+http://www.cumberland.edu/admissions/visit	span			Admissions
+http://www.cumberland.edu/admissions/visit	a			Undergraduate
+http://www.cumberland.edu/admissions/visit	a			Graduate
+http://www.cumberland.edu/admissions/visit	a			Dual Enrollment
+http://www.cumberland.edu/admissions/visit	a			Admitted Students
+http://www.cumberland.edu/admissions/visit	a			Parents
+http://www.cumberland.edu/admissions/visit	a			CU Online
+http://www.cumberland.edu/admissions/visit	span			Financial
+http://www.cumberland.edu/admissions/visit	a			Tuition and Fees
+http://www.cumberland.edu/admissions/visit	a			Work Study
+http://www.cumberland.edu/admissions/visit	a			Scholarships
+http://www.cumberland.edu/admissions/visit	a			E-Cashier
+http://www.cumberland.edu/admissions/visit	span			Athletics
+http://www.cumberland.edu/admissions/visit	span			Student Life
+http://www.cumberland.edu/admissions/visit	a			Student Resources
+http://www.cumberland.edu/admissions/visit	a			Residence Life & Housing
+http://www.cumberland.edu/admissions/visit	a			Dining
+http://www.cumberland.edu/admissions/visit	a			Student Organizations
+http://www.cumberland.edu/admissions/visit	a			Phoenix Marching Band
+http://www.cumberland.edu/admissions/visit	span			CU Online
+http://www.cumberland.edu/admissions/visit	a			Course Login
+http://www.cumberland.edu/admissions/visit	a			CANVAS
+http://www.cumberland.edu/admissions/visit	span			2020 Commencement
+http://www.cumberland.edu/admissions/visit	span			Schedule a Visit
+http://www.cumberland.edu/admissions/visit	span			Campus Visits
+http://www.cumberland.edu/admissions/visit	p			Choosing a college is a major decision that will impact the rest of a student’s life. So, how do you find out if Cumberland University is the right choice for you? Visit our campus! Campus visits will allow prospective junior and senior high school students, as well as prospective transfer students, to experience Cumberland University firsthand. We believe that college is an experience that will change your life. Come see why CU will change your future!
+http://www.cumberland.edu/admissions/visit	p			Visiting the Cumberland campus is the best way to see for yourself what CU is all about. On a campus visit you will have the opportunity to tour the campus, meet current students, tour a residence hall, and learn about scholarship opportunities at CU. For your convenience, campus visits are offered almost every weekday during scheduled appointment times. We recommend that you reserve a time below for your campus visit to ensure the best experience possible.
+http://www.cumberland.edu/admissions/visit	p			Please fill out the form below to schedule your campus visit. (We request that students make campus visit reservations at least one week prior to your visit). Once you complete your registration form the Office of Admissions will contact you to confirm the details of your visit. Then, all you need to do is come and experience CU! Here is a sneak peak of what your campus tour experience will be like!
+http://www.cumberland.edu/admissions/visit	li			Check-In (Memorial Hall)
+http://www.cumberland.edu/admissions/visit	li			Meet a President's Ambassador
+http://www.cumberland.edu/admissions/visit	li			Take a campus tour
+http://www.cumberland.edu/admissions/visit	li			Meet & Greet with an Enrollment Specialist
+http://www.cumberland.edu/admissions/visit	li			All About CU (Academic programming, admissions requirements, & scholarship opportunities)
+http://www.cumberland.edu/admissions/visit	li			Optional tour of residence halls
+http://www.cumberland.edu/admissions/visit	span			About
+http://www.cumberland.edu/admissions/visit	a			History
+http://www.cumberland.edu/admissions/visit	a			Leadership
+http://www.cumberland.edu/admissions/visit	a			Accreditation
+http://www.cumberland.edu/admissions/visit	a			Athletics
+http://www.cumberland.edu/admissions/visit	a			Alumni
+http://www.cumberland.edu/admissions/visit	a			Request Information
+http://www.cumberland.edu/admissions/visit	a			Schedule a Visit
+http://www.cumberland.edu/admissions/visit	a			Apply
+http://www.cumberland.edu/admissions/visit	a			Viewbook
+http://www.cumberland.edu/admissions/visit	a			Catalog
+http://www.cumberland.edu/admissions/visit	a			Programs
+http://www.cumberland.edu/admissions/visit	a			Student Handbook
+http://www.cumberland.edu/admissions/visit	a			Career Services and Internships
+http://www.cumberland.edu/admissions/visit	a			University Chaplain
+http://www.cumberland.edu/admissions/visit	a			Registrar
+http://www.cumberland.edu/admissions/visit	a			Office of Student Success
+http://www.cumberland.edu/admissions/visit	a			Office of Marketing and Communications
+http://www.cumberland.edu/admissions/visit	a			Tennessee Promise
+http://www.cumberland.edu/admissions/visit	a			Code of Conduct
+http://www.cumberland.edu/admissions/visit	a			Start FAFSA
+http://www.cumberland.edu/admissions/visit	a			Bookstore
+http://www.cumberland.edu/admissions/visit	a			Pride Shop
+http://www.cumberland.edu/admissions/visit	a			Counseling Services
+http://www.cumberland.edu/admissions/visit	a			Disability Services
+http://www.cumberland.edu/admissions/visit	a			Campus Security
+http://www.cumberland.edu/admissions/visit	a			Forms and Policies
+http://www.cumberland.edu/admissions/visit	span			Quick Links
+http://www.cumberland.edu/admissions/visit	a			Employee
+http://www.cumberland.edu/admissions/visit	a			Careers at CU
+http://www.cumberland.edu/admissions/visit	a			Forms
+http://www.cumberland.edu/admissions/visit	a			Parking Map
+http://www.cumberland.edu/admissions/visit	a			Camps
+http://www.cumberland.edu/admissions/visit	a			Request A Transcript
+http://www.cumberland.edu/admissions/visit	a			IT Service Request
+http://www.cumberland.edu/admissions/visit	a			Arts Academy
+http://www.cumberland.edu/admissions/visit	a			Marketing Requests
+http://www.cumberland.edu/admissions/visit	p		br	1 Cumberland Square
+http://www.cumberland.edu/admissions/visit	p		br	 Lebanon, TN 37087-3408
+http://www.cumberland.edu/admissions/visit	p		br	 615.444.2562
+http://www.cumberland.edu/admissions/visit	p		br	 800.467.0562
+http://www.cumberland.edu/admissions/visit	p			 615.444.2569 (fax)
+http://www.cumberland.edu/applynow	span			Search
+http://www.cumberland.edu/applynow	span			http://www.facebook.com/CumberlandUniversity
+http://www.cumberland.edu/applynow	span			http://www.twitter.com/CumberlandU
+http://www.cumberland.edu/applynow	span			https://www.instagram.com/cumberlandu/
+http://www.cumberland.edu/applynow	span			https://www.linkedin.com/school/cumberland-university/
+http://www.cumberland.edu/applynow	span			https://www.youtube.com/user/CumberlandU
+http://www.cumberland.edu/applynow	a			Home
+http://www.cumberland.edu/applynow	a			About
+http://www.cumberland.edu/applynow	a			Directory
+http://www.cumberland.edu/applynow	a			News
+http://www.cumberland.edu/applynow	a			Giving
+http://www.cumberland.edu/applynow	a			E-Portal
+http://www.cumberland.edu/applynow	a			Apply Now
+http://www.cumberland.edu/applynow	a			Search
+http://www.cumberland.edu/applynow	a			Menu
+http://www.cumberland.edu/applynow	span			Academics
+http://www.cumberland.edu/applynow	a			School of Humanities, Education, and the Arts
+http://www.cumberland.edu/applynow	a			Labry School of Science, Technology, and Business
+http://www.cumberland.edu/applynow	a			Rudy School of Nursing and Health Professions
+http://www.cumberland.edu/applynow	a			Graduate Programs
+http://www.cumberland.edu/applynow	a			Undergraduate Programs
+http://www.cumberland.edu/applynow	a			Academic Resources
+http://www.cumberland.edu/applynow	a			Vise Library
+http://www.cumberland.edu/applynow	a			ComStar
+http://www.cumberland.edu/applynow	a			Culinary Center
+http://www.cumberland.edu/applynow	a			Colloquium
+http://www.cumberland.edu/applynow	span			Admissions
+http://www.cumberland.edu/applynow	a			Undergraduate
+http://www.cumberland.edu/applynow	a			Graduate
+http://www.cumberland.edu/applynow	a			Dual Enrollment
+http://www.cumberland.edu/applynow	a			Admitted Students
+http://www.cumberland.edu/applynow	a			Parents
+http://www.cumberland.edu/applynow	a			CU Online
+http://www.cumberland.edu/applynow	span			Financial
+http://www.cumberland.edu/applynow	a			Tuition and Fees
+http://www.cumberland.edu/applynow	a			Work Study
+http://www.cumberland.edu/applynow	a			Scholarships
+http://www.cumberland.edu/applynow	a			E-Cashier
+http://www.cumberland.edu/applynow	span			Athletics
+http://www.cumberland.edu/applynow	span			Student Life
+http://www.cumberland.edu/applynow	a			Student Resources
+http://www.cumberland.edu/applynow	a			Residence Life & Housing
+http://www.cumberland.edu/applynow	a			Dining
+http://www.cumberland.edu/applynow	a			Student Organizations
+http://www.cumberland.edu/applynow	a			Phoenix Marching Band
+http://www.cumberland.edu/applynow	span			CU Online
+http://www.cumberland.edu/applynow	a			Course Login
+http://www.cumberland.edu/applynow	a			CANVAS
+http://www.cumberland.edu/applynow	span			2020 Commencement
+http://www.cumberland.edu/applynow	span			Apply Now!
+http://www.cumberland.edu/applynow	p			"Please click on ""Apply Now"" below to apply to Cumberland University."
+http://www.cumberland.edu/applynow	span			APPLY NOW
+http://www.cumberland.edu/applynow	span			About
+http://www.cumberland.edu/applynow	a			History
+http://www.cumberland.edu/applynow	a			Leadership
+http://www.cumberland.edu/applynow	a			Accreditation
+http://www.cumberland.edu/applynow	a			Athletics
+http://www.cumberland.edu/applynow	a			Alumni
+http://www.cumberland.edu/applynow	a			Request Information
+http://www.cumberland.edu/applynow	a			Schedule a Visit
+http://www.cumberland.edu/applynow	a			Apply
+http://www.cumberland.edu/applynow	a			Viewbook
+http://www.cumberland.edu/applynow	a			Catalog
+http://www.cumberland.edu/applynow	a			Programs
+http://www.cumberland.edu/applynow	a			Student Handbook
+http://www.cumberland.edu/applynow	a			Career Services and Internships
+http://www.cumberland.edu/applynow	a			University Chaplain
+http://www.cumberland.edu/applynow	a			Registrar
+http://www.cumberland.edu/applynow	a			Office of Student Success
+http://www.cumberland.edu/applynow	a			Office of Marketing and Communications
+http://www.cumberland.edu/applynow	a			Tennessee Promise
+http://www.cumberland.edu/applynow	a			Code of Conduct
+http://www.cumberland.edu/applynow	a			Start FAFSA
+http://www.cumberland.edu/applynow	a			Bookstore
+http://www.cumberland.edu/applynow	a			Pride Shop
+http://www.cumberland.edu/applynow	a			Counseling Services
+http://www.cumberland.edu/applynow	a			Disability Services
+http://www.cumberland.edu/applynow	a			Campus Security
+http://www.cumberland.edu/applynow	a			Forms and Policies
+http://www.cumberland.edu/applynow	span			Quick Links
+http://www.cumberland.edu/applynow	a			Employee
+http://www.cumberland.edu/applynow	a			Careers at CU
+http://www.cumberland.edu/applynow	a			Forms
+http://www.cumberland.edu/applynow	a			Parking Map
+http://www.cumberland.edu/applynow	a			Camps
+http://www.cumberland.edu/applynow	a			Request A Transcript
+http://www.cumberland.edu/applynow	a			IT Service Request
+http://www.cumberland.edu/applynow	a			Arts Academy
+http://www.cumberland.edu/applynow	a			Marketing Requests
+http://www.cumberland.edu/applynow	p		br	1 Cumberland Square
+http://www.cumberland.edu/applynow	p		br	 Lebanon, TN 37087-3408
+http://www.cumberland.edu/applynow	p		br	 615.444.2562
+http://www.cumberland.edu/applynow	p		br	 800.467.0562
+http://www.cumberland.edu/applynow	p			 615.444.2569 (fax)

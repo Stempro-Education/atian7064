@@ -1,0 +1,537 @@
+url	parent	ps	ns	text
+https://gpem.luc.edu/apply	div		a	This website uses scripting to enhance your browsing experience. 
+https://gpem.luc.edu/apply	a			Enable JavaScript
+https://gpem.luc.edu/apply	div			 in your browser and then reload this website.
+https://gpem.luc.edu/apply	div	noscript		This website uses resources that are being blocked by your network. Contact your network administrator for more information.
+https://gpem.luc.edu/apply	h1			Loyola University Chicago
+https://gpem.luc.edu/apply	h1			Application Management
+https://gpem.luc.edu/apply	div	div	table	Welcome to the Loyola University Chicago online application system.
+https://gpem.luc.edu/apply	h2			Returning users:
+https://gpem.luc.edu/apply	a			Log in
+https://gpem.luc.edu/apply	span	a		 to continue an application
+https://gpem.luc.edu/apply	h2			First-time users:
+https://gpem.luc.edu/apply	span			Create an account
+https://gpem.luc.edu/apply	span	a		 to start a new application.
+https://gpem.luc.edu/apply	span			                          Loyola University Chicago · 820 N. Michigan Ave., Chicago, IL 60611
+https://gpem.luc.edu/apply	a			© Copyright & Disclaimer 2019
+https://uao.luc.edu/apply	div		a	This website uses scripting to enhance your browsing experience. 
+https://uao.luc.edu/apply	a			Enable JavaScript
+https://uao.luc.edu/apply	div			 in your browser and then reload this website.
+https://uao.luc.edu/apply	div	noscript		This website uses resources that are being blocked by your network. Contact your network administrator for more information.
+https://uao.luc.edu/apply	h1			Application Management
+https://uao.luc.edu/apply	body	head	br	 Welcome to the Loyola University Chicago online application system. There are many ways to utilize this system, so please do follow the appropriate steps based on your intentions.
+https://uao.luc.edu/apply	body	head	br	" 1. If you are starting the application process, please click below on the link entitled ""Start New Application"" and select the appropriate student type and term."
+https://uao.luc.edu/apply	body	head	br	 2. If you are a returning user looking to update and/or complete a current application started previously, please locate the appropriate application in your list of applications and proceed accordingly. Finalize your application by clicking 'Submit'.
+https://uao.luc.edu/apply	body	head		 3. If you are a returning user and admitted to Loyola for an upcoming term, please log into the admitted student page at LUC.edu/undergrad/status. Here, updates appear regularly on topics like financial aid, residence life, campus visit programs, enrollment deposits, orientation and more. 
+https://uao.luc.edu/apply	h2			Returning users:
+https://uao.luc.edu/apply	a			Log in
+https://uao.luc.edu/apply	span	a		 to continue an application
+https://uao.luc.edu/apply	h2			First-time users:
+https://uao.luc.edu/apply	span			Create an account
+https://uao.luc.edu/apply	span	a		 to start a new application.
+https://uao.luc.edu/apply	div	div	a	Loyola University Chicago · 1032 W. Sheridan Rd., Chicago, IL 60660 · 800.262.2373 · 
+https://uao.luc.edu/apply	a			© Copyright & Disclaimer 2017
+http://www.luc.edu	link			"endif]-->    <!-- Custom CSS to overwrite css files-->  <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/university-home.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homepage-update-2016.css'>    <link rel='stylesheet' type='text/css' href='/media/b3/css/typography.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homepage-mobile-panel-082516.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homepage-V3-lead-fix.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homepage-V3-nine-three-numbers-base.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homepage-V3-nine-three-gallery-numbers.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homepage-V3-nine-three-numbers-override.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/comm.css'>        <style>.count {      text-transform: none;      font-family: ""Antenna Light"", sans-serif;      margin-left: 5px;    }</style><link rel='stylesheet' type='text/css' href='/media/lucedu/giving/images/ratnerendowments/ratner-endowments.css'>    <link rel='stylesheet' type='text/css' href='/media/home/stylesheets/homerpage-announcement-0403.css'>        <style> <style>     html, body { margin: 0; padding: 0; width: 100%; }     #alert {       width: 100%;       background: #680013;       background-image: url('https://www.luc.edu/media/home/images/alert-line.png');       box-shadow: inset 0 -5px 15px rgba(0,0,0,.35);     }     #alert.container-fluid { width: 100%; }     #alert > .container { margin: 0 auto; padding: 40px 0; width: 80%; }     #alert-content-wrapper h2,     #alert-content-wrapper h4,     #alert-content-wrapper h6,     #alert-content-wrapper p.explainer,     #alert-content-wrapper a.cta {       margin: 0 0 5px 0;       font-family: 'Antenna', sans-serif;       font-weight: 400;       line-height: 1.5;       letter-spacing: .015em;       color: #e5e5e5;       text-align: center;     }     #alert-content-wrapper h2 {       margin: 0 0 5px 0;       font-family: 'Antenna Bold', sans-serif;       font-size: 1.7em;       font-weight: 700;       text-transform: uppercase;     }     #alert-content-wrapper h4 { font-size: 1em; }     #alert-content-wrapper h6 { font-size: .95em; }     #alert-content-wrapper p.body.explainer {       font-family: 'Antenna', sans-serif;       font-size: 1em;       font-weight: 400;       color: #888888;     }     #alert-content-wrapper h4.uppercase { text-transform: uppercase; }     #alert-content-wrapper p.body.explainer {       margin: 0 0 20px;     }     #alert-content-wrapper a.cta {       font-weight: 600;       color: #eeb111;       text-transform: uppercase;       text-decoration: none;       transition: color .2s;     }     #alert-content-wrapper a:hover {       color: #f4cc64;     }     @media (max-width: 415px) {         #alert.container-fluid {           margin-left: -20px !important;           margin-right: -20px !important;           width: calc(100%   40px);         }         #alert-content-wrapper h2 { font-size: 1.75em; }         #alert-content-wrapper h4 { margin-bottom: 15px; font-size: 1.125em; }         #alert-content-wrapper h6 { font-size: 1.125em; }         #alert-content-wrapper p.body.explainer { font-size: .9em; }         #alert-content-wrapper a.cta { font-size: .9em; font-weight: 600; }         #alert-content-wrapper h2,         #alert-content-wrapper h4,         #alert-content-wrapper h6,         #alert-content-wrapper p.explainer,         #alert-content-wrapper a.cta {           margin: 0 0 15px 0;           line-height: 1.45;         }         #alert-content-wrapper h2 { margin-bottom: 5px; }     }   </style></style>           <!-- jQuery 1.11.-->  <!--Javascript file jquery-1.11.1.min.js --><script type=""text/javascript"" src=""/media/home/js/jquery-1.11.1.min.js""></script>     <!-- dateformat.js-->       <!--Javascript file dateformat.js --><script type=""text/javascript"" src=""/media/home/js/dateformat.js""></script>  <!-- Favicons   ================================================== -->    <link rel=""shortcut icon"" href=""/media/home/images/favicon.ico"">    <link rel=""apple-touch-icon"" href=""/media/home/images/apple-touch-icon.png"">    <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/media/home/images/apple-touch-icon-72x72.png"">    <link rel=""apple-touch-icon"" sizes=""114x114"" href=""/media/home/images/apple-touch-icon-114x114.png"">      <meta name=""application-name"" content=""LUC""/>     <meta name=""msapplication-TileColor"" content=""#92003b""/>     <meta name=""msapplication-TileImage"" content=""/media/home/images/luc-microsoft-tile.png""/>    <!-- Typekit-->   <script type=""text/javascript"" src=""https://use.typekit.com/zhh4trv.js""></script>  <script type=""text/javascript"">try{Typekit.load();}catch(e){}</script>  <script src=""//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"" ></script>        </head>    <body class='subsite backstretch home no-touch' data-image-link='' />         <!-- Google Tag Manager Part II -->  <noscript><iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-54XXDT""  height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>  <!-- End Google Tag Manager Part II -->      <!-- Begin Analytics Script from Site Improve updated 9/2019 -->  <script type=""text/javascript"">  /*<![CDATA[*/  (function() {  var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;  sz.src = '//siteimproveanalytics.com/js/siteanalyze_56625.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);  })();  /*]"
+http://www.luc.edu	a			Support LUC
+http://www.luc.edu	a			LOCUS
+http://www.luc.edu	a			Directories
+http://www.luc.edu	a			Contact
+http://www.luc.edu	a			A–Z
+http://www.luc.edu	a		span	 Links 
+http://www.luc.edu	a			Links
+http://www.luc.edu	a			E-Mail
+http://www.luc.edu	a			Sakai
+http://www.luc.edu	a			KRONOS Timecard
+http://www.luc.edu	a			OneDrive
+http://www.luc.edu	a			Password Self-service
+http://www.luc.edu	a			Employee Self-service
+http://www.luc.edu	a			Academic Affairs
+http://www.luc.edu	a			Advancement
+http://www.luc.edu	a			Advising
+http://www.luc.edu	a			Admission: Adult B.A.
+http://www.luc.edu	a			Admission: Grad/Prof
+http://www.luc.edu	a			Admission: International
+http://www.luc.edu	a			Admission: Undergrad
+http://www.luc.edu	a			Alumni Email
+http://www.luc.edu	a			Alumni Relations
+http://www.luc.edu	a			Athletics
+http://www.luc.edu	a			Bookstore
+http://www.luc.edu	a			Bursar's Office
+http://www.luc.edu	a			Campus Ministry
+http://www.luc.edu	a			Career Centers
+http://www.luc.edu	a			Colleges and Schools
+http://www.luc.edu	a			Commencement
+http://www.luc.edu	a			Conference Services
+http://www.luc.edu	a			Continuing Education
+http://www.luc.edu	a			Course Evaluations IDEA
+http://www.luc.edu	a			Cuneo Mansion & Gardens
+http://www.luc.edu	a			Dining Services
+http://www.luc.edu	a			Diversity and Inclusion
+http://www.luc.edu	a			Emeriti Faculty Caucus
+http://www.luc.edu	a			ePortfolio 
+http://www.luc.edu	a			ESL
+http://www.luc.edu	a			Executive and Professional Education
+http://www.luc.edu	a			Facilities
+http://www.luc.edu	a			Faculty Activity System
+http://www.luc.edu	a			Finance
+http://www.luc.edu	a			Financial Aid
+http://www.luc.edu	a			Human Resources
+http://www.luc.edu	a			IBHE Institutional Complaint System
+http://www.luc.edu	a			Information Technology Services
+http://www.luc.edu	a			Institute of Environmental Sustainability
+http://www.luc.edu	a			Libraries
+http://www.luc.edu	a			LUMA
+http://www.luc.edu	a			Madonna della Strada Chapel
+http://www.luc.edu	a			Media Relations
+http://www.luc.edu	a			Office of First Year Experience
+http://www.luc.edu	a			Office of Institutional Effectiveness
+http://www.luc.edu	a			President's Office
+http://www.luc.edu	a			Rambler Buzz
+http://www.luc.edu	a			Registration and Records
+http://www.luc.edu	a			Residence Life
+http://www.luc.edu	a			Retreat & Ecology Campus
+http://www.luc.edu	a			Rome Center
+http://www.luc.edu	a			Security/Police
+http://www.luc.edu	a			Staff Council
+http://www.luc.edu	a			Student Consumer Information
+http://www.luc.edu	a			Student Development
+http://www.luc.edu	a			Study Abroad
+http://www.luc.edu	a			Summer Sessions
+http://www.luc.edu	a			Tutoring
+http://www.luc.edu	a			University Policies
+http://www.luc.edu	a			Writing Center
+http://www.luc.edu	h1			Loyola University Chicago
+http://www.luc.edu	a			About
+http://www.luc.edu	a			Office of the President
+http://www.luc.edu	a			At a Glance
+http://www.luc.edu	a			Jesuit Catholic Identity
+http://www.luc.edu	a			Visit Campus
+http://www.luc.edu	a			Loyola and Chicago
+http://www.luc.edu	a			Board of Trustees
+http://www.luc.edu	a			President's Cabinet
+http://www.luc.edu	a			Council of Regents
+http://www.luc.edu	a			Accreditation
+http://www.luc.edu	a			Academics
+http://www.luc.edu	a			Departments and Programs
+http://www.luc.edu	a			Programs
+http://www.luc.edu	a			Online Learning
+http://www.luc.edu	a			Calendars and Schedules
+http://www.luc.edu	a			Research
+http://www.luc.edu	a			Study Abroad Programs
+http://www.luc.edu	a			Undergraduate Catalog
+http://www.luc.edu	a			Health Sciences Division
+http://www.luc.edu	a			Admission
+http://www.luc.edu	a			Undergraduate Admission
+http://www.luc.edu	a			Grad/Professional Admission
+http://www.luc.edu	a			Adult Education
+http://www.luc.edu	a			International Admission
+http://www.luc.edu	a			Tuition and Fees
+http://www.luc.edu	a			J-Term
+http://www.luc.edu	a			Alumni
+http://www.luc.edu	a			News
+http://www.luc.edu	a			Events
+http://www.luc.edu	a			Career Services
+http://www.luc.edu	a			Alumni Chapters
+http://www.luc.edu	a			Alumni Services
+http://www.luc.edu	a			Get Involved
+http://www.luc.edu	a			Giving to Loyola
+http://www.luc.edu	a			Campus Life
+http://www.luc.edu	a			Student Life
+http://www.luc.edu	a			Dean of Students
+http://www.luc.edu	a			Student Diversity
+http://www.luc.edu	a			Loyola & Chicago
+http://www.luc.edu	a			Museum of Art
+http://www.luc.edu	a			Visit
+http://www.luc.edu	a			Campus Safety
+http://www.luc.edu	a			Resources
+http://www.luc.edu	a			Bursar and Business Office
+http://www.luc.edu	a			Information Commons
+http://www.luc.edu	a			Student Academic Services
+http://www.luc.edu	a			University Libraries
+http://www.luc.edu	a			University Newsroom
+http://www.luc.edu	a			University Archives
+http://www.luc.edu	a			Student Outcomes
+http://www.luc.edu	a			Nav
+http://www.luc.edu	a			Tools
+http://www.luc.edu	a		span	    Ambassador of hope  
+http://www.luc.edu	h3			Loyola student, alum, and 2019 Opus Prize finalist Brother Charles Nuwagaba is on a mission to change lives in Africa
+http://www.luc.edu	a			  His story  
+http://www.luc.edu	a			Ambassador of hope
+http://www.luc.edu	button		span	Apply 
+http://www.luc.edu	span			now
+http://www.luc.edu	a			Undergraduate
+http://www.luc.edu	a			Graduate/ Professional
+http://www.luc.edu	span			Get
+http://www.luc.edu	button			 info
+http://www.luc.edu	span			Come
+http://www.luc.edu	button			 Visit
+http://www.luc.edu	button			Degrees
+http://www.luc.edu	button		span	Support 
+http://www.luc.edu	span			Loyola
+http://www.luc.edu	span			We are called to
+http://www.luc.edu	span			solve,
+http://www.luc.edu	span			protect,
+http://www.luc.edu	span			advocate.
+http://www.luc.edu	span		a	What’s your calling?
+http://www.luc.edu	a			Learn more
+http://www.luc.edu	h4		span	News and Features
+http://www.luc.edu	a			 More stories
+http://www.luc.edu	h6		span	Health Sciences
+http://www.luc.edu	a			Medical and nursing students team up to learn how to prevent the spread of infection
+http://www.luc.edu	h6		span	Arrupe
+http://www.luc.edu	a			How the success of Arrupe College has inspired a new model for Jesuit education nationwide
+http://www.luc.edu	h6		span	Quinlan
+http://www.luc.edu	a			A professor makes the case for broader workers' rights in the gig economy
+http://www.luc.edu	p			          Chicago born and raised         
+http://www.luc.edu	p		span	          It’s the “city that works,” and Loyolans keep that work ethic going. We call ourselves Chicago’s leaders, neighbors, and game-changers.
+http://www.luc.edu	span			 FIND OUT WHY
+http://www.luc.edu	p			                                                                        Photo: Lukas Keapproth                                                                         
+http://www.luc.edu	p			             Since its founding in 1870, Loyola has called Chicago home. Each student, alum, and faculty and staff member plays a role in shaping our city—through leadership, service, research, and more.
+http://www.luc.edu	p			              85,000           
+http://www.luc.edu	p			                                             alumni in Chicago                                                     
+http://www.luc.edu	p			              Since its founding in 1870, Loyola University Chicago has called Chicago home. Each student, alum, and faculty and staff member plays a role in shaping our city—through leadership, service, research, and more.
+http://www.luc.edu	p			              92,000           
+http://www.luc.edu	p			                                                 volunteer hours logged by students                                                    
+http://www.luc.edu	p			              495          
+http://www.luc.edu	p			                                                 internship community partners                                                   
+http://www.luc.edu	h4			HEAR HERE
+http://www.luc.edu	p		a	Executives from across the city gathered at the Baumhart Center’s Good Business Breakfast this fall to discuss the social impact being pioneered by Chicago businesses. Find out what top business leaders had to say about their contributions to a renaissance in the city's neighborhoods and what steps businesses can take to make it happen.            
+http://www.luc.edu	a			            READ MORE      
+http://www.luc.edu	h4			ON CAMPUS
+http://www.luc.edu	h4			       2020 Climate Change Conference           
+http://www.luc.edu	strong			March 12-13:
+http://www.luc.edu	p		a	 Across the country, the climate crisis has mobilized young people to action, a dynamic that will be the focus of this year’s Climate Change Conference. Hosted by the Institute of Environmental Sustainability, the two-day event will feature a keynote conversation with youth climate leaders moderated by WBEZ's Jerome McDonnell. 
+http://www.luc.edu	a		a	REGISTER          
+http://www.luc.edu	h4			Calendar
+http://www.luc.edu	span			{ts '2020-02-06 18:00:00'}
+http://www.luc.edu	span			{ts '2020-02-06 20:00:00'}
+http://www.luc.edu	a			Innovation and the Future of Health Care
+http://www.luc.edu	span			{ts '2020-03-12 01:00:00'}
+http://www.luc.edu	span			{ts '2020-03-13 13:33:00'}
+http://www.luc.edu	a			2020 Climate Change Conference 
+http://www.luc.edu	a			Full calendar
+http://www.luc.edu	a			Inside Loyola
+http://www.luc.edu	h4		span	@LoyolaChicago
+http://www.luc.edu	span			            @LoyolaChicago           
+http://www.luc.edu	a			@RamblersMBB
+http://www.luc.edu	p		a	: Thanks to 
+http://www.luc.edu	a			@nbcchicago
+http://www.luc.edu	a			@cbschicago
+http://www.luc.edu	p		a	 and 
+http://www.luc.edu	a			@ABC7Chicago
+http://www.luc.edu	p		a	 for stopping by practice today to preview Thursday’s game vs 
+http://www.luc.edu	a			@SIU_Baske
+http://www.luc.edu	a			Details
+http://www.luc.edu	span			            Jan 10           
+http://www.luc.edu	p	p	a	           Psychology major Loren McCauley, a fellow at the Center for Urban Research and Learning, explains why she applied t… https://t.co/PyBah0VCVr           
+http://www.luc.edu	button			Give to Loyola
+http://www.luc.edu	a			 Links 
+http://www.luc.edu	span			Loyola University Chicago
+http://www.luc.edu	span			1032 W. Sheridan Rd.
+http://www.luc.edu	span			Chicago
+http://www.luc.edu	span			60660
+http://www.luc.edu	span			773.274.3000
+http://www.luc.edu	a			webmaster@luc.edu
+http://www.luc.edu	a	div		© Copyright & Disclaimer 2020
+http://www.luc.edu	a			Privacy Policy
+http://www.luc.edu/admission.shtml	h1			Loyola University Chicago
+http://www.luc.edu/admission.shtml	a			A–Z
+http://www.luc.edu/admission.shtml	a			Contact Us
+http://www.luc.edu/admission.shtml	a			Directories
+http://www.luc.edu/admission.shtml	a			LOCUS
+http://www.luc.edu/admission.shtml	a			Links
+http://www.luc.edu/admission.shtml	a			E-Mail
+http://www.luc.edu/admission.shtml	a			Sakai
+http://www.luc.edu/admission.shtml	a			KRONOS Timecard
+http://www.luc.edu/admission.shtml	a			OneDrive
+http://www.luc.edu/admission.shtml	a			Password Self-service
+http://www.luc.edu/admission.shtml	a			Employee Self-service
+http://www.luc.edu/admission.shtml	a			Academic Affairs
+http://www.luc.edu/admission.shtml	a			Advancement
+http://www.luc.edu/admission.shtml	a			Advising
+http://www.luc.edu/admission.shtml	a			Admission: Adult B.A.
+http://www.luc.edu/admission.shtml	a			Admission: Grad/Prof
+http://www.luc.edu/admission.shtml	a			Admission: International
+http://www.luc.edu/admission.shtml	a			Admission: Undergrad
+http://www.luc.edu/admission.shtml	a			Alumni Email
+http://www.luc.edu/admission.shtml	a			Alumni Relations
+http://www.luc.edu/admission.shtml	a			Athletics
+http://www.luc.edu/admission.shtml	a			Bookstore
+http://www.luc.edu/admission.shtml	a			Bursar's Office
+http://www.luc.edu/admission.shtml	a			Campus Ministry
+http://www.luc.edu/admission.shtml	a			Career Centers
+http://www.luc.edu/admission.shtml	a			Colleges and Schools
+http://www.luc.edu/admission.shtml	a			Commencement
+http://www.luc.edu/admission.shtml	a			Conference Services
+http://www.luc.edu/admission.shtml	a			Continuing Education
+http://www.luc.edu/admission.shtml	a			Course Evaluations IDEA
+http://www.luc.edu/admission.shtml	a			Cuneo Mansion & Gardens
+http://www.luc.edu/admission.shtml	a			Dining Services
+http://www.luc.edu/admission.shtml	a			Diversity and Inclusion
+http://www.luc.edu/admission.shtml	a			Emeriti Faculty Caucus
+http://www.luc.edu/admission.shtml	a			ePortfolio 
+http://www.luc.edu/admission.shtml	a			ESL
+http://www.luc.edu/admission.shtml	a			Executive and Professional Education
+http://www.luc.edu/admission.shtml	a			Facilities
+http://www.luc.edu/admission.shtml	a			Faculty Activity System
+http://www.luc.edu/admission.shtml	a			Finance
+http://www.luc.edu/admission.shtml	a			Financial Aid
+http://www.luc.edu/admission.shtml	a			Human Resources
+http://www.luc.edu/admission.shtml	a			IBHE Institutional Complaint System
+http://www.luc.edu/admission.shtml	a			Information Technology Services
+http://www.luc.edu/admission.shtml	a			Institute of Environmental Sustainability
+http://www.luc.edu/admission.shtml	a			Libraries
+http://www.luc.edu/admission.shtml	a			LUMA
+http://www.luc.edu/admission.shtml	a			Madonna della Strada Chapel
+http://www.luc.edu/admission.shtml	a			Media Relations
+http://www.luc.edu/admission.shtml	a			Office of First Year Experience
+http://www.luc.edu/admission.shtml	a			Office of Institutional Effectiveness
+http://www.luc.edu/admission.shtml	a			President's Office
+http://www.luc.edu/admission.shtml	a			Rambler Buzz
+http://www.luc.edu/admission.shtml	a			Registration and Records
+http://www.luc.edu/admission.shtml	a			Residence Life
+http://www.luc.edu/admission.shtml	a			Retreat & Ecology Campus
+http://www.luc.edu/admission.shtml	a			Rome Center
+http://www.luc.edu/admission.shtml	a			Security/Police
+http://www.luc.edu/admission.shtml	a			Staff Council
+http://www.luc.edu/admission.shtml	a			Student Consumer Information
+http://www.luc.edu/admission.shtml	a			Student Development
+http://www.luc.edu/admission.shtml	a			Study Abroad
+http://www.luc.edu/admission.shtml	a			Summer Sessions
+http://www.luc.edu/admission.shtml	a			Tutoring
+http://www.luc.edu/admission.shtml	a			University Policies
+http://www.luc.edu/admission.shtml	a			Writing Center
+http://www.luc.edu/admission.shtml	a			About
+http://www.luc.edu/admission.shtml	a			Office of the President
+http://www.luc.edu/admission.shtml	a			At a Glance
+http://www.luc.edu/admission.shtml	a			Jesuit Catholic Identity
+http://www.luc.edu/admission.shtml	a			Visit Campus
+http://www.luc.edu/admission.shtml	a			Loyola and Chicago
+http://www.luc.edu/admission.shtml	a			Board of Trustees
+http://www.luc.edu/admission.shtml	a			President's Cabinet
+http://www.luc.edu/admission.shtml	a			Council of Regents
+http://www.luc.edu/admission.shtml	a			Accreditation
+http://www.luc.edu/admission.shtml	a			Academics
+http://www.luc.edu/admission.shtml	a			Departments and Programs
+http://www.luc.edu/admission.shtml	a			Programs
+http://www.luc.edu/admission.shtml	a			Online Learning
+http://www.luc.edu/admission.shtml	a			Calendars and Schedules
+http://www.luc.edu/admission.shtml	a			Research
+http://www.luc.edu/admission.shtml	a			Study Abroad Programs
+http://www.luc.edu/admission.shtml	a			Undergraduate Catalog
+http://www.luc.edu/admission.shtml	a			Health Sciences Division
+http://www.luc.edu/admission.shtml	a			Admission
+http://www.luc.edu/admission.shtml	a			Undergraduate Admission
+http://www.luc.edu/admission.shtml	a			Grad/Professional Admission
+http://www.luc.edu/admission.shtml	a			Adult Education
+http://www.luc.edu/admission.shtml	a			International Admission
+http://www.luc.edu/admission.shtml	a			Tuition and Fees
+http://www.luc.edu/admission.shtml	a			J-Term
+http://www.luc.edu/admission.shtml	a			Alumni
+http://www.luc.edu/admission.shtml	a			News
+http://www.luc.edu/admission.shtml	a			Events
+http://www.luc.edu/admission.shtml	a			Career Services
+http://www.luc.edu/admission.shtml	a			Alumni Chapters
+http://www.luc.edu/admission.shtml	a			Alumni Services
+http://www.luc.edu/admission.shtml	a			Get Involved
+http://www.luc.edu/admission.shtml	a			Giving to Loyola
+http://www.luc.edu/admission.shtml	a			Campus Life
+http://www.luc.edu/admission.shtml	a			Student Life
+http://www.luc.edu/admission.shtml	a			Dean of Students
+http://www.luc.edu/admission.shtml	a			Student Diversity
+http://www.luc.edu/admission.shtml	a			Loyola & Chicago
+http://www.luc.edu/admission.shtml	a			Museum of Art
+http://www.luc.edu/admission.shtml	a			Visit
+http://www.luc.edu/admission.shtml	a			Campus Safety
+http://www.luc.edu/admission.shtml	a			Resources
+http://www.luc.edu/admission.shtml	a			Bursar and Business Office
+http://www.luc.edu/admission.shtml	a			Information Commons
+http://www.luc.edu/admission.shtml	a			Student Academic Services
+http://www.luc.edu/admission.shtml	a			University Libraries
+http://www.luc.edu/admission.shtml	a			University Newsroom
+http://www.luc.edu/admission.shtml	a			University Archives
+http://www.luc.edu/admission.shtml	a			Student Outcomes
+http://www.luc.edu/admission.shtml	a			Nav
+http://www.luc.edu/admission.shtml	a			Tools
+http://www.luc.edu/admission.shtml	h2			Begin your journey
+http://www.luc.edu/admission.shtml	p			Choosing a college is difficult. Applying to one shouldn’t be. At Loyola, we do everything we can to guide you through the admission process—which gives you one less thing to worry about. 
+http://www.luc.edu/admission.shtml	h4			Undergraduate Admission
+http://www.luc.edu/admission.shtml	figcaption			Take a visit to Loyola's Lake Shore Campus.
+http://www.luc.edu/admission.shtml	p			Sure, college is about learning. But it’s also about challenging yourself and discovering new things. It’s about meeting people who have different perspectives and viewpoints. In short, it’s about becoming transformed. At Loyola, you’ll have a chance to do that—and so much more.
+http://www.luc.edu/admission.shtml	span			Apply Now
+http://www.luc.edu/admission.shtml	h4		br	Graduate and
+http://www.luc.edu/admission.shtml	h4			Professional Admission
+http://www.luc.edu/admission.shtml	p			Loyola offers nearly 100 master’s degrees and dozens of doctoral programs. Plus our professional schools for business, law, and medicine are routinely ranked among the best in the nation.
+http://www.luc.edu/admission.shtml	h4			Adult Education
+http://www.luc.edu/admission.shtml	p			Completing your bachelor’s degree will give you a competitive edge in today’s workforce. Our School of Continuing and Professional Studies has flexible programs for working adults.
+http://www.luc.edu/admission.shtml	span			Learn More
+http://www.luc.edu/admission.shtml	h4			Executive Education
+http://www.luc.edu/admission.shtml	p			Advance your career by taking an Executive Education course at Loyola’s Quinlan School of Business. We also offer custom training for organizations looking to improve how they work.
+http://www.luc.edu/admission.shtml	h4			Other Admission sites
+http://www.luc.edu/admission.shtml	a			Summer Term
+http://www.luc.edu/admission.shtml	a			January Term
+http://www.luc.edu/admission.shtml	h4			Financial Aid
+http://www.luc.edu/admission.shtml	figure			96%
+http://www.luc.edu/admission.shtml	p		br	Percentage of first-year students that receive
+http://www.luc.edu/admission.shtml	p			need-based financial assistance
+http://www.luc.edu/admission.shtml	figure			$128M
+http://www.luc.edu/admission.shtml	p		br	Amount of tuition-financed aid awarded
+http://www.luc.edu/admission.shtml	p			to Loyola students in 2012
+http://www.luc.edu/admission.shtml	p			Your college education is one of the most important investments you will ever make. Our Financial Aid Office is available to work with you throughout the admission process to help make your dream of a Loyola education a reality.
+http://www.luc.edu/admission.shtml	a		span	Apply Now
+http://www.luc.edu/admission.shtml	a		span	Request Information
+http://www.luc.edu/admission.shtml	a		span	Contact Us
+http://www.luc.edu/admission.shtml	span			Make a Gift
+http://www.luc.edu/apply.html	link			"endif]-->    <!-- Custom CSS to overwrite css files-->      <style>.nav-collapse collapse {  display: none;  }    .container #subsite-nav.navbar, .container #subsite-nav ul {  display: none;  }    footer #footer-links {  display: none;  }</style>       <!-- Grid CSS NAV-->        <!-- dateformat -->     <!-- jQuery 1.11.-->  <!--Javascript file jquery-1.11.1.min.js --><script type=""text/javascript"" src=""/media/home/js/jquery-1.11.1.min.js""></script>     <!-- dateformat.js-->       <!--Javascript file dateformat.js --><script type=""text/javascript"" src=""/media/home/js/dateformat.js""></script>                       <!-- Favicons   ================================================== -->    <link rel=""shortcut icon"" href=""/media/home/images/favicon.ico"">    <link rel=""apple-touch-icon"" href=""/media/home/images/apple-touch-icon.png"">    <link rel=""apple-touch-icon"" sizes=""72x72"" href=""/media/home/images/apple-touch-icon-72x72.png"">    <link rel=""apple-touch-icon"" sizes=""114x114"" href=""/media/home/images/apple-touch-icon-114x114.png"">      <meta name=""application-name"" content=""LUC""/>     <meta name=""msapplication-TileColor"" content=""#92003b""/>     <meta name=""msapplication-TileImage"" content=""/media/home/images/luc-microsoft-tile.png""/>        <!-- Typekit-->   <script type=""text/javascript"" src=""https://use.typekit.com/zhh4trv.js""></script>  <script type=""text/javascript"">try{Typekit.load();}catch(e){}</script>  <script src=""https://code.jquery.com/jquery.js""></script>        <!-- Insert Royal Slider Backup Here -->      <!-- navigation object : Get Head Insert -->        </head>    <body class=""subsite backstretch "" data-image-link=""/media/sitebackgrounds/lewis-loyola-letters.jpg"" />        <!-- Google Tag Manager (noscript) from PK 10/24/16, part II -->  <noscript><iframe src=""https://www.googletagmanager.com/ns.html?id=GTM-54XXDT""  height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>  <!-- End Google Tag Manager (noscript) from PK 10/24/16, part II -->      <!-- Begin Analytics Script from Site Improve updated 9/2019 -->  <script type=""text/javascript"">  /*<![CDATA[*/  (function() {  var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;  sz.src = '//siteimproveanalytics.com/js/siteanalyze_56625.js';  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);  })();  /*]"
+http://www.luc.edu/apply.html	a			Support LUC
+http://www.luc.edu/apply.html	a			LOCUS
+http://www.luc.edu/apply.html	a			Directories
+http://www.luc.edu/apply.html	a			Contact
+http://www.luc.edu/apply.html	a			A–Z
+http://www.luc.edu/apply.html	a		span	 Links 
+http://www.luc.edu/apply.html	a			Links
+http://www.luc.edu/apply.html	a			E-Mail
+http://www.luc.edu/apply.html	a			Sakai
+http://www.luc.edu/apply.html	a			KRONOS Timecard
+http://www.luc.edu/apply.html	a			OneDrive
+http://www.luc.edu/apply.html	a			Password Self-service
+http://www.luc.edu/apply.html	a			Employee Self-service
+http://www.luc.edu/apply.html	a			Academic Affairs
+http://www.luc.edu/apply.html	a			Advancement
+http://www.luc.edu/apply.html	a			Advising
+http://www.luc.edu/apply.html	a			Admission: Adult B.A.
+http://www.luc.edu/apply.html	a			Admission: Grad/Prof
+http://www.luc.edu/apply.html	a			Admission: International
+http://www.luc.edu/apply.html	a			Admission: Undergrad
+http://www.luc.edu/apply.html	a			Alumni Email
+http://www.luc.edu/apply.html	a			Alumni Relations
+http://www.luc.edu/apply.html	a			Athletics
+http://www.luc.edu/apply.html	a			Bookstore
+http://www.luc.edu/apply.html	a			Bursar's Office
+http://www.luc.edu/apply.html	a			Campus Ministry
+http://www.luc.edu/apply.html	a			Career Centers
+http://www.luc.edu/apply.html	a			Colleges and Schools
+http://www.luc.edu/apply.html	a			Commencement
+http://www.luc.edu/apply.html	a			Conference Services
+http://www.luc.edu/apply.html	a			Continuing Education
+http://www.luc.edu/apply.html	a			Course Evaluations IDEA
+http://www.luc.edu/apply.html	a			Cuneo Mansion & Gardens
+http://www.luc.edu/apply.html	a			Dining Services
+http://www.luc.edu/apply.html	a			Diversity and Inclusion
+http://www.luc.edu/apply.html	a			Emeriti Faculty Caucus
+http://www.luc.edu/apply.html	a			ePortfolio 
+http://www.luc.edu/apply.html	a			ESL
+http://www.luc.edu/apply.html	a			Executive and Professional Education
+http://www.luc.edu/apply.html	a			Facilities
+http://www.luc.edu/apply.html	a			Faculty Activity System
+http://www.luc.edu/apply.html	a			Finance
+http://www.luc.edu/apply.html	a			Financial Aid
+http://www.luc.edu/apply.html	a			Human Resources
+http://www.luc.edu/apply.html	a			IBHE Institutional Complaint System
+http://www.luc.edu/apply.html	a			Information Technology Services
+http://www.luc.edu/apply.html	a			Institute of Environmental Sustainability
+http://www.luc.edu/apply.html	a			Libraries
+http://www.luc.edu/apply.html	a			LUMA
+http://www.luc.edu/apply.html	a			Madonna della Strada Chapel
+http://www.luc.edu/apply.html	a			Media Relations
+http://www.luc.edu/apply.html	a			Office of First Year Experience
+http://www.luc.edu/apply.html	a			Office of Institutional Effectiveness
+http://www.luc.edu/apply.html	a			President's Office
+http://www.luc.edu/apply.html	a			Rambler Buzz
+http://www.luc.edu/apply.html	a			Registration and Records
+http://www.luc.edu/apply.html	a			Residence Life
+http://www.luc.edu/apply.html	a			Retreat & Ecology Campus
+http://www.luc.edu/apply.html	a			Rome Center
+http://www.luc.edu/apply.html	a			Security/Police
+http://www.luc.edu/apply.html	a			Staff Council
+http://www.luc.edu/apply.html	a			Student Consumer Information
+http://www.luc.edu/apply.html	a			Student Development
+http://www.luc.edu/apply.html	a			Study Abroad
+http://www.luc.edu/apply.html	a			Summer Sessions
+http://www.luc.edu/apply.html	a			Tutoring
+http://www.luc.edu/apply.html	a			University Policies
+http://www.luc.edu/apply.html	a			Writing Center
+http://www.luc.edu/apply.html	h1			Loyola University Chicago
+http://www.luc.edu/apply.html	a			About
+http://www.luc.edu/apply.html	a			Office of the President
+http://www.luc.edu/apply.html	a			At a Glance
+http://www.luc.edu/apply.html	a			Jesuit Catholic Identity
+http://www.luc.edu/apply.html	a			Visit Campus
+http://www.luc.edu/apply.html	a			Loyola and Chicago
+http://www.luc.edu/apply.html	a			Board of Trustees
+http://www.luc.edu/apply.html	a			President's Cabinet
+http://www.luc.edu/apply.html	a			Council of Regents
+http://www.luc.edu/apply.html	a			Accreditation
+http://www.luc.edu/apply.html	a			Academics
+http://www.luc.edu/apply.html	a			Departments and Programs
+http://www.luc.edu/apply.html	a			Programs
+http://www.luc.edu/apply.html	a			Online Learning
+http://www.luc.edu/apply.html	a			Calendars and Schedules
+http://www.luc.edu/apply.html	a			Research
+http://www.luc.edu/apply.html	a			Study Abroad Programs
+http://www.luc.edu/apply.html	a			Undergraduate Catalog
+http://www.luc.edu/apply.html	a			Health Sciences Division
+http://www.luc.edu/apply.html	a			Admission
+http://www.luc.edu/apply.html	a			Undergraduate Admission
+http://www.luc.edu/apply.html	a			Grad/Professional Admission
+http://www.luc.edu/apply.html	a			Adult Education
+http://www.luc.edu/apply.html	a			International Admission
+http://www.luc.edu/apply.html	a			Tuition and Fees
+http://www.luc.edu/apply.html	a			J-Term
+http://www.luc.edu/apply.html	a			Alumni
+http://www.luc.edu/apply.html	a			News
+http://www.luc.edu/apply.html	a			Events
+http://www.luc.edu/apply.html	a			Career Services
+http://www.luc.edu/apply.html	a			Alumni Chapters
+http://www.luc.edu/apply.html	a			Alumni Services
+http://www.luc.edu/apply.html	a			Get Involved
+http://www.luc.edu/apply.html	a			Giving to Loyola
+http://www.luc.edu/apply.html	a			Campus Life
+http://www.luc.edu/apply.html	a			Student Life
+http://www.luc.edu/apply.html	a			Dean of Students
+http://www.luc.edu/apply.html	a			Student Diversity
+http://www.luc.edu/apply.html	a			Loyola & Chicago
+http://www.luc.edu/apply.html	a			Museum of Art
+http://www.luc.edu/apply.html	a			Visit
+http://www.luc.edu/apply.html	a			Campus Safety
+http://www.luc.edu/apply.html	a			Resources
+http://www.luc.edu/apply.html	a			Bursar and Business Office
+http://www.luc.edu/apply.html	a			Information Commons
+http://www.luc.edu/apply.html	a			Student Academic Services
+http://www.luc.edu/apply.html	a			University Libraries
+http://www.luc.edu/apply.html	a			University Newsroom
+http://www.luc.edu/apply.html	a			University Archives
+http://www.luc.edu/apply.html	a			Student Outcomes
+http://www.luc.edu/apply.html	a			Nav
+http://www.luc.edu/apply.html	a			Tools
+http://www.luc.edu/apply.html	h1			Apply Now
+http://www.luc.edu/apply.html	p			Loyola University Chicago offers more than 70 undergraduate majors and more that 140 graduate, professional, and graduate-level certificate programs. Learn more about program options, admission requirements, and application instructions for various programs:
+http://www.luc.edu/apply.html	li			 (freshman and transfer)
+http://www.luc.edu/apply.html	a			Graduate & Professional Programs
+http://www.luc.edu/apply.html	a			Continuing/Adult Education
+http://www.luc.edu/apply.html	a			Executive Education
+http://www.luc.edu/apply.html	p		a	You can also check out additional information about our 
+http://www.luc.edu/apply.html	a			Rome Start
+http://www.luc.edu/apply.html	p		a	  program and for 
+http://www.luc.edu/apply.html	a			international student
+http://www.luc.edu/apply.html	p			  applicants.
+http://www.luc.edu/apply.html	a			Apply Now
+http://www.luc.edu/apply.html	a			Request Information
+http://www.luc.edu/apply.html	a			Visit Us
+http://www.luc.edu/apply.html	button		span	Apply 
+http://www.luc.edu/apply.html	span		span	now
+http://www.luc.edu/apply.html	a			Undergraduate
+http://www.luc.edu/apply.html	a			Graduate/ Professional
+http://www.luc.edu/apply.html	span			Get
+http://www.luc.edu/apply.html	button			 info
+http://www.luc.edu/apply.html	span			Come
+http://www.luc.edu/apply.html	button			 Visit
+http://www.luc.edu/apply.html	button			Support Loyola
+http://www.luc.edu/apply.html	span			Loyola University Chicago
+http://www.luc.edu/apply.html	span			1032 W. Sheridan Rd.
+http://www.luc.edu/apply.html	span			Chicago
+http://www.luc.edu/apply.html	span			60660
+http://www.luc.edu/apply.html	span			773.274.3000
+http://www.luc.edu/apply.html	a			webmaster@luc.edu
+http://www.luc.edu/apply.html	a	div		© Copyright & Disclaimer 2020
+http://www.luc.edu/apply.html	a			Privacy Policy

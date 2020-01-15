@@ -1,0 +1,490 @@
+url	parent	ps	ns	text
+https://apps.scf.edu/admissionsapp	a		br	General 
+https://apps.scf.edu/admissionsapp	a			Application
+https://apps.scf.edu/admissionsapp	a		br	Dual Enrollment
+https://apps.scf.edu/admissionsapp	h1			Application for Admission to SCF
+https://apps.scf.edu/admissionsapp	button			Admissions Application Fee Information
+https://apps.scf.edu/admissionsapp	p		br	Starting in 2018, a $20 admissions application fee will be assessed for general admissions applicants. When an applicant enrolls in courses for the term in which they indicated on their admissions application, the fee will be refunded to the applicant.  To receive the refund, applicants must meet two qualifications:
+https://apps.scf.edu/admissionsapp	li			Register for courses in their selected term of entry, as indicated on their application and;
+https://apps.scf.edu/admissionsapp	li			Maintain attendance and registration in the  courses past the add/drop registration period.
+https://apps.scf.edu/admissionsapp	p			General Application - Step 1: Create Account
+https://apps.scf.edu/admissionsapp	p		a	If you already have an admissions account, please 
+https://apps.scf.edu/admissionsapp	a			click here
+https://apps.scf.edu/admissionsapp	p			 to login.
+https://apps.scf.edu/admissionsapp	a			Statement of Nondiscrimination
+https://apps.scf.edu/admissionsapp	label		span	Please select the semester you plan on starting at SCF:
+https://apps.scf.edu/admissionsapp	option			Please Select Term
+https://apps.scf.edu/admissionsapp	option			Spring 2020: 06-Jan-2020 - 30-Apr-2020
+https://apps.scf.edu/admissionsapp	option			Summer 2020: 11-May-2020 - 04-Aug-2020
+https://apps.scf.edu/admissionsapp	option			Fall 2020: 16-Aug-2020 - 17-Dec-2020
+https://apps.scf.edu/admissionsapp	option			Spring 2021: 04-Jan-2021 - 30-Apr-2021
+https://apps.scf.edu/admissionsapp	strong			Note: 
+https://apps.scf.edu/admissionsapp	p			For your First, Middle and Last Name input fields, please do not use special characters except for the apostrophe and/or hyphon.
+https://apps.scf.edu/admissionsapp	label		span	First Name:
+https://apps.scf.edu/admissionsapp	label			Middle Name:
+https://apps.scf.edu/admissionsapp	label		span	Last Name:
+https://apps.scf.edu/admissionsapp	label		span	Email:
+https://apps.scf.edu/admissionsapp	label		span	Verify Email:
+https://apps.scf.edu/admissionsapp	label		span	Username:
+https://apps.scf.edu/admissionsapp	strong			Note:
+https://apps.scf.edu/admissionsapp	p			  Create a unique Username that you will remember and that is no longer than 9 characters (can contain numbers and letters).
+https://apps.scf.edu/admissionsapp	label		span	 Password:
+https://apps.scf.edu/admissionsapp	label		span	 Verify Password:
+https://apps.scf.edu/admissionsapp	p			  Passwords must be between 8-30 characters, contain at least 1 uppercase letter (A-Z), 1 lowercase letter (a-z), 1 number (0-9), and 1 special characters.  Spaces are not allowed.
+https://apps.scf.edu/admissionsapp	label			I acknowledge by submitting this form my data is available to this institution.
+https://apps.scf.edu/admissionsapp	h1			Welcome to State College of Florida
+https://apps.scf.edu/admissionsapp	strong			Dual Enrollment Admissions Application
+https://apps.scf.edu/admissionsapp	p			Dual Enrollment admissions @SCF enables qualified public, private, and home high school education students to enroll in selected college credit courses offered by SCF.  The credits that they earn count towards both a college degree and a high school diploma.
+https://apps.scf.edu/admissionsapp	p			Students who have questions about the Dual Enrollment program should consult their high school counselor/official prior to starting the application.
+https://apps.scf.edu/admissionsapp	a			Click here if you are a high school student applying to SCF as a Dual Enrollment student.
+https://apps.scf.edu/admissionsapp	p			©          2020          State College of Florida, Manatee-Sarasota - All rights reserved
+https://apps.scf.edu/admissionsapp	a			Equal Opportunity/Title IX
+https://apps.scf.edu/admissionsapp	a			Copyright infringement
+https://my.scf.edu	h1			Portal Access
+https://my.scf.edu	label			Language:
+https://my.scf.edu	label			Username
+https://my.scf.edu	label			Remember username
+https://my.scf.edu	label			Password
+https://my.scf.edu	label			Show password
+https://my.scf.edu	label			Remember Me
+https://my.scf.edu	button			Continue
+https://my.scf.edu	button			Login
+https://my.scf.edu	button			Set Password
+https://my.scf.edu	button			Forgot Password?
+https://my.scf.edu	p		br	State College of Florida, Manatee-Sarasota does not monitor the content of network traffic except for legal, policy or contractual compliance;          in the case of a health or safety emergency; or for the maintenance and technical security of the network.  The College reserves the right to restrict the use of its information          technology resources and to remove or limit access to information technology resources.
+https://my.scf.edu	a			Copyright
+https://my.scf.edu	p		a	          ©   2018 
+https://my.scf.edu	a			State College of Florida, Manatee-Sarasota
+https://my.scf.edu	p			 All rights reserved.
+https://my.scf.edu	span			Lanyard
+https://my.scf.edu	span			Smart Card
+https://my.scf.edu	label			Question 1
+https://my.scf.edu	label			Question 2
+https://my.scf.edu	label			Question 3
+https://my.scf.edu	label			Question 4
+https://my.scf.edu	label			Question 5
+https://my.scf.edu	button			Cancel
+https://my.scf.edu	label	input		Never shown!
+https://my.scf.edu	h2			Terms Of Use
+https://my.scf.edu	h2			Multi-Factor Enrollment
+https://my.scf.edu	legend			Phone Type
+https://my.scf.edu	option			Alltel
+https://my.scf.edu	option			AT&T
+https://my.scf.edu	option			Bell (Canada)
+https://my.scf.edu	option			Boost Mobile
+https://my.scf.edu	option			Project Fi
+https://my.scf.edu	option			Rogers (Canada)
+https://my.scf.edu	option			Sprint Nextel
+https://my.scf.edu	option			T-Mobile
+https://my.scf.edu	option			Telus Canada
+https://my.scf.edu	option			US Cellular
+https://my.scf.edu	option			Verizon
+https://my.scf.edu	option			Virgin Mobile USA
+https://my.scf.edu	button			Record
+https://my.scf.edu	div			You have the following OTP options
+https://my.scf.edu	button			Skip
+https://my.scf.edu	label			MQ1
+https://my.scf.edu	label			MQ2
+https://my.scf.edu	label			MQ3
+https://my.scf.edu	label			MQ4
+https://my.scf.edu	label			MQ5
+https://my.scf.edu	label			OQ1
+https://my.scf.edu	label			OQ2
+https://my.scf.edu	label			OQ3
+https://my.scf.edu	label			OQ4
+https://my.scf.edu	label			OQ5
+https://my.scf.edu	label			OQ6
+https://my.scf.edu	label			OQ7
+https://my.scf.edu	label			OQ8
+https://my.scf.edu	label			OQ9
+https://my.scf.edu	label			OQ10
+https://my.scf.edu	label			OQ11
+https://my.scf.edu	label			OQ12
+https://my.scf.edu	label			OQ13
+https://my.scf.edu	label			OQ14
+https://my.scf.edu	label			OQ15
+https://my.scf.edu	button			<< Previous
+https://my.scf.edu	button			Next >>
+https://my.scf.edu	h2			Change Username
+https://my.scf.edu	option			iPhone
+https://my.scf.edu	option			Android
+https://my.scf.edu	option			BlackBerry
+https://my.scf.edu	option			Windows
+https://my.scf.edu	h2			Confirm Phone Number
+https://my.scf.edu	h2			Confirm Email Address
+https://my.scf.edu	div		a	Â© 2009-2019 PistolStar, Inc. d/b/a PortalGuard. All rights reserved. 
+https://my.scf.edu	a			Please see our FAQs!
+https://www.scf.edu	a			Skip past main navigation to left column (if one exists)
+https://www.scf.edu	a	a		Skip to footer site map
+https://www.scf.edu	a			MY SCF
+https://www.scf.edu	a			Who's Next?
+https://www.scf.edu	a			Directory
+https://www.scf.edu	a			News
+https://www.scf.edu	a			Calendar
+https://www.scf.edu	a			Maps
+https://www.scf.edu	a			Academics
+https://www.scf.edu	a			Academic Departments
+https://www.scf.edu	a			Art, Design, Humanities
+https://www.scf.edu	a			Business & Technology
+https://www.scf.edu	a			Language & Literature
+https://www.scf.edu	a			Mathematics
+https://www.scf.edu	a			Music
+https://www.scf.edu	a			Natural Science
+https://www.scf.edu	a			Social & Behavioral Sciences
+https://www.scf.edu	a			Theatre
+https://www.scf.edu	a			Signature Programs
+https://www.scf.edu	a			Honors Program
+https://www.scf.edu	a			A.S. Programs and Certificates
+https://www.scf.edu	a			Accounting Technology
+https://www.scf.edu	a			Art
+https://www.scf.edu	a			Biotechnology
+https://www.scf.edu	a			Business
+https://www.scf.edu	a			Computer Science
+https://www.scf.edu	a			Construction Management
+https://www.scf.edu	a			Criminal Justice
+https://www.scf.edu	a			Dental Hygiene
+https://www.scf.edu	a			Digital Cinema/Photography
+https://www.scf.edu	a			Early Childhood Education
+https://www.scf.edu	a			Engineering Technology
+https://www.scf.edu	a			Business Entrepreneurship
+https://www.scf.edu	a			Graphic Design
+https://www.scf.edu	a			Nursing A.S.
+https://www.scf.edu	a			Occupational Therapy Assistant
+https://www.scf.edu	a			Paralegal/Legal Assisting
+https://www.scf.edu	a			Physical Therapist Assistant
+https://www.scf.edu	a			Radiography
+https://www.scf.edu	a			Teacher Certification
+https://www.scf.edu	a			Academic Calendar
+https://www.scf.edu	a			Class Schedule
+https://www.scf.edu	a			Catalog
+https://www.scf.edu	a			Associate Degree Programs
+https://www.scf.edu	a			Academic Degree Pathways
+https://www.scf.edu	a			Baccalaureate Programs
+https://www.scf.edu	a			Career & Technical Education
+https://www.scf.edu	a			Online Learning
+https://www.scf.edu	a			Fine Art Gallery
+https://www.scf.edu	a			Academic Resource Center
+https://www.scf.edu	a			Continuing Education Schedule
+https://www.scf.edu	a			NEW Degrees & Certificates
+https://www.scf.edu	a			Database Administrator
+https://www.scf.edu	a			Entrepreneurship
+https://www.scf.edu	a			Health Services Management
+https://www.scf.edu	a			Live Event Media Production
+https://www.scf.edu	a			Risk Management & Insurance Services
+https://www.scf.edu	a			Network Security
+https://www.scf.edu	a			Technology Project Management
+https://www.scf.edu	a			Web Development Specialist
+https://www.scf.edu	a			Admissions
+https://www.scf.edu	a			Request Information
+https://www.scf.edu	a			Apply Now
+https://www.scf.edu	a			Residency
+https://www.scf.edu	a			Opportunities to Visit SCF
+https://www.scf.edu	a			Financial Aid
+https://www.scf.edu	a			Tuition and Fees
+https://www.scf.edu	a			International Students
+https://www.scf.edu	a			Dual Enrollment/Early Admission
+https://www.scf.edu	a			Student Services
+https://www.scf.edu	a			Cashiering/Fee Payment
+https://www.scf.edu	a			Explore Area of Interest
+https://www.scf.edu	a			Office of the Registrar
+https://www.scf.edu	a			Advising Center
+https://www.scf.edu	a			Assessment and Testing
+https://www.scf.edu	a			The SCF Store
+https://www.scf.edu	a			Career Resource Center
+https://www.scf.edu	a			Disability Resource Center
+https://www.scf.edu	a			Veteran Services
+https://www.scf.edu	a			Transcripts
+https://www.scf.edu	a			Library
+https://www.scf.edu	span			Library Website
+https://www.scf.edu	a			Search Subject Guides
+https://www.scf.edu	a			Writing & Citing
+https://www.scf.edu	a			Frequently Asked Questions
+https://www.scf.edu	a			Ask A Librarian
+https://www.scf.edu	a			Contacts, Hours & Locations
+https://www.scf.edu	span			Faculty Services
+https://www.scf.edu	a			Campus Life
+https://www.scf.edu	a			Athletics
+https://www.scf.edu	a			Baseball
+https://www.scf.edu	a			Basketball
+https://www.scf.edu	a			Softball
+https://www.scf.edu	a			Tennis
+https://www.scf.edu	a			Volleyball
+https://www.scf.edu	a			Student Life
+https://www.scf.edu	a			Campus Ministry
+https://www.scf.edu	a			Food Service
+https://www.scf.edu	a			Performances and Exhibitions
+https://www.scf.edu	a			Family Heritage House Museum
+https://www.scf.edu	a			The Gallery at SCF
+https://www.scf.edu	a			Neel Performing Arts Center
+https://www.scf.edu	a			Music Performances
+https://www.scf.edu	a			Studio 84 Theatre Performances
+https://www.scf.edu	a			Public Safety
+https://www.scf.edu	a		br	Corporate & 
+https://www.scf.edu	a			Community
+https://www.scf.edu	a			Computer Classes
+https://www.scf.edu	a			Kids' Spring Break Camp
+https://www.scf.edu	a			Kids' Summer Spectrum
+https://www.scf.edu	a			Motorcycle Classes
+https://www.scf.edu	a			Noncredit Courses & Registration
+https://www.scf.edu	a			Online Classes
+https://www.scf.edu	a			Professional Development
+https://www.scf.edu	a			Traffic Safety Institute
+https://www.scf.edu	a			Workforce Solutions
+https://www.scf.edu	a		br	SCF Collegiate
+https://www.scf.edu	a			 School
+https://www.scf.edu	a			About SCF
+https://www.scf.edu	a			President
+https://www.scf.edu	a			Mission
+https://www.scf.edu	a			Board of Trustees
+https://www.scf.edu	a			Employment
+https://www.scf.edu	a			Staff Directory
+https://www.scf.edu	a			Locations and Maps
+https://www.scf.edu	a			Publications
+https://www.scf.edu	a			SCF en EspaÃ±ol
+https://www.scf.edu	a			SCF Foundation
+https://www.scf.edu	a			Consumer Information
+https://www.scf.edu	a			Administration
+https://www.scf.edu	a			Business and Auxiliary Services
+https://www.scf.edu	a			Central Services
+https://www.scf.edu	a			Communications and Marketing
+https://www.scf.edu	a			Facilities and Maintenance
+https://www.scf.edu	a			Facility Rental
+https://www.scf.edu	a			Financial Services
+https://www.scf.edu	a			Human Resources
+https://www.scf.edu	a			Information Technology Services
+https://www.scf.edu	a			Institutional Research
+https://www.scf.edu	a			Planning and Institutional Effectiveness
+https://www.scf.edu	a			Purchasing
+https://www.scf.edu	a			Resource Development
+https://www.scf.edu	a			Current Students
+https://www.scf.edu	a			Future Students
+https://www.scf.edu	a			Community & Friends
+https://www.scf.edu	a			Faculty & Staff
+https://www.scf.edu	a			College Catalog
+https://www.scf.edu	a			Class Schedules
+https://www.scf.edu	a			Apply Now to SC
+https://www.scf.edu	a			Previous
+https://www.scf.edu	a	a		Next
+https://www.scf.edu	h1			Featured at SCF
+https://www.scf.edu	h1		a	Current News 
+https://www.scf.edu	a			Rss Feed
+https://www.scf.edu	a			SCF Venice to hold Collegiate School Information Session Jan. 22
+https://www.scf.edu	span			State College of Florida Collegiate School (SCFCS) in Venice will host an information session for rising high school juniors in Sarasota County interested in enrolling at SCFCS-Venice for the 2020-2021 school year.
+https://www.scf.edu	span			January 09, 2020
+https://www.scf.edu	a			SCF Bradenton to Host Collegiate School Information Sessions
+https://www.scf.edu	span			State College of Florida Collegiate School (SCFCS)-Bradenton will host a series of information sessions for interested students for the 2020-2021 school year.
+https://www.scf.edu	a			SCF to Host Information Sessions on Nursing-RN Program
+https://www.scf.edu	span			State College of Florida, Manatee-Sarasota (SCF) will host 90-minute information sessions this spring regarding its Associate in Science in Nursing/Registered Nurse (RN) program.
+https://www.scf.edu	a			SCF Salutes 2019 CROP Graduates
+https://www.scf.edu	span			State College of Florida, Manatee-Sarasota (SCF) 2019 winter graduates included 11 students from the College Reach-Out Program (CROP) who are continuing their education at SCF, state universities or independent institutions.
+https://www.scf.edu	a	ul		View All News
+https://www.scf.edu	h1		a	Upcoming Events 
+https://www.scf.edu	a	ul		View All Events
+https://www.scf.edu	p			Get Connected
+https://www.scf.edu	a			Facebook
+https://www.scf.edu	a			Twitter
+https://www.scf.edu	a			Flicker
+https://www.scf.edu	a			Youtube
+https://www.scf.edu	a			Instagram
+https://www.scf.edu	p			Links & Resources
+https://www.scf.edu	a			Contact Us
+https://www.scf.edu	a			Give to SCF
+https://www.scf.edu	a			Employee Directory
+https://www.scf.edu	a			Emergency Procedures
+https://www.scf.edu	a			SCF Mobile
+https://www.scf.edu	a			Public Records
+https://www.scf.edu	p			Our Locations
+https://www.scf.edu	img			SCF Bradenton
+https://www.scf.edu	img			SCF Venice
+https://www.scf.edu	img			SCF Lakewood Ranch
+https://www.scf.edu	p			Â© 2019 State College of Florida, Manatee-Sarasota - All rights reserved
+https://www.scf.edu	a			Equal Opportunity/Title IX
+https://www.scf.edu	a			Copyright infringement
+https://www.scf.edu	p			No content past this sentence.
+http://www.scf.edu	a			Skip past main navigation to left column (if one exists)
+http://www.scf.edu	a	a		Skip to footer site map
+http://www.scf.edu	a			MY SCF
+http://www.scf.edu	a			Who's Next?
+http://www.scf.edu	a			Directory
+http://www.scf.edu	a			News
+http://www.scf.edu	a			Calendar
+http://www.scf.edu	a			Maps
+http://www.scf.edu	a			Academics
+http://www.scf.edu	a			Academic Departments
+http://www.scf.edu	a			Art, Design, Humanities
+http://www.scf.edu	a			Business & Technology
+http://www.scf.edu	a			Language & Literature
+http://www.scf.edu	a			Mathematics
+http://www.scf.edu	a			Music
+http://www.scf.edu	a			Natural Science
+http://www.scf.edu	a			Social & Behavioral Sciences
+http://www.scf.edu	a			Theatre
+http://www.scf.edu	a			Signature Programs
+http://www.scf.edu	a			Honors Program
+http://www.scf.edu	a			A.S. Programs and Certificates
+http://www.scf.edu	a			Accounting Technology
+http://www.scf.edu	a			Art
+http://www.scf.edu	a			Biotechnology
+http://www.scf.edu	a			Business
+http://www.scf.edu	a			Computer Science
+http://www.scf.edu	a			Construction Management
+http://www.scf.edu	a			Criminal Justice
+http://www.scf.edu	a			Dental Hygiene
+http://www.scf.edu	a			Digital Cinema/Photography
+http://www.scf.edu	a			Early Childhood Education
+http://www.scf.edu	a			Engineering Technology
+http://www.scf.edu	a			Business Entrepreneurship
+http://www.scf.edu	a			Graphic Design
+http://www.scf.edu	a			Nursing A.S.
+http://www.scf.edu	a			Occupational Therapy Assistant
+http://www.scf.edu	a			Paralegal/Legal Assisting
+http://www.scf.edu	a			Physical Therapist Assistant
+http://www.scf.edu	a			Radiography
+http://www.scf.edu	a			Teacher Certification
+http://www.scf.edu	a			Academic Calendar
+http://www.scf.edu	a			Class Schedule
+http://www.scf.edu	a			Catalog
+http://www.scf.edu	a			Associate Degree Programs
+http://www.scf.edu	a			Academic Degree Pathways
+http://www.scf.edu	a			Baccalaureate Programs
+http://www.scf.edu	a			Career & Technical Education
+http://www.scf.edu	a			Online Learning
+http://www.scf.edu	a			Fine Art Gallery
+http://www.scf.edu	a			Academic Resource Center
+http://www.scf.edu	a			Continuing Education Schedule
+http://www.scf.edu	a			NEW Degrees & Certificates
+http://www.scf.edu	a			Database Administrator
+http://www.scf.edu	a			Entrepreneurship
+http://www.scf.edu	a			Health Services Management
+http://www.scf.edu	a			Live Event Media Production
+http://www.scf.edu	a			Risk Management & Insurance Services
+http://www.scf.edu	a			Network Security
+http://www.scf.edu	a			Technology Project Management
+http://www.scf.edu	a			Web Development Specialist
+http://www.scf.edu	a			Admissions
+http://www.scf.edu	a			Request Information
+http://www.scf.edu	a			Apply Now
+http://www.scf.edu	a			Residency
+http://www.scf.edu	a			Opportunities to Visit SCF
+http://www.scf.edu	a			Financial Aid
+http://www.scf.edu	a			Tuition and Fees
+http://www.scf.edu	a			International Students
+http://www.scf.edu	a			Dual Enrollment/Early Admission
+http://www.scf.edu	a			Student Services
+http://www.scf.edu	a			Cashiering/Fee Payment
+http://www.scf.edu	a			Explore Area of Interest
+http://www.scf.edu	a			Office of the Registrar
+http://www.scf.edu	a			Advising Center
+http://www.scf.edu	a			Assessment and Testing
+http://www.scf.edu	a			The SCF Store
+http://www.scf.edu	a			Career Resource Center
+http://www.scf.edu	a			Disability Resource Center
+http://www.scf.edu	a			Veteran Services
+http://www.scf.edu	a			Transcripts
+http://www.scf.edu	a			Library
+http://www.scf.edu	span			Library Website
+http://www.scf.edu	a			Search Subject Guides
+http://www.scf.edu	a			Writing & Citing
+http://www.scf.edu	a			Frequently Asked Questions
+http://www.scf.edu	a			Ask A Librarian
+http://www.scf.edu	a			Contacts, Hours & Locations
+http://www.scf.edu	span			Faculty Services
+http://www.scf.edu	a			Campus Life
+http://www.scf.edu	a			Athletics
+http://www.scf.edu	a			Baseball
+http://www.scf.edu	a			Basketball
+http://www.scf.edu	a			Softball
+http://www.scf.edu	a			Tennis
+http://www.scf.edu	a			Volleyball
+http://www.scf.edu	a			Student Life
+http://www.scf.edu	a			Campus Ministry
+http://www.scf.edu	a			Food Service
+http://www.scf.edu	a			Performances and Exhibitions
+http://www.scf.edu	a			Family Heritage House Museum
+http://www.scf.edu	a			The Gallery at SCF
+http://www.scf.edu	a			Neel Performing Arts Center
+http://www.scf.edu	a			Music Performances
+http://www.scf.edu	a			Studio 84 Theatre Performances
+http://www.scf.edu	a			Public Safety
+http://www.scf.edu	a		br	Corporate & 
+http://www.scf.edu	a			Community
+http://www.scf.edu	a			Computer Classes
+http://www.scf.edu	a			Kids' Spring Break Camp
+http://www.scf.edu	a			Kids' Summer Spectrum
+http://www.scf.edu	a			Motorcycle Classes
+http://www.scf.edu	a			Noncredit Courses & Registration
+http://www.scf.edu	a			Online Classes
+http://www.scf.edu	a			Professional Development
+http://www.scf.edu	a			Traffic Safety Institute
+http://www.scf.edu	a			Workforce Solutions
+http://www.scf.edu	a		br	SCF Collegiate
+http://www.scf.edu	a			 School
+http://www.scf.edu	a			About SCF
+http://www.scf.edu	a			President
+http://www.scf.edu	a			Mission
+http://www.scf.edu	a			Board of Trustees
+http://www.scf.edu	a			Employment
+http://www.scf.edu	a			Staff Directory
+http://www.scf.edu	a			Locations and Maps
+http://www.scf.edu	a			Publications
+http://www.scf.edu	a			SCF en EspaÃ±ol
+http://www.scf.edu	a			SCF Foundation
+http://www.scf.edu	a			Consumer Information
+http://www.scf.edu	a			Administration
+http://www.scf.edu	a			Business and Auxiliary Services
+http://www.scf.edu	a			Central Services
+http://www.scf.edu	a			Communications and Marketing
+http://www.scf.edu	a			Facilities and Maintenance
+http://www.scf.edu	a			Facility Rental
+http://www.scf.edu	a			Financial Services
+http://www.scf.edu	a			Human Resources
+http://www.scf.edu	a			Information Technology Services
+http://www.scf.edu	a			Institutional Research
+http://www.scf.edu	a			Planning and Institutional Effectiveness
+http://www.scf.edu	a			Purchasing
+http://www.scf.edu	a			Resource Development
+http://www.scf.edu	a			Current Students
+http://www.scf.edu	a			Future Students
+http://www.scf.edu	a			Community & Friends
+http://www.scf.edu	a			Faculty & Staff
+http://www.scf.edu	a			College Catalog
+http://www.scf.edu	a			Class Schedules
+http://www.scf.edu	a			Apply Now to SC
+http://www.scf.edu	a			Previous
+http://www.scf.edu	a	a		Next
+http://www.scf.edu	h1			Featured at SCF
+http://www.scf.edu	h1		a	Current News 
+http://www.scf.edu	a			Rss Feed
+http://www.scf.edu	a			SCF Venice to hold Collegiate School Information Session Jan. 22
+http://www.scf.edu	span			State College of Florida Collegiate School (SCFCS) in Venice will host an information session for rising high school juniors in Sarasota County interested in enrolling at SCFCS-Venice for the 2020-2021 school year.
+http://www.scf.edu	span			January 09, 2020
+http://www.scf.edu	a			SCF Bradenton to Host Collegiate School Information Sessions
+http://www.scf.edu	span			State College of Florida Collegiate School (SCFCS)-Bradenton will host a series of information sessions for interested students for the 2020-2021 school year.
+http://www.scf.edu	a			SCF to Host Information Sessions on Nursing-RN Program
+http://www.scf.edu	span			State College of Florida, Manatee-Sarasota (SCF) will host 90-minute information sessions this spring regarding its Associate in Science in Nursing/Registered Nurse (RN) program.
+http://www.scf.edu	a			SCF Salutes 2019 CROP Graduates
+http://www.scf.edu	span			State College of Florida, Manatee-Sarasota (SCF) 2019 winter graduates included 11 students from the College Reach-Out Program (CROP) who are continuing their education at SCF, state universities or independent institutions.
+http://www.scf.edu	a	ul		View All News
+http://www.scf.edu	h1		a	Upcoming Events 
+http://www.scf.edu	a	ul		View All Events
+http://www.scf.edu	p			Get Connected
+http://www.scf.edu	a			Facebook
+http://www.scf.edu	a			Twitter
+http://www.scf.edu	a			Flicker
+http://www.scf.edu	a			Youtube
+http://www.scf.edu	a			Instagram
+http://www.scf.edu	p			Links & Resources
+http://www.scf.edu	a			Contact Us
+http://www.scf.edu	a			Give to SCF
+http://www.scf.edu	a			Employee Directory
+http://www.scf.edu	a			Emergency Procedures
+http://www.scf.edu	a			SCF Mobile
+http://www.scf.edu	a			Public Records
+http://www.scf.edu	p			Our Locations
+http://www.scf.edu	img			SCF Bradenton
+http://www.scf.edu	img			SCF Venice
+http://www.scf.edu	img			SCF Lakewood Ranch
+http://www.scf.edu	p			Â© 2019 State College of Florida, Manatee-Sarasota - All rights reserved
+http://www.scf.edu	a			Equal Opportunity/Title IX
+http://www.scf.edu	a			Copyright infringement
+http://www.scf.edu	p			No content past this sentence.

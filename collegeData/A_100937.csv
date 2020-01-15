@@ -1,0 +1,595 @@
+url	parent	ps	ns	text
+https://d2l.mu.edu	h1			D2L: Marquette University's Learning Management System
+https://d2l.mu.edu	p		a	Use CheckMarq username and password to login. Trouble logging in? You can 
+https://d2l.mu.edu	a			reset your password 
+https://d2l.mu.edu	p		a	or contact the 
+https://d2l.mu.edu	a			IT Services Help Desk
+https://d2l.mu.edu	label			Username
+https://d2l.mu.edu	label			Password
+https://d2l.mu.edu	button			Log In
+https://d2l.mu.edu	div			Warning
+https://d2l.mu.edu	div		strong	Either your browser does not support 
+https://d2l.mu.edu	strong			JavaScript
+https://d2l.mu.edu	div			 or it has been disabled through your browser's settings. The system requires a JavaScript enabled browser, and will be unable to perform the other system checks without JavaScript support.
+https://d2l.mu.edu	a			Learn more...
+https://myjob.mu.edu	h2			Marquette University
+https://myjob.mu.edu	h1			MyJob is Restricted
+https://myjob.mu.edu	a			Marquette.edu
+https://myjob.mu.edu	h1			MyJob is Restricted to Campus or Marquette VPN
+https://myjob.mu.edu	p		br	You have reached this page because MyJob is a campus-restricted resource. 
+https://myjob.mu.edu	strong	br		MyJob must be accessed from on-campus or via Marquette VPN.
+https://myjob.mu.edu	p		a	 Please visit the 
+https://myjob.mu.edu	a			Marquette VPN web page
+https://myjob.mu.edu	p		br	 to arrange for off-campus access. 
+https://myjob.mu.edu	p		a	If you have questions, contact the 
+https://myjob.mu.edu	a			IT Services Help Desk
+https://myjob.mu.edu	p			 at (414) 288-7799.
+https://myjob.mu.edu	p			 © 2017 Marquette University
+http://www.mu.edu	a	script		Skip to content
+http://www.mu.edu	a			marquette.edu
+http://www.mu.edu	a			Search
+http://www.mu.edu	a			Contacts
+http://www.mu.edu	a			A-Z Index
+http://www.mu.edu	a			Marquette University
+http://www.mu.edu	a			Be The Difference
+http://www.mu.edu	a		span	Admissions
+http://www.mu.edu	h2			Applying to Marquette
+http://www.mu.edu	p			Ready to apply? The links below will direct you to the online application pages for each college, school or special academic program.
+http://www.mu.edu	h3			ADMISSIONS FOR
+http://www.mu.edu	a			Undergraduate programs
+http://www.mu.edu	a			Graduate programs
+http://www.mu.edu	a			Graduate business
+http://www.mu.edu	a			Dentistry
+http://www.mu.edu	a			Law
+http://www.mu.edu	h3			SPECIAL ACADEMIC PROGRAMS
+http://www.mu.edu	a			Study abroad
+http://www.mu.edu	a			Study in Washington, D.C.
+http://www.mu.edu	a			Special academic programs
+http://www.mu.edu	a			International students
+http://www.mu.edu	a			Transfer students
+http://www.mu.edu	a			Summer studies
+http://www.mu.edu	h3			Visit Marquette
+http://www.mu.edu	p		a	Marquette University, an urban university located in Milwaukee, Wis., provides daily visits to prospective students. 
+http://www.mu.edu	a			Visit Marquette.
+http://www.mu.edu	h3			Watch students tell their stories
+http://www.mu.edu	p		a	What's it like to live, study and play at Marquette University? Nobody knows better than those doing just that. Watch students tell their stories in 
+http://www.mu.edu	a			My Marquette
+http://www.mu.edu	a		span	Academics
+http://www.mu.edu	h2			Academics at Marquette
+http://www.mu.edu	p			Marquette is routinely listed among the country's top universities, renowned for academic rigor, innovation and the achievements of its community of scholars.
+http://www.mu.edu	h3			Colleges and schools
+http://www.mu.edu	a			Klingler College of Arts and Sciences
+http://www.mu.edu	a			College of Business Administration
+http://www.mu.edu	a			Diederich College of Communication
+http://www.mu.edu	a			School of Dentistry
+http://www.mu.edu	a			College of Education
+http://www.mu.edu	a			Opus College of Engineering
+http://www.mu.edu	a			Graduate School
+http://www.mu.edu	a			Graduate School of Management
+http://www.mu.edu	a			College of Health Sciences
+http://www.mu.edu	a			Law School
+http://www.mu.edu	a			College of Nursing
+http://www.mu.edu	h3			Rankings
+http://www.mu.edu	p		em	Marquette ranks 84th in the 2020 edition of 
+http://www.mu.edu	em			America's Best Colleges
+http://www.mu.edu	p		em	, released by 
+http://www.mu.edu	em			U.S. News & World Report
+http://www.mu.edu	a			View more rankings.
+http://www.mu.edu	h3			Enhance your experience
+http://www.mu.edu	p		a	Whether it's through studying abroad, community service or student organizations, Marquette students take advantage of numerous programs to 
+http://www.mu.edu	a			add to their experience
+http://www.mu.edu	a		span	About
+http://www.mu.edu	h2			About Marquette
+http://www.mu.edu	p			Marquette is a Catholic and Jesuit university located in Milwaukee, Wis., that offers more than 80 majors in its nationally and internationally recognized colleges and schools.
+http://www.mu.edu	h3			About Marquette
+http://www.mu.edu	a			Tuition & costs
+http://www.mu.edu	a			Catholic & Jesuit
+http://www.mu.edu	a			Diversity at Marquette
+http://www.mu.edu	a			Our mission
+http://www.mu.edu	a			Our history
+http://www.mu.edu	a			Student demographics
+http://www.mu.edu	h3			Academics
+http://www.mu.edu	a			Colleges & schools
+http://www.mu.edu	a			Majors & programs
+http://www.mu.edu	a			How we measure the student experience
+http://www.mu.edu	a			Assessment
+http://www.mu.edu	a			Accreditation
+http://www.mu.edu	a			Rankings & recognition
+http://www.mu.edu	h3			Beyond the classroom
+http://www.mu.edu	a			Community Engagement
+http://www.mu.edu	a			Corporate Engagement
+http://www.mu.edu	a		span	Libraries
+http://www.mu.edu	h2			The libraries at Marquette
+http://www.mu.edu	p			The libraries at Marquette are a place where people, technology, and the printed word come together in a vibrant atmosphere that advances learning and discovery.
+http://www.mu.edu	h3			Raynor Memorial Libraries
+http://www.mu.edu	a			Raynor Memorial Libraries website
+http://www.mu.edu	a			Today's hours
+http://www.mu.edu	a			Brew @ the Bridge
+http://www.mu.edu	a			Service hours
+http://www.mu.edu	strong			Raynor Memorial information desk: 
+http://www.mu.edu	li			 (414) 288-7556
+http://www.mu.edu	h3			Law Library
+http://www.mu.edu	a			Ray & Kay Eckstein Law Library website
+http://www.mu.edu	a			Current semester hours
+http://www.mu.edu	a			Building hours
+http://www.mu.edu	a			Student services
+http://www.mu.edu	strong			Law information desk: 
+http://www.mu.edu	li			 (414) 288-7031
+http://www.mu.edu	h3			Collections and archives
+http://www.mu.edu	p			The Department of Special Collections and University Archives features university treasures, including the J.R.R. Tolkien Collection.
+http://www.mu.edu	a			University Archives
+http://www.mu.edu	a			Learn about the collections
+http://www.mu.edu	a			Search the collections
+http://www.mu.edu	a			Digitized collections
+http://www.mu.edu	a		span	Research
+http://www.mu.edu	h2			Research at Marquette
+http://www.mu.edu	p			Research at Marquette has a strong sense of purpose and action, whether through the extension of knowledge beyond existing boundaries, the development of solutions to the worldâs most pressing problems or the search for answers to lifeâs deepest questions.
+http://www.mu.edu	h3			Learn more
+http://www.mu.edu	a			Grants, awards & presentations
+http://www.mu.edu	a			Books by Marquette faculty
+http://www.mu.edu	a			Discover research at Marquette
+http://www.mu.edu	a			Centers & institutes
+http://www.mu.edu	a			Faculty awards
+http://www.mu.edu	a			Office of Research & Innovation
+http://www.mu.edu	a			Office of Research & Sponsored Programs
+http://www.mu.edu	a			Marquette experts
+http://www.mu.edu	em			DISCOVER
+http://www.mu.edu	h3			 research
+http://www.mu.edu	p		a	Every spring, 
+http://www.mu.edu	a			: Marquette University Research and Scholarship
+http://www.mu.edu	p			 showcases some of the most interesting research happening on and off campus.
+http://www.mu.edu	em			Compendium
+http://www.mu.edu	p		a	 is a compilation of Marquette University faculty research, scholarship and accomplishments. 
+http://www.mu.edu	a		em	View 
+http://www.mu.edu	a		span	Athletics
+http://www.mu.edu	h2			Athletics at Marquette
+http://www.mu.edu	p			The university's 16 varsity sports teams play in the BIG EAST Conference. Join us as we proudly say: We are Marquette!
+http://www.mu.edu	h3			Teams
+http://www.mu.edu	a			Men's basketball
+http://www.mu.edu	a			Women's basketball
+http://www.mu.edu	a			Cross country
+http://www.mu.edu	a			Men's golf
+http://www.mu.edu	a			Men's lacrosse
+http://www.mu.edu	a			Women's lacrosse
+http://www.mu.edu	a			Men's soccer
+http://www.mu.edu	a			Women's soccer
+http://www.mu.edu	a			Men's tennis
+http://www.mu.edu	a			Women's tennis
+http://www.mu.edu	a			Track & field
+http://www.mu.edu	a			Women's volleyball
+http://www.mu.edu	h3			Tickets
+http://www.mu.edu	p		a	The 
+http://www.mu.edu	a			Ticket Office
+http://www.mu.edu	p			 conducts ticketing for seven Golden Eagles' varsity sports: menâs and womenâs basketball, menâs and womenâs lacrosse, menâs and womenâs soccer and womenâs volleyball.
+http://www.mu.edu	h3			Spirit Shop
+http://www.mu.edu	p		a	The Spirit Shop features the most popular brands of attire for Marquette fans. 
+http://www.mu.edu	a			Shop on campus
+http://www.mu.edu	a			online
+http://www.mu.edu	a		span	Alumni
+http://www.mu.edu	h2			Marquette alumni
+http://www.mu.edu	p			Ring out ahoya with fellow alumni through the Marquette University Alumni Association, an organization of nearly 110,000 members worldwide.
+http://www.mu.edu	a			About MUAA
+http://www.mu.edu	a			Class notes and news
+http://www.mu.edu	a			Clubs & chapters
+http://www.mu.edu	a			Events & reunions
+http://www.mu.edu	a			Alumni Newsletter
+http://www.mu.edu	a			Networking
+http://www.mu.edu	a			Join the CIRCLES business networking program
+http://www.mu.edu	a			Connect with the MUAA group on LinkedIn
+http://www.mu.edu	em			Marquette Magazine
+http://www.mu.edu	p		a	 is the university's official quarterly alumni publication. 
+http://www.mu.edu	a			View latest issue.
+http://www.mu.edu	h3			Giving
+http://www.mu.edu	p		a	Provide critical scholarship aid through the Scholars Fund, support student-athlete scholarships through the Blue & Gold Fund or help strengthen academic priorities across campus through the Marquette Fund. 
+http://www.mu.edu	a			Give online today!
+http://www.mu.edu	h1			A Marquette education prepares students to Be The Difference.
+http://www.mu.edu	span		br	Top 100 Americaâs
+http://www.mu.edu	span			Best Colleges
+http://www.mu.edu	a	br	em	â 
+http://www.mu.edu	span		br	No. 6 in the nation
+http://www.mu.edu	span			for job placement
+http://www.mu.edu	a	br		â Zippia, U.S. Department of Education data
+http://www.mu.edu	span		br	A Catholic, Jesuit
+http://www.mu.edu	span			university
+http://www.mu.edu	a	br		in the heart of Milwaukee, Wisconsin.
+http://www.mu.edu	h2			Here since 1881
+http://www.mu.edu	h2			When you come to Marquette, youâll be challenged to push your boundaries, to lead and to serve, to open your heart and to hone your mind.
+http://www.mu.edu	h3			UNDERGRADUATE
+http://www.mu.edu	p			83 majors and 80 minors
+http://www.mu.edu	a			Explore Our Majors and Minors
+http://www.mu.edu	h3			GRADUATE
+http://www.mu.edu	p			90  certificate, masterâs and doctoral degree programs
+http://www.mu.edu	a			Discover Our Graduate Programs
+http://www.mu.edu	h3			ONLINE
+http://www.mu.edu	p			Online undergraduate and graduate programs
+http://www.mu.edu	a			Connect With Online Learning
+http://www.mu.edu	h3			Professional Programs in Health
+http://www.mu.edu	p			9 programs in professional health
+http://www.mu.edu	a			Examine Our Professional Health Programs
+http://www.mu.edu	h3			LAW
+http://www.mu.edu	p			17 practice areas
+http://www.mu.edu	a			Investigate Our Law Programs and Degrees
+http://www.mu.edu	h3			Graduate Business Degrees
+http://www.mu.edu	p			Nationally ranked MBA programs
+http://www.mu.edu	a			Review Our World-Class Master's Programs 
+http://www.mu.edu	p			Best Value
+http://www.mu.edu	strong			in private colleges
+http://www.mu.edu	p			14:1
+http://www.mu.edu	strong			student-to-faculty ratio
+http://www.mu.edu	strong			Average class size
+http://www.mu.edu	h2			When you leave, youâll be ready to change the world.
+http://www.mu.edu	span			WE ARE
+http://www.mu.edu	span	br		MARQUETTE
+http://www.mu.edu	a			80% of our students participate in service
+http://www.mu.edu	a			International students from 70 countries
+http://www.mu.edu	a			1,857 first-generation undergraduate students
+http://www.mu.edu	a			115,000 alumni around the world and growing
+http://www.mu.edu	h2			What happens after graduation?
+http://www.mu.edu	span			91%
+http://www.mu.edu	p		br	     of our alumni are
+http://www.mu.edu	span			employed
+http://www.mu.edu	p		br	     full time or in graduate school
+http://www.mu.edu	span			1 year after graduation.
+http://www.mu.edu	a			â Undergraduate Alumni Survey 2017
+http://www.mu.edu	span			93%
+http://www.mu.edu	p		br	      of students with
+http://www.mu.edu	span			full-time employment
+http://www.mu.edu	p		br	      said their job was
+http://www.mu.edu	span			related to their career goals.
+http://www.mu.edu	a			â Undergraduate First Destination Survey 2018
+http://www.mu.edu	span			96%
+http://www.mu.edu	p		br	      of our alumni are
+http://www.mu.edu	p		br	      full time
+http://www.mu.edu	span			10 years after graduation.
+http://www.mu.edu	a			â Zippia, U.S. Dept. of Education data
+http://www.mu.edu	h2			DANGEROUS DELIVERIES
+http://www.mu.edu	p		em	Marissa Evans, Comm â13, brings maternal health issues out of the shadows and into the national spotlight with her award-winning reporting at 
+http://www.mu.edu	em			The Texas Tribune
+http://www.mu.edu	button			Read Marissaâs story
+http://www.mu.edu	h2			SHELTER FROM THE STORM
+http://www.mu.edu	p			Neal Lofy, Arts â04, a police detective and FBI Unsung Hero Award winner, is committed to helping victims of human trafficking rebuild their lives.
+http://www.mu.edu	button			Read Nealâs story
+http://www.mu.edu	h2			As women and men for and with others, Marquette alumni are leaders in life who lift those around them.
+http://www.mu.edu	h2			THE GIFT OF SCHOLARSHIP AID
+http://www.mu.edu	button			GIVE TODAY
+http://www.mu.edu	h2			RESEARCH, SCHOLARSHIP AND INNOVATION
+http://www.mu.edu	h3			National recognition. Generous support. Expanded research impact.
+http://www.mu.edu	h4			Extended Reach
+http://www.mu.edu	p			Faculty win more top-tier NIH grants as Marquette launches initiatives to help them achieve at this level.
+http://www.mu.edu	button			Read about NIH grants
+http://www.mu.edu	h4			Mapping Memory
+http://www.mu.edu	p			Dr. Kristy Nielsonâs award-winning research uses MRI imaging to reveal early signs of dementia â and explores exercise to slow brain decline. 
+http://www.mu.edu	button			Read about Dr. Nielson
+http://www.mu.edu	h4			The Explorer Challenge
+http://www.mu.edu	p			3 years, 300 students, faculty, staff and community partners, 72 initiatives. They all add up to a better world, a stronger Milwaukee, a 45% return on investment and national accolades.
+http://www.mu.edu	button			Learn about the Explorer Challenge
+http://www.mu.edu	h4			Choosing the Peaceful Path
+http://www.mu.edu	p			A Marquette peace program helps Milwaukee teens manage conflicts that derail high school careers.
+http://www.mu.edu	button			Read about Peace Works
+http://www.mu.edu	h4			Immigration on Stage
+http://www.mu.edu	p			Sparked by his own journey, Dr. Jeffrey Coleman examines the role of African immigrants in Spanish theatre.
+http://www.mu.edu	button			Read about Dr. Coleman
+http://www.mu.edu	h2		a	Beyond the classroom: 
+http://www.mu.edu	a			Community engagement
+http://www.mu.edu	h2		a	 and 
+http://www.mu.edu	a			corporate partnerships
+http://www.mu.edu	span			$15.5 million
+http://www.mu.edu	p			The dollar amount of donated dental services that Marquette dentistry students provide annually to more than 17,000 patients through our Milwaukee clinics.
+http://www.mu.edu	span			85 
+http://www.mu.edu	p			Nonprofit organizations/schools in the greater Milwaukee area that have benefited from 168,000 hours of service provided by Burke Scholars since the program began 25 years ago. 
+http://www.mu.edu	span			$40 million
+http://www.mu.edu	p			Combined investment by Northwestern Mutual, Marquette University and the University of Wisconsin-Milwaukee to create Northwestern Mutual Data Science Institute.
+http://www.mu.edu	h2			SCALING WELLNESS IN MILWAUKEE
+http://www.mu.edu	p			This collaboration within the human services, health care, educational and criminal justice sectors that is bringing Wisconsin to the forefront of the trauma-informed care movement.
+http://www.mu.edu	button			Read about SWiM
+http://www.mu.edu	h2			THE PRESIDENT'S CHALLENGE
+http://www.mu.edu	p			Developed in partnership with the Johnson Controls Foundation, this initiative provides a $250,000, two-year grant for a proposal that seeks to change the trajectory of lives in our community.
+http://www.mu.edu	button			Read about the challenge
+http://www.mu.edu	h2		br	Land in Milwaukee.
+http://www.mu.edu	h2			See the world.
+http://www.mu.edu	p			More than 8,500 undergraduate students and 3,300 graduate and professional students come to Marquette from nearly every state and 70 countries. Our neighborhoods are loaded with ethnic restaurants, festivals and markets, cultural centers and dance clubs, churches, mosques and temples, and more â places where we go global. 
+http://www.mu.edu	h2			THEREâS ONLY ONE WAY TO GET HERE.
+http://www.mu.edu	button			Apply Today
+http://www.mu.edu	span			Location
+http://www.mu.edu	strong			Marquette University 
+http://www.mu.edu	a			1250 W. Wisconsin Ave. 
+http://www.mu.edu	br	a	br	         Milwaukee, WI 53233
+http://www.mu.edu	strong			Phone: 
+http://www.mu.edu	br			(800) 222-6544
+http://www.mu.edu	span			Key Resources
+http://www.mu.edu	a			Campus contacts
+http://www.mu.edu	a			Campus map
+http://www.mu.edu	a			Contact us
+http://www.mu.edu	a			Search marquette.edu
+http://www.mu.edu	a			eMarq
+http://www.mu.edu	a			CheckMarq
+http://www.mu.edu	a			D2L
+http://www.mu.edu	a			MyJob
+http://www.mu.edu	span			MARQUETTE A to Z
+http://www.mu.edu	a			Privacy Policy
+http://www.mu.edu	a			Legal Disclaimer
+http://www.mu.edu	a			Non-Discrimination Policy
+http://www.mu.edu	a			Accessible Technology
+http://www.mu.edu	p			 2020 Marquette University
+http://www.mu.edu/admissions	a	script		Skip to content
+http://www.mu.edu/admissions	a			marquette.edu
+http://www.mu.edu/admissions	a			Search
+http://www.mu.edu/admissions	a			Contacts
+http://www.mu.edu/admissions	a			A-Z Index
+http://www.mu.edu/admissions	a			Marquette University
+http://www.mu.edu/admissions	a			Admissions
+http://www.mu.edu/admissions	a		span	Admissions
+http://www.mu.edu/admissions	h2			Applying to Marquette
+http://www.mu.edu/admissions	p			Ready to apply? The links below will direct you to the online application pages for each college, school or special academic program.
+http://www.mu.edu/admissions	h3			ADMISSIONS FOR
+http://www.mu.edu/admissions	a			Undergraduate programs
+http://www.mu.edu/admissions	a			Graduate programs
+http://www.mu.edu/admissions	a			Graduate business
+http://www.mu.edu/admissions	a			Dentistry
+http://www.mu.edu/admissions	a			Law
+http://www.mu.edu/admissions	h3			SPECIAL ACADEMIC PROGRAMS
+http://www.mu.edu/admissions	a			Study abroad
+http://www.mu.edu/admissions	a			Study in Washington, D.C.
+http://www.mu.edu/admissions	a			Special academic programs
+http://www.mu.edu/admissions	a			International students
+http://www.mu.edu/admissions	a			Transfer students
+http://www.mu.edu/admissions	a			Summer studies
+http://www.mu.edu/admissions	h3			Visit Marquette
+http://www.mu.edu/admissions	p		a	Marquette University, an urban university located in Milwaukee, Wis., provides daily visits to prospective students. 
+http://www.mu.edu/admissions	a			Visit Marquette.
+http://www.mu.edu/admissions	h3			Watch students tell their stories
+http://www.mu.edu/admissions	p		a	What's it like to live, study and play at Marquette University? Nobody knows better than those doing just that. Watch students tell their stories in 
+http://www.mu.edu/admissions	a			My Marquette
+http://www.mu.edu/admissions	a		span	Academics
+http://www.mu.edu/admissions	h2			Academics at Marquette
+http://www.mu.edu/admissions	p			Marquette is routinely listed among the country's top universities, renowned for academic rigor, innovation and the achievements of its community of scholars.
+http://www.mu.edu/admissions	h3			Colleges and schools
+http://www.mu.edu/admissions	a			Klingler College of Arts and Sciences
+http://www.mu.edu/admissions	a			College of Business Administration
+http://www.mu.edu/admissions	a			Diederich College of Communication
+http://www.mu.edu/admissions	a			School of Dentistry
+http://www.mu.edu/admissions	a			College of Education
+http://www.mu.edu/admissions	a			Opus College of Engineering
+http://www.mu.edu/admissions	a			Graduate School
+http://www.mu.edu/admissions	a			Graduate School of Management
+http://www.mu.edu/admissions	a			College of Health Sciences
+http://www.mu.edu/admissions	a			Law School
+http://www.mu.edu/admissions	a			College of Nursing
+http://www.mu.edu/admissions	h3			Rankings
+http://www.mu.edu/admissions	p		em	Marquette ranks 84th in the 2020 edition of 
+http://www.mu.edu/admissions	em			America's Best Colleges
+http://www.mu.edu/admissions	p		em	, released by 
+http://www.mu.edu/admissions	em			U.S. News & World Report
+http://www.mu.edu/admissions	a			View more rankings.
+http://www.mu.edu/admissions	h3			Enhance your experience
+http://www.mu.edu/admissions	p		a	Whether it's through studying abroad, community service or student organizations, Marquette students take advantage of numerous programs to 
+http://www.mu.edu/admissions	a			add to their experience
+http://www.mu.edu/admissions	a		span	About
+http://www.mu.edu/admissions	h2			About Marquette
+http://www.mu.edu/admissions	p			Marquette is a Catholic and Jesuit university located in Milwaukee, Wis., that offers more than 80 majors in its nationally and internationally recognized colleges and schools.
+http://www.mu.edu/admissions	h3			About Marquette
+http://www.mu.edu/admissions	a			Tuition & costs
+http://www.mu.edu/admissions	a			Catholic & Jesuit
+http://www.mu.edu/admissions	a			Diversity at Marquette
+http://www.mu.edu/admissions	a			Our mission
+http://www.mu.edu/admissions	a			Our history
+http://www.mu.edu/admissions	a			Student demographics
+http://www.mu.edu/admissions	h3			Academics
+http://www.mu.edu/admissions	a			Colleges & schools
+http://www.mu.edu/admissions	a			Majors & programs
+http://www.mu.edu/admissions	a			How we measure the student experience
+http://www.mu.edu/admissions	a			Assessment
+http://www.mu.edu/admissions	a			Accreditation
+http://www.mu.edu/admissions	a			Rankings & recognition
+http://www.mu.edu/admissions	h3			Beyond the classroom
+http://www.mu.edu/admissions	a			Community Engagement
+http://www.mu.edu/admissions	a			Corporate Engagement
+http://www.mu.edu/admissions	a		span	Libraries
+http://www.mu.edu/admissions	h2			The libraries at Marquette
+http://www.mu.edu/admissions	p			The libraries at Marquette are a place where people, technology, and the printed word come together in a vibrant atmosphere that advances learning and discovery.
+http://www.mu.edu/admissions	h3			Raynor Memorial Libraries
+http://www.mu.edu/admissions	a			Raynor Memorial Libraries website
+http://www.mu.edu/admissions	a			Today's hours
+http://www.mu.edu/admissions	a			Brew @ the Bridge
+http://www.mu.edu/admissions	a			Service hours
+http://www.mu.edu/admissions	strong			Raynor Memorial information desk: 
+http://www.mu.edu/admissions	li			 (414) 288-7556
+http://www.mu.edu/admissions	h3			Law Library
+http://www.mu.edu/admissions	a			Ray & Kay Eckstein Law Library website
+http://www.mu.edu/admissions	a			Current semester hours
+http://www.mu.edu/admissions	a			Building hours
+http://www.mu.edu/admissions	a			Student services
+http://www.mu.edu/admissions	strong			Law information desk: 
+http://www.mu.edu/admissions	li			 (414) 288-7031
+http://www.mu.edu/admissions	h3			Collections and archives
+http://www.mu.edu/admissions	p			The Department of Special Collections and University Archives features university treasures, including the J.R.R. Tolkien Collection.
+http://www.mu.edu/admissions	a			University Archives
+http://www.mu.edu/admissions	a			Learn about the collections
+http://www.mu.edu/admissions	a			Search the collections
+http://www.mu.edu/admissions	a			Digitized collections
+http://www.mu.edu/admissions	a		span	Research
+http://www.mu.edu/admissions	h2			Research at Marquette
+http://www.mu.edu/admissions	p			Research at Marquette has a strong sense of purpose and action, whether through the extension of knowledge beyond existing boundaries, the development of solutions to the worldâs most pressing problems or the search for answers to lifeâs deepest questions.
+http://www.mu.edu/admissions	h3			Learn more
+http://www.mu.edu/admissions	a			Grants, awards & presentations
+http://www.mu.edu/admissions	a			Books by Marquette faculty
+http://www.mu.edu/admissions	a			Discover research at Marquette
+http://www.mu.edu/admissions	a			Centers & institutes
+http://www.mu.edu/admissions	a			Faculty awards
+http://www.mu.edu/admissions	a			Office of Research & Innovation
+http://www.mu.edu/admissions	a			Office of Research & Sponsored Programs
+http://www.mu.edu/admissions	a			Marquette experts
+http://www.mu.edu/admissions	em			DISCOVER
+http://www.mu.edu/admissions	h3			 research
+http://www.mu.edu/admissions	p		a	Every spring, 
+http://www.mu.edu/admissions	a			: Marquette University Research and Scholarship
+http://www.mu.edu/admissions	p			 showcases some of the most interesting research happening on and off campus.
+http://www.mu.edu/admissions	em			Compendium
+http://www.mu.edu/admissions	p		a	 is a compilation of Marquette University faculty research, scholarship and accomplishments. 
+http://www.mu.edu/admissions	a		em	View 
+http://www.mu.edu/admissions	a		span	Athletics
+http://www.mu.edu/admissions	h2			Athletics at Marquette
+http://www.mu.edu/admissions	p			The university's 16 varsity sports teams play in the BIG EAST Conference. Join us as we proudly say: We are Marquette!
+http://www.mu.edu/admissions	h3			Teams
+http://www.mu.edu/admissions	a			Men's basketball
+http://www.mu.edu/admissions	a			Women's basketball
+http://www.mu.edu/admissions	a			Cross country
+http://www.mu.edu/admissions	a			Men's golf
+http://www.mu.edu/admissions	a			Men's lacrosse
+http://www.mu.edu/admissions	a			Women's lacrosse
+http://www.mu.edu/admissions	a			Men's soccer
+http://www.mu.edu/admissions	a			Women's soccer
+http://www.mu.edu/admissions	a			Men's tennis
+http://www.mu.edu/admissions	a			Women's tennis
+http://www.mu.edu/admissions	a			Track & field
+http://www.mu.edu/admissions	a			Women's volleyball
+http://www.mu.edu/admissions	h3			Tickets
+http://www.mu.edu/admissions	p		a	The 
+http://www.mu.edu/admissions	a			Ticket Office
+http://www.mu.edu/admissions	p			 conducts ticketing for seven Golden Eagles' varsity sports: menâs and womenâs basketball, menâs and womenâs lacrosse, menâs and womenâs soccer and womenâs volleyball.
+http://www.mu.edu/admissions	h3			Spirit Shop
+http://www.mu.edu/admissions	p		a	The Spirit Shop features the most popular brands of attire for Marquette fans. 
+http://www.mu.edu/admissions	a			Shop on campus
+http://www.mu.edu/admissions	a			online
+http://www.mu.edu/admissions	a		span	Alumni
+http://www.mu.edu/admissions	h2			Marquette alumni
+http://www.mu.edu/admissions	p			Ring out ahoya with fellow alumni through the Marquette University Alumni Association, an organization of nearly 110,000 members worldwide.
+http://www.mu.edu/admissions	a			About MUAA
+http://www.mu.edu/admissions	a			Class notes and news
+http://www.mu.edu/admissions	a			Clubs & chapters
+http://www.mu.edu/admissions	a			Events & reunions
+http://www.mu.edu/admissions	a			Alumni Newsletter
+http://www.mu.edu/admissions	a			Networking
+http://www.mu.edu/admissions	a			Join the CIRCLES business networking program
+http://www.mu.edu/admissions	a			Connect with the MUAA group on LinkedIn
+http://www.mu.edu/admissions	em			Marquette Magazine
+http://www.mu.edu/admissions	p		a	 is the university's official quarterly alumni publication. 
+http://www.mu.edu/admissions	a			View latest issue.
+http://www.mu.edu/admissions	h3			Giving
+http://www.mu.edu/admissions	p		a	Provide critical scholarship aid through the Scholars Fund, support student-athlete scholarships through the Blue & Gold Fund or help strengthen academic priorities across campus through the Marquette Fund. 
+http://www.mu.edu/admissions	a			Give online today!
+http://www.mu.edu/admissions	p			Marquette University's 11 colleges and schools deliver nationally recognized programs for undergraduates, graduate and professional students, and working professionals. For prospective undergraduate students, Marquette offers 83 majors and 80 minors, as well as pre-professional programs in dentistry, law and medicine. For postgraduate students, Marquette offers 66 doctoral and master's degree programs, 18 graduate certificate programs, and a School of Dentistry and Law School.
+http://www.mu.edu/admissions	h2			Learn more about admissions for
+http://www.mu.edu/admissions	a			Undergraduate studies
+http://www.mu.edu/admissions	a			Graduate studies
+http://www.mu.edu/admissions	a			Graduate business studies
+http://www.mu.edu/admissions	h3			Open houses
+http://www.mu.edu/admissions	p		a	Marquette conducts several open houses throughout the year. 
+http://www.mu.edu/admissions	a			Check our schedule
+http://www.mu.edu/admissions	p			 to find a session that works for you.
+http://www.mu.edu/admissions	h3			Information sessions
+http://www.mu.edu/admissions	p		a	Beyond open houses, Marquette offers information sessions for specific programs and departments. 
+http://www.mu.edu/admissions	a			Check the schedule
+http://www.mu.edu/admissions	p			 for online and offline sessions.
+http://www.mu.edu/admissions	h3			Marquette in your area
+http://www.mu.edu/admissions	p		a	Can't make it to campus? From recruiting visits to alumni events to outreach programs, Marquette is active around the country and 
+http://www.mu.edu/admissions	a			may be in your area soon.
+http://www.mu.edu/admissions	h2			Visit Marquette
+http://www.mu.edu/admissions	p			Marquette provides daily visits to prospective students. To schedule a visit, contact the admissions office for your respective program:
+http://www.mu.edu/admissions	a			Undergraduate students
+http://www.mu.edu/admissions	a			Graduate students
+http://www.mu.edu/admissions	a			Business graduate students
+http://www.mu.edu/admissions	a			Law students
+http://www.mu.edu/admissions	a			Dental students
+http://www.mu.edu/admissions	h2			Explore Marquette
+http://www.mu.edu/admissions	h2			PROBLEM WITH THIS WEBPAGE?
+http://www.mu.edu/admissions	a			Report an accessibility problem
+http://www.mu.edu/admissions	p		a	To report another problem, please contact 
+http://www.mu.edu/admissions	a			jan.harwig@marquette.edu
+http://www.mu.edu/admissions	a			Learn about Marquette
+http://www.mu.edu/admissions	span			Location
+http://www.mu.edu/admissions	strong			Marquette University 
+http://www.mu.edu/admissions	a			1250 W. Wisconsin Ave. 
+http://www.mu.edu/admissions	br	a	br	         Milwaukee, WI 53233
+http://www.mu.edu/admissions	strong			Phone: 
+http://www.mu.edu/admissions	br			(800) 222-6544
+http://www.mu.edu/admissions	span			Key Resources
+http://www.mu.edu/admissions	a			Campus contacts
+http://www.mu.edu/admissions	a			Campus map
+http://www.mu.edu/admissions	a			Contact us
+http://www.mu.edu/admissions	a			Search marquette.edu
+http://www.mu.edu/admissions	a			eMarq
+http://www.mu.edu/admissions	a			CheckMarq
+http://www.mu.edu/admissions	a			D2L
+http://www.mu.edu/admissions	a			MyJob
+http://www.mu.edu/admissions	span			MARQUETTE A to Z
+http://www.mu.edu/admissions	a			Privacy Policy
+http://www.mu.edu/admissions	a			Legal Disclaimer
+http://www.mu.edu/admissions	a			Non-Discrimination Policy
+http://www.mu.edu/admissions	a			Accessible Technology
+http://www.mu.edu/admissions	p			 2020 Marquette University
+http://www.mu.edu/oie	a	script		Skip to content
+http://www.mu.edu/oie	a			marquette.edu
+http://www.mu.edu/oie	a			Search
+http://www.mu.edu/oie	a			Contacts
+http://www.mu.edu/oie	a			A-Z Index
+http://www.mu.edu/oie	a			Marquette University
+http://www.mu.edu/oie	a			Office of International Education
+http://www.mu.edu/oie	a		span	International Students
+http://www.mu.edu/oie	a			Prospective undergraduates 
+http://www.mu.edu/oie	a			Prospective graduate students
+http://www.mu.edu/oie	a			Admitted students
+http://www.mu.edu/oie	a			Current students
+http://www.mu.edu/oie	a			Alumni
+http://www.mu.edu/oie	a			Study Abroad
+http://www.mu.edu/oie	a			Partnerships and Resources
+http://www.mu.edu/oie	a			Contact
+http://www.mu.edu/oie	h2			A World of Difference
+http://www.mu.edu/oie	p			OIE works to promote the internationalization of Marquette University by recruiting and advising international students and scholars, developing vibrant partnerships with international institutions, providing innovative study abroad opportunities, and offering dynamic instruction in academic English language skills.
+http://www.mu.edu/oie	a			International Students
+http://www.mu.edu/oie	a			International Partnerships & Faculty Resources
+http://www.mu.edu/oie	a			English as a Second Language Program
+http://www.mu.edu/oie	h2			News and Events
+http://www.mu.edu/oie	strong			Read our latest Marquette Global newsletter!
+http://www.mu.edu/oie	a			Attend our Spring 2020 Study Abroad Fair
+http://www.mu.edu/oie	a			Wings Scholarship - only for summer & fall 2020!
+http://www.mu.edu/oie	strong			Marquette is on the road! Visit us at a college fair in your area
+http://www.mu.edu/oie	strong			See what global leadership in Jesuit higher education means in this new video from the International Association of Jesuit Universities (IAJU)
+http://www.mu.edu/oie	strong			Read about the first Marquette student to study abroad! Mary Jeanne Bowen traveled to Ireland in 1958.
+http://www.mu.edu/oie	strong			Watch the student commencement address given by Ben Zellmer, MU â18, an alumnus of Marquette's South Africa Service Learning Program
+http://www.mu.edu/oie	strong			Study Abroad 101, Fridays at 3 p.m.
+http://www.mu.edu/oie	strong			Follow study abroad students on the MU Global Tumblr blog
+http://www.mu.edu/oie	h2			Quick Links
+http://www.mu.edu/oie	h2			About OIE
+http://www.mu.edu/oie	a			Our Mission
+http://www.mu.edu/oie	a			Director's Welcome
+http://www.mu.edu/oie	a			Staff Directory
+http://www.mu.edu/oie	a			Contact Us
+http://www.mu.edu/oie	h2			Resources
+http://www.mu.edu/oie	a			Global Resources Database
+http://www.mu.edu/oie	a			Marquette Global Newsletter
+http://www.mu.edu/oie	a			Scholarships & Conferences
+http://www.mu.edu/oie	li		a	Going Global: International Job Search Database (
+http://www.mu.edu/oie	a			access directly on-campus
+http://www.mu.edu/oie	a			off-campus through Handshake
+http://www.mu.edu/oie	a			Instructing Global Learners Library Guide
+http://www.mu.edu/oie	a			Multi-faith Calendar of Religious Observances
+http://www.mu.edu/oie	h2			OIE Services
+http://www.mu.edu/oie	a			Faculty Resources
+http://www.mu.edu/oie	a			English as a Second Language
+http://www.mu.edu/oie	a			OIE Program Center
+http://www.mu.edu/oie	h2			Problem with this Webpage?
+http://www.mu.edu/oie	strong			Report an accessibility problem
+http://www.mu.edu/oie	p		a	To report another problem, please contact 
+http://www.mu.edu/oie	a			world@marquette.edu
+http://www.mu.edu/oie	span			Location
+http://www.mu.edu/oie	strong			Marquette University 
+http://www.mu.edu/oie	a			Holthusen Hall, Fourth Floor
+http://www.mu.edu/oie	br	a	br	         Milwaukee, WI 53233
+http://www.mu.edu/oie	strong			Phone: 
+http://www.mu.edu/oie	br			(414) 288-7289
+http://www.mu.edu/oie	span			Key Resources
+http://www.mu.edu/oie	a			Campus contacts
+http://www.mu.edu/oie	a			Campus map
+http://www.mu.edu/oie	a			Contact us
+http://www.mu.edu/oie	a			Search marquette.edu
+http://www.mu.edu/oie	a			eMarq
+http://www.mu.edu/oie	a			CheckMarq
+http://www.mu.edu/oie	a			D2L
+http://www.mu.edu/oie	a			MyJob
+http://www.mu.edu/oie	span			MARQUETTE A to Z
+http://www.mu.edu/oie	a			Privacy Policy
+http://www.mu.edu/oie	a			Legal Disclaimer
+http://www.mu.edu/oie	a			Non-Discrimination Policy
+http://www.mu.edu/oie	a			Accessible Technology
+http://www.mu.edu/oie	p			 2020 Marquette University
