@@ -1,0 +1,32 @@
+Criteria,Values
+GPA, 3.5
+SAT Composite, 1100
+ACT, 22
+Enrollment," 0 - 6,440"
+Tuition and Fees," < $0 - $26,000"
+My Fit,School Name,SAT Math,SAT Reading,ACT,Avg. High School GPA
+87,California State University--San Bernardino,N/A,N/A,N/A,3.3
+87,California State University--Stanislaus,495,507,19,3.3
+85,California State University--Fresno,506,518,19,3.5
+85,Mount Saint Mary's University,500,520,19,3.4
+84,California State University--Los Angeles,492,496,18,3.2
+84,Saint Peter's University,514,519,20,3.3
+84,Eastern Illinois University,507,525,21,3.2
+84,Wesleyan College,494,531,20,3.4
+83,Kean University,495,497,20,3.0
+83,Neumann University,498,506,19,3.1
+83,North Carolina Central University,480,490,18,3.2
+83,California State University--East Bay,495,499,18,3.2
+83,Felician University,498,500,18,3.2
+83,Caldwell University,530,535,20,3.3
+83,Claflin University,470,480,19,3.2
+83,Robert Morris University,N/A,N/A,18,2.8
+83,California State University--Dominguez Hills,473,482,17,3.2
+83,Cardinal Stritch University,494,488,20,3.1
+83,The Sage Colleges,517,521,20,3.2
+83,Columbia International University,511,532,21,3.4
+82,Gwynedd Mercy University,512,517,21,3.2
+82,Lincoln University,466,476,18,2.9
+82,Chestnut Hill College,513,522,18,3.1
+82,California State University--Northridge,520,520,19,3.4
+82,Gallaudet University,N/A,N/A,18,3.2
